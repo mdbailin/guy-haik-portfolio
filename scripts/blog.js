@@ -10,47 +10,13 @@ async function initBlogPage() {
   const filterTag = params.get("tag");
 
   // Customize header based on tag
-  const headerConfig = {
-    'education': {
-      eyebrow: 'Classroom Insights',
-      title: 'Math in Classroom',
-      description: 'Strategies, insights, and best practices for teaching mathematics effectively at all levels.'
-    },
-    'research': {
-      eyebrow: 'Exploring Mathematics',
-      title: 'Math for All Seasons',
-      description: 'Making complex ideas accessible and engaging. Exploring the beauty of mathematics along with historical notes.'
-    },
-    'communication': {
-      eyebrow: 'Opinion & Commentary',
-      title: 'Opinion',
-      description: 'In other words, blogging, blogging and blogging!!'
-    }
-  };
-
-  const categories = [
-    { tag: 'education', label: '📚 Math in Classroom' },
-    { tag: 'research', label: '🔬 Math for All Seasons' },
-    { tag: 'communication', label: '💭 Opinion' }
-  ];
-
-  const navHtml = `
-    <div class="category-nav">
-      ${categories.map(cat => `
-        <a href="blog.html?tag=${cat.tag}" class="category-btn ${filterTag === cat.tag ? 'active' : ''}">
-          ${cat.label}
-        </a>
-      `).join('')}
-    </div>
-  `;
-
   const defaultConfig = {
-    eyebrow: 'Blog',
-    title: 'Writing and notes',
-    description: 'Essays, project reflections, and short-form research writing.'
+    eyebrow: 'Notes',
+    title: 'Ideas in progress',
+    description: 'Perspectives, lessons, and useful questions from Guy.'
   };
 
-  const config = headerConfig[filterTag] || defaultConfig;
+  const config = defaultConfig;
 
   const eyebrowEl = document.getElementById('dynamic-eyebrow');
   const titleEl = document.getElementById('dynamic-title');
@@ -60,23 +26,10 @@ async function initBlogPage() {
   if (titleEl) titleEl.textContent = config.title;
   if (descEl) descEl.textContent = config.description;
   
-  document.title = `${config.title} | Melissa Christensen`;
-
-  const pageIntro = document.querySelector('.page-intro');
-  if (pageIntro && !document.querySelector('.category-nav')) {
-    pageIntro.insertAdjacentHTML('afterend', navHtml);
-  }
+  document.title = `${config.title} | Guy Haik`;
 
   try {
     let posts = await loadPostIndex();
-    
-    if (filterTag) {
-      posts = posts.filter(post => 
-        post.tags && post.tags.some(tag => 
-          tag === `cat-${filterTag}`
-        )
-      );
-    }
     
     if (posts.length === 0) {
       blogList.innerHTML = '<p style="text-align:center; padding:2rem; color: var(--muted);">No posts found in this category yet. Check back soon!</p>';

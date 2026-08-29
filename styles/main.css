@@ -331,6 +331,44 @@ header.header {
   display: block;
 }
 
+.monogram {
+  display: grid;
+  min-height: 380px;
+  place-items: center;
+  color: #fff;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(5rem, 12vw, 9rem);
+  font-weight: 700;
+  letter-spacing: -0.08em;
+  background: radial-gradient(circle at 30% 25%, #36aef8, transparent 35%), linear-gradient(135deg, #102b43, #412260);
+}
+
+.booking-page {
+  display: grid;
+  min-height: 100vh;
+  place-items: center;
+  padding: calc(var(--navbar-height) + 3rem) 1.5rem 4rem;
+}
+
+.booking-card {
+  width: min(100%, 680px);
+  padding: clamp(2rem, 5vw, 4rem);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.booking-card h1 {
+  margin: 0.25rem 0 1rem;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(2.5rem, 6vw, 4rem);
+}
+
+.booking-card p { color: var(--muted); }
+.booking-note { margin-top: 1.5rem; font-size: 0.95rem; }
+
 /* ============================================
    EXPERIENCE SECTION
    ============================================ */

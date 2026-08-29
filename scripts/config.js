@@ -1,19 +1,28 @@
 const SITE_CONFIG = {
   site: {
-    title: "Melissa Christensen | Writing and Teaching",
+    title: "Guy Haik | Portfolio",
     headerTitle: "",
     subtitle: "",
-    description: "Writing, teaching resources, articles, and reflections by Melissa Christensen.",
+    description: "The portfolio and notes of Guy Haik.",
   },
   profile: {
-    name: "Melissa Christensen",
-    role: "Writing, Teaching, and Reflections",
+    name: "Guy Haik",
+    role: "Builder, operator, and thoughtful collaborator",
     summary:
-      "Welcome to a space for writing, teaching resources, and reflections for students, colleagues, and lifelong learners.",
+      "A home for Guy's work, ideas, and the conversations that lead to meaningful progress.",
+  },
+  links: {
+    resume: "Guy%20Haik%20CV.pdf",
+    // Paste the public Google Appointment Schedule booking-page URL here.
+    // Google Calendar sends confirmations to both the guest and Guy automatically.
+    booking: "",
+    email: "",
+    linkedin: "",
+    x: "",
   },
   github: {
-    owner: "mdbailin",
-    repo: "mc_portfolio",
+    owner: "",
+    repo: "guy-haik-portfolio",
     branch: "main",
     contentDir: "content/posts",
   },

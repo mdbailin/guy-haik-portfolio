@@ -106,6 +106,7 @@ export function initSite(activePage) {
         <li><a href="#experience" data-scroll="experience">Experience</a></li>
         <li><a href="#articles" data-scroll="articles">Articles</a></li>
         <li><a href="videos.html">Videos</a></li>
+        <li><a href="booking.html">Book</a></li>
         <li><a href="#contact" data-scroll="contact">Contact</a></li>
       `;
     } else {
@@ -115,16 +116,17 @@ export function initSite(activePage) {
         <li><a href="index.html#experience">Experience</a></li>
         <li><a href="index.html#articles">Articles</a></li>
         <li><a href="videos.html">Videos</a></li>
+        <li><a href="booking.html">Book</a></li>
         <li><a href="index.html#contact">Contact</a></li>
       `;
     }
     
     header.innerHTML = `
-      <a class="logo" href="index.html">Melissa Christensen</a>
+      <a class="logo" href="index.html">${SITE_CONFIG.profile.name}</a>
       <ul class="nav-links">
         ${navLinksHtml}
       </ul>
-      <a class="visit-btn" href="resume.pdf" download>Resume</a>
+      <a class="visit-btn" href="${SITE_CONFIG.links.resume}" download>Download CV</a>
       <i class="fa-solid fa-bars" id="menu-icon"></i>
     `;
     
@@ -140,10 +142,25 @@ export function initSite(activePage) {
   if (footer) {
     footer.className = "site-footer";
     footer.innerHTML = `
-      <p>Melissa Christensen</p>
-      <p><a class="footer-link" href="resume.pdf" download>Resume PDF</a></p>
+      <p>${SITE_CONFIG.profile.name}</p>
+      <p><a class="footer-link" href="${SITE_CONFIG.links.resume}" download>Download CV</a></p>
     `;
   }
 
   bindProfileContent();
+
+  [
+    ["[data-email-link]", SITE_CONFIG.links.email, "mailto:"],
+    ["[data-linkedin-link]", SITE_CONFIG.links.linkedin, ""],
+  ].forEach(([selector, value, prefix]) => {
+    document.querySelectorAll(selector).forEach((link) => {
+      if (!value) {
+        link.closest(".contact-card")?.remove();
+        return;
+      }
+      link.href = `${prefix}${value}`;
+      link.target = "_blank";
+      link.rel = "noreferrer";
+    });
+  });
 }

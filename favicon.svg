@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="favicon-title">
-  <title id="favicon-title">Melissa Christensen favicon</title>
+  <title id="favicon-title">Guy Haik favicon</title>
   <defs>
     <linearGradient id="favicon-bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#183a5a" />
@@ -9,7 +9,7 @@
   <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#favicon-bg)" />
   <rect x="7" y="7" width="50" height="50" rx="11" fill="none" stroke="#d9b46b" stroke-width="2" />
   <path
-    d="M16 46V18h7.7L32 36.8 40.3 18H48v28h-5.6V27.2L34.2 46h-4.4l-8.2-18.8V46Z"
+    d="M16 18h5.8v11.1h12.4V18H40v28h-5.8V34.2H21.8V46H16Zm28.8 0H50v28h-5.2Z"
     fill="#f6eddc"
   />
 </svg>

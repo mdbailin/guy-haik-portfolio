@@ -1,8 +1,8 @@
 {
-  "name": "mc_portfolio",
+  "name": "guy-haik-portfolio",
   "private": true,
   "version": "1.0.0",
-  "description": "Melissa Christensen portfolio site with TinaCMS-backed blog authoring.",
+  "description": "Guy Haik portfolio site with optional TinaCMS-backed notes.",
   "scripts": {
     "build:posts": "node scripts/generate-posts-json.mjs",
     "tinacms": "tinacms",

@@ -1,114 +1,27 @@
-# Melissa Christensen Portfolio
+# Guy Haik Portfolio
 
-Static academic portfolio designed for GitHub Pages with TinaCMS-backed blog authoring.
+A static portfolio for Guy Haik, ready to deploy on GitHub Pages.
 
-## Included pages
+## Set up Guy's links
 
-- `index.html`: home page with Melissa's profile photo and resume download.
-- `videos.html`: latest uploads from a configured YouTube channel.
-- `blog.html`: public blog index.
-- `post.html`: individual post reader.
-- `admin/`: TinaCMS admin app generated during deployment when Tina secrets are configured.
-- `content/posts.json`: generated blog index used by the public site.
+Open `scripts/config.js` and add the public values for `booking`, `email`, `linkedin`, and (optionally) YouTube. The résumé link is already set to `Guy Haik CV.pdf`.
 
-## GitHub Pages deployment
+### Google Calendar booking
 
-The included `.github/workflows/deploy-pages.yml` workflow builds the published blog index, builds the TinaCMS admin app, and deploys the site to GitHub Pages.
+1. In Guy's Google Calendar, create an **Appointment schedule** and set its availability, duration, location, and invitee questions.
+2. In the schedule settings, enable email confirmations and calendar invitations for booked appointments.
+3. Copy the schedule's public booking-page URL into `links.booking` in `scripts/config.js`.
 
-In GitHub, open `Settings > Pages` and set the source to `GitHub Actions`.
-
-If the repo name changes, update `scripts/config.js`:
-
-```js
-github: {
-  owner: "mdbailin",
-  repo: "mc_portfolio",
-  branch: "main",
-  contentDir: "content/posts",
-}
-```
-
-## YouTube feed setup
-
-Add Melissa's YouTube channel details in `scripts/config.js`:
-
-```js
-youtube: {
-  channelId: "YOUR_CHANNEL_ID",
-  channelUrl: "https://www.youtube.com/@yourhandle",
-}
-```
-
-The videos page uses the public channel RSS feed and renders the latest uploads. If no channel is configured, it shows a setup message.
-
-## Blog authoring with TinaCMS
-
-Blog authoring happens through TinaCMS, which provides an authenticated editing flow and writes Markdown content back to the GitHub repository.
-
-Relevant repo files:
-
-- `tina/config.ts`
-- `content/posts/*.md`
-- `content/posts.json`
-- `.github/workflows/deploy-pages.yml`
-
-The public blog pages read `content/posts.json`, a generated file built from Markdown posts during local development and GitHub Pages deployment.
-
-Recommended TinaCloud setup:
-
-1. Create a TinaCloud project connected to `mdbailin/mc_portfolio`.
-2. Copy the TinaCloud `clientId` and read/write token.
-3. Add GitHub repository secrets:
-   - `TINA_PUBLIC_CLIENT_ID`
-   - `TINA_TOKEN`
-4. Open `/admin/` on the deployed site and sign in through Tina.
-
-Each blog post is a Markdown file with front matter in `content/posts/`, for example:
-
-```md
----
-title: Example Title
-summary: A short summary for blog listing pages.
-author: Melissa Christensen
-publishedAt: 2026-03-23T00:00:00.000Z
-tags:
-  - research
-  - notes
----
-
-# Example Title
-
-Post body here.
-```
-
-## Local Tina development
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the local site together with Tina:
-
-```bash
-npm run dev
-```
-
-Regenerate the published blog index without starting the dev server:
-
-```bash
-npm run build:posts
-```
-
-If TinaCloud credentials are not configured locally, the public site still works, but authenticated Tina editing requires the TinaCloud project and repository secrets above.
+Google Calendar then checks Guy's availability, creates the event, and emails confirmations to both the guest and Guy. No separate scheduling backend or email service is needed.
 
 ## Local preview
 
-Serve the folder with a small static server:
-
 ```bash
+npm install
+npm run build:posts
 python3 -m http.server 8000
 ```
 
-Then open `http://localhost:8000`.
+## Deploy to GitHub Pages
+
+The included GitHub Actions workflow deploys pushes to `main`. After creating the repository, push the project, then select **GitHub Actions** under **Settings → Pages**. If TinaCMS is wanted for publishing notes, connect the new repository in TinaCloud and add `TINA_PUBLIC_CLIENT_ID` and `TINA_TOKEN` as GitHub repository secrets.
