@@ -1,15 +1,15 @@
 const SITE_CONFIG = {
   site: {
-    title: "Guy Haik | Portfolio",
+    title: "Guy Haik | Guitar Lessons",
     headerTitle: "",
     subtitle: "",
-    description: "The portfolio and notes of Guy Haik.",
+    description: "Personalized guitar lessons with Guy Haik.",
   },
   profile: {
     name: "Guy Haik",
-    role: "Builder, operator, and thoughtful collaborator",
+    role: "Private guitar teacher and coach",
     summary:
-      "A home for Guy's work, ideas, and the conversations that lead to meaningful progress.",
+      "Personalized one-on-one guitar lessons that build confidence, musicality, and momentum at every level.",
   },
   links: {
     resume: "Guy%20Haik%20CV.pdf",
