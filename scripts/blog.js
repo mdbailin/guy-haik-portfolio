@@ -11,7 +11,7 @@ async function initBlogPage() {
 
   // Customize header based on tag
   const defaultConfig = {
-    eyebrow: 'Reflective life coaching',
+    eyebrow: '',
     title: 'Notes for the inner life',
     description: 'Perspectives and questions for understanding yourself, meeting uncertainty, and living with greater intention.'
   };

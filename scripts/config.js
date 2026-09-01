@@ -1,6 +1,6 @@
 const SITE_CONFIG = {
   site: {
-    title: "Guy Haik | Reflective Life Coaching",
+    title: "Guy Haik",
     headerTitle: "",
     subtitle: "",
     description: "Reflective one-on-one coaching conversations about psychology, philosophy, spirituality, and the choices that shape a life.",
