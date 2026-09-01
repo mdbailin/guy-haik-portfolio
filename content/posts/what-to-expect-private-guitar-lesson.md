@@ -4,6 +4,7 @@ slug: what-to-expect-private-guitar-lesson
 summary: How personalized guitar coaching builds confidence, technique, and a path forward.
 author: Guy Haik
 publishedAt: 2026-03-23T00:00:00.000Z
+draft: true
 tags:
   - guitar
   - lessons

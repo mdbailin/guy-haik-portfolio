@@ -11,9 +11,9 @@ async function initBlogPage() {
 
   // Customize header based on tag
   const defaultConfig = {
-    eyebrow: 'Notes',
-    title: 'Ideas in progress',
-    description: 'Perspectives, lessons, and useful questions from Guy.'
+    eyebrow: 'Psychology · Philosophy · Spirituality',
+    title: 'Notes for the inner life',
+    description: 'Perspectives and questions for understanding yourself, meeting uncertainty, and living with greater intention.'
   };
 
   const config = defaultConfig;

@@ -1,15 +1,15 @@
 const SITE_CONFIG = {
   site: {
-    title: "Guy Haik | Guitar Lessons",
+    title: "Guy Haik | Psychology, Philosophy & Spirituality",
     headerTitle: "",
     subtitle: "",
-    description: "Personalized guitar lessons with Guy Haik.",
+    description: "Reflective one-on-one coaching conversations about psychology, philosophy, spirituality, and the choices that shape a life.",
   },
   profile: {
     name: "Guy Haik",
-    role: "Private guitar teacher and coach",
+    role: "Life coach and reflective guide",
     summary:
-      "Personalized one-on-one guitar lessons that build confidence, musicality, and momentum at every level.",
+      "Thoughtful one-on-one conversations for greater clarity, self-understanding, and a more intentional life.",
   },
   links: {
     resume: "Guy%20Haik%20CV.pdf",

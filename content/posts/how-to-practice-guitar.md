@@ -4,6 +4,7 @@ slug: how-to-practice-guitar
 summary: A simple, sustainable approach to practice that turns limited time into noticeable progress.
 author: Guy Haik
 publishedAt: 2026-04-16T00:00:00.000Z
+draft: true
 tags:
   - guitar
   - practice

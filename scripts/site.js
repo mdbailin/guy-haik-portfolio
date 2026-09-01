@@ -103,20 +103,20 @@ export function initSite(activePage) {
       // On homepage: About, Experience, and Contact scroll to sections
       navLinksHtml = `
         <li><a href="#about" data-scroll="about">About</a></li>
-        <li><a href="#experience" data-scroll="experience">Experience</a></li>
-        <li><a href="blog.html">Articles</a></li>
+        <li><a href="#experience" data-scroll="experience">Approach</a></li>
+        <li><a href="blog.html">Notes</a></li>
         <li><a href="videos.html">Videos</a></li>
-        <li><a href="booking.html">Book</a></li>
+        <li><a href="booking.html">Work together</a></li>
         <li><a href="#contact" data-scroll="contact">Contact</a></li>
       `;
     } else {
       // On other pages: all links go to pages
       navLinksHtml = `
         <li><a href="index.html">About</a></li>
-        <li><a href="index.html#experience">Experience</a></li>
-        <li><a href="index.html#articles">Articles</a></li>
+        <li><a href="index.html#experience">Approach</a></li>
+        <li><a href="index.html#articles">Notes</a></li>
         <li><a href="videos.html">Videos</a></li>
-        <li><a href="booking.html">Book</a></li>
+        <li><a href="booking.html">Work together</a></li>
         <li><a href="index.html#contact">Contact</a></li>
       `;
     }
