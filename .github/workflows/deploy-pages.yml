@@ -35,12 +35,7 @@ jobs:
         run: npm run build:posts
 
       - name: Build TinaCMS admin
-        run: |
-          if [ -n "$TINA_PUBLIC_CLIENT_ID" ] && [ -n "$TINA_TOKEN" ]; then
-            npm run build:admin
-          else
-            echo "Skipping TinaCMS admin build because TinaCloud secrets are not configured."
-          fi
+        run: npm run build:admin
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
