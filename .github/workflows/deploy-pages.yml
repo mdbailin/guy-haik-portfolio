@@ -45,6 +45,7 @@ jobs:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           TINA_BRANCH: main
+          TINA_BASE_PATH: guy-haik-portfolio
 
       - name: Prepare Pages artifact
         run: |
