@@ -15,7 +15,7 @@ const SITE_CONFIG = {
     resume: "Guy%20Haik%20CV.pdf",
     // Paste the public Google Appointment Schedule booking-page URL here.
     // Google Calendar sends confirmations to both the guest and Guy automatically.
-    booking: "",
+    booking: "https://calendar.app.google/GwVGaYBgqVfFSBv96",
     email: "",
     linkedin: "",
     x: "",
