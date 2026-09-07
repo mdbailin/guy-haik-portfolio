@@ -1,5 +1,5 @@
 ---
-title: 'How to Deal With an Angry Person Without Making Things Worse'
+title: How to Deal With an Angry Person Without Making Things Worse
 slug: how-to-deal-with-an-angry-person
 summary: Emotional intelligence can change the direction of a difficult conversation without excusing harmful behavior.
 author: Guy Haik
@@ -11,41 +11,260 @@ tags:
   - cat-personal-development
 ---
 
-# How to Deal With an Angry Person Without Making Things Worse
+How to Deal With an Angry Person Without Making Things Worse
 
-When someone is angry, our first instinct is often to fight back, defend ourselves, or prove our point. But responding to anger with more anger can quickly turn a difficult moment into a competition over who can shout louder.
+Have you ever tried to calm someone down, only to realize that everything you say seems to make them even angrier?
 
-If the situation is unsafe or someone is becoming violent, create distance and get appropriate help. Emotional intelligence never requires you to tolerate abuse or threatening behavior. When it is safe to engage, however, there are ways to change the emotional direction of the interaction.
+You tell them to calm down.
 
-## Anger may be covering something else
+They get louder.
 
-Anger is sometimes the most visible part of a more complicated experience. A person may feel disrespected, embarrassed, rejected, frightened, powerless, or simply unheard. Understanding this does not mean agreeing with their behavior. It means trying to see the person behind the behavior.
+You explain why they're wrong.
 
-Daniel Goleman’s *Emotional Intelligence* tells a memorable story about Terry Dobson, an aikido student who encountered a violent drunk man on a train in Japan. Before Dobson could intervene, an elderly passenger spoke to the man warmly about sake, his wife, and his garden. The man gradually relaxed and began sharing the grief beneath his aggression: he had lost his wife, home, and job.
+They become more defensive.
 
-The elderly man did not defeat him. He changed the emotional direction of the encounter. The story is not a magic formula, but it illustrates several useful principles.
+You try to defend yourself.
 
-## Four ways to respond
+Now you're both angry.
 
-1. **Do not automatically match the other person’s intensity.** If someone raises their voice and you immediately raise yours, the temperature usually increases. Staying calm does not guarantee that they will calm down, but it prevents you from adding more fuel.
-2. **Listen before trying to solve the problem.** Listening does not mean agreeing. It gives you a chance to understand what the person is actually upset about—and can help them feel heard before they try to hear you.
-3. **Look beneath the anger.** Ask yourself what the person could be experiencing right now. The current argument may be connected to fear, shame, frustration, or something that happened earlier.
-4. **Change the direction of the conversation.** A genuine question, a moment of empathy, or a pause can interrupt an argument that is going nowhere. The aim is to create an opportunity for a more thoughtful conversation, not to manipulate the other person.
+This is one of the most difficult situations in relationships, families, workplaces and classrooms. When another person is overwhelmed by anger, our instinct is often to fight back, defend ourselves, or prove our point.
 
-## Boundaries still matter
+But what if those reactions are exactly what makes the situation worse?
 
-This is especially important with children. A child may shout because they are frustrated, refuse to participate because they are afraid of failing, or become aggressive because they feel embarrassed. Adults can acknowledge the feeling while setting a clear boundary: “I understand that you’re angry. But you cannot hit anyone. Let’s talk about what happened when you’re ready.”
+Emotional intelligence offers another possibility: instead of responding to anger with more anger, we can sometimes change the emotional direction of the interaction.
 
-The same principle applies to adults. Emotional intelligence is not passive endurance. You can acknowledge someone’s feelings without agreeing with their conclusions. You can be firm without being cruel, and you can end a conversation when it is no longer productive:
+Bruce Lee said to his student after his student attempted to kick him “What was that ? an exhibition ? we need EMOTIONAL CONTENT! not anger, now try again” 
 
-> We’re both too upset to have a productive conversation right now. Let’s talk later.
+When someone is extremely angry, logic doesn't always work immediately.
 
-You do not have to win every argument or remain in an unsafe situation to prove that you are understanding.
+You may have a perfectly reasonable explanation. You may even be completely right about the facts.
 
-## A question worth asking
+But if the other person is emotionally overwhelmed, giving them more information may not solve the problem.
 
-Before reacting, pause and ask: **What is happening here?** What are they feeling? What am I feeling? What is actually causing the conflict? Is this the right time to solve it? Would listening—or giving the conversation some space—help?
+They may not be ready to listen.
 
-Emotional intelligence is not perfect control. It is the skill of recognizing emotions, including your own, and making a deliberate choice about how to respond. Sometimes the strongest response to anger is enough calm and curiosity to see the human being underneath it.
+And if you respond to their anger with your own anger, the situation can quickly become a competition over who can shout louder or defend themselves more aggressively.
 
-[Read the original PDF article](../How%20to%20Deal%20With%20an%20Angry%20Person%20Without%20Making%20Things%20Worse.pdf).
+This doesn't mean that you should tolerate abusive or threatening behavior. If someone is becoming violent or you feel unsafe, creating distance and getting appropriate help is more important than trying to demonstrate emotional intelligence.
+
+But when the situation is safe enough to engage, there is another question worth asking:
+
+What is actually happening underneath this person's anger?
+
+Anger May Be Covering Something Else
+
+Anger is sometimes the most visible part of a much more complicated emotional experience.
+
+Someone may be angry because they feel disrespected.
+
+They may be embarrassed.
+
+They may feel rejected.
+
+They may be frightened.
+
+They may feel powerless.
+
+They may be grieving.
+
+They may simply feel that nobody is listening to them.
+
+Understanding this does not mean agreeing with their behavior.
+
+It means trying to understand the person behind the behavior.
+
+That distinction can completely change the way we approach a difficult conversation. 
+
+According to psychology the human soul is pure while being given birth as a baby so…. How could someone behave aggressively? the soul screams SOS. Someone who has emotional intelligence can recognize this fact, he knows how to analyze the situation and how to respond to the situation without any ego. 
+
+A Powerful Example From Daniel Goleman's Emotional Intelligence
+
+There is a remarkable story in Daniel Goleman's book Emotional Intelligence: Why It Can Matter More Than IQ that illustrates this idea.
+
+Goleman recounts a story told by Terry Dobson, an American who studied the martial art aikido in Japan.
+
+One day, Dobson was riding a train in suburban Tokyo when a large, heavily intoxicated man began terrorizing the passengers.
+
+The man was shouting, threatening people and behaving violently.
+
+Dobson was physically capable of confronting him. He had extensive aikido training and was prepared to intervene if necessary.
+
+But he remembered something his teacher had taught him: the purpose of aikido was not simply to defeat an opponent. It was to resolve conflict rather than create it.
+
+Before Dobson could act, however, an elderly Japanese man sitting elsewhere on the train called to the drunk man.
+
+Instead of confronting him, the old man spoke to him warmly.
+
+He asked what he had been drinking.
+
+“Sake,” the man answered.
+
+The old man enthusiastically told him that he also enjoyed sake. He began talking about drinking it with his wife in their garden and about the persimmon tree in his backyard.
+
+Something changed.
+
+The drunk man's aggression began to disappear.
+
+His fists relaxed.
+
+His voice became quieter.
+
+And eventually, he began talking about his own life.
+
+His wife had died.
+
+He had lost his home.
+
+He had lost his job.
+
+He was ashamed of what had happened to him.
+
+The man who had appeared to be nothing more than an aggressive drunk was carrying enormous pain.
+
+The elderly man had not defeated him.
+
+He had changed the emotional direction of the encounter.
+
+Goleman presents this as an example of exceptional emotional skill.
+
+What Can We Learn From This?
+
+The story does not provide a magic formula for calming angry people.
+
+There isn't one.
+
+Different people become angry for different reasons and sometimes there is no productive conversation to be had in the moment.
+
+But the story illustrates several principles that can be useful when dealing with anger.
+
+What About Angry Children?
+
+This becomes particularly important for parents and teachers.
+
+Children don't always have the vocabulary or emotional maturity to explain what they are experiencing.
+
+A child may shout because they are frustrated.
+
+They may refuse to participate because they are afraid of failing.
+
+They may become aggressive because they feel embarrassed.
+
+They may have a meltdown because they are overwhelmed.
+
+If an adult responds only to the behavior, they may miss the emotion underneath it.
+
+That doesn't mean there should be no boundaries.
+
+Quite the opposite.
+
+Children need clear boundaries and attention.
+
+A useful response might be:
+
+“I understand that you're angry. But you cannot hit anyone. Let's talk about what happened when you're ready.”
+
+The adult is doing two things simultaneously.
+
+They are setting a boundary around unacceptable behavior while acknowledging the child's emotional experience.
+
+That is an important distinction.
+
+A child can learn:
+
+“My feelings are valid, but my feelings do not give me permission to hurt other people.”
+
+That lesson can remain valuable throughout adulthood.
+
+What If the Other Person Won't Calm Down?
+
+Sometimes nothing works.
+
+A person may not want to listen.
+
+They may continue shouting.
+
+They may be intoxicated.
+
+They may be deliberately trying to intimidate you.
+
+They may be experiencing a level of emotional distress that makes rational conversation impossible.
+
+In these situations, emotional intelligence also means knowing your limits.
+
+You don't have to win every argument.
+
+You don't have to convince everyone.
+
+And you don't have to remain in an unsafe situation simply because you want to be understanding.
+
+Sometimes the emotionally intelligent response is to say:
+
+“We're both too upset to have a productive conversation right now. Let's talk later.”
+
+Then walk away if it is safe to do so.
+
+Emotional Intelligence Isn't About Being Passive
+
+This is perhaps the most important point.
+
+Being emotionally intelligent does not mean being endlessly patient.
+
+It doesn't mean allowing people to walk over you.
+
+It doesn't mean hiding your own anger.
+
+And it doesn't mean accepting disrespect in the name of empathy.
+
+Emotional intelligence is not the absence of boundaries.
+
+It is the ability to recognize emotions, including your own and make deliberate choices about how you respond to them.
+
+You can be firm without being cruel.
+
+You can disagree without becoming hostile.
+
+You can acknowledge someone's feelings without agreeing with their conclusions.
+
+And you can walk away from a conflict without feeling that you have lost.
+
+The Question to Ask Yourself
+
+The next time someone becomes extremely angry with you, try pausing before reacting.
+
+Instead of immediately asking:
+
+“How do I prove that I'm right?”
+
+ask:
+
+“What is happening here?”
+
+What are they feeling?
+
+What am I feeling?
+
+What is actually causing the conflict?
+
+Is this the right time to solve the problem?
+
+Would listening help?
+
+Would giving the conversation some space help?
+
+And most importantly:
+
+“What response is most likely to make this situation better rather than worse?”
+
+You won't always get it right.
+
+Neither will anyone else.
+
+Emotional intelligence isn't about having perfect control over every situation. It is a skill that develops through experience, reflection and practice.
+
+The remarkable train story in Goleman's Emotional Intelligence reminds us of something simple but easy to forget:
+
+Sometimes the strongest response to anger isn't greater force.
+
+It is the ability to remain sufficiently calm and curious to see the human being underneath the emotion. No ego is allowed to those who have emotional intelligence.
+
+And sometimes, that is where the possibility of change begins.
