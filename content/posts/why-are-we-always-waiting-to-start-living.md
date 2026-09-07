@@ -1,7 +1,10 @@
 ---
-title: 'Why Are We Always Waiting to Start Living?'
+title: Why Are We Always Waiting to Start Living?
 slug: why-are-we-always-waiting-to-start-living
-summary: What we lose when “later” becomes the only time we allow ourselves to enjoy life.
+summary: |-
+  What we lose when “later” becomes the only time we allow ourselves to enjoy life.
+  "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present"
+  "A PIECE OF ADVICE FOR YOUNG PEOPLE: 'TRAVEL'. YOUR MONEY WILL RETURN, YOUR TIME WON'T"(Jackie Chan)
 author: Guy Haik
 publishedAt: 2026-09-02T00:00:00.000Z
 tags:
@@ -17,10 +20,10 @@ There is a quote often attributed to the Dalai Lama that describes a strange con
 
 Whether or not the Dalai Lama actually said those words, the idea behind them is worth considering. How often do we tell ourselves:
 
-- “I’ll enjoy life when I have more money.”
-- “I’ll relax when I finish this project.”
-- “I’ll travel when I can afford it.”
-- “I’ll spend more time with my family when work becomes less demanding.”
+* “I’ll enjoy life when I have more money.”
+* “I’ll relax when I finish this project.”
+* “I’ll travel when I can afford it.”
+* “I’ll spend more time with my family when work becomes less demanding.”
 
 There is always a “when.” Sometimes that “when” never arrives.
 
@@ -52,20 +55,20 @@ The future matters, but the future is always becoming the present. If we spend o
 
 The answer is not to stop thinking about the future. A healthy life probably requires both preparation and presence:
 
-- Save money, but allow yourself to enjoy some of what you earn.
-- Work hard, but remember why you are working.
-- Care for your health, but do not become so focused on optimization that you forget to enjoy being alive.
-- Plan your future, but do not make the future responsible for your happiness.
+* Save money, but allow yourself to enjoy some of what you earn.
+* Work hard, but remember why you are working.
+* Care for your health, but do not become so focused on optimization that you forget to enjoy being alive.
+* Plan your future, but do not make the future responsible for your happiness.
 
 If you feel like you are constantly working, worrying, and waiting for life to begin, try asking yourself:
 
-- What am I constantly postponing?
-- What am I working so hard for?
-- If my financial situation improved tomorrow, what would I do differently?
-- Who would I spend more time with?
-- What experiences do I want to have?
-- What makes me feel genuinely alive?
-- If nothing about my current lifestyle changed for ten years, would I be happy with where it takes me?
+* What am I constantly postponing?
+* What am I working so hard for?
+* If my financial situation improved tomorrow, what would I do differently?
+* Who would I spend more time with?
+* What experiences do I want to have?
+* What makes me feel genuinely alive?
+* If nothing about my current lifestyle changed for ten years, would I be happy with where it takes me?
 
 You do not necessarily need to change your entire life after answering these questions. Sometimes one small change is enough: call someone you have not spoken to in a long time, start the hobby you have been postponing, spend an evening without your phone, take a walk without having somewhere to be, or have a real conversation.
 
