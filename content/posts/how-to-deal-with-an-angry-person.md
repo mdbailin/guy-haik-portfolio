@@ -272,4 +272,4 @@ Sometimes the strongest response to anger isn't greater force.
 
 It is the ability to remain sufficiently calm and curious to see the human being underneath the emotion. No ego is allowed to those who have emotional intelligence.
 
-And sometimes, that is where the possibility of change begins.
+And sometimes, that is where the possibility of change begins.[https://docs.google.com/document/d/1N-s44iSgVwSPa\_lS5NL\_H9mnR69VNczrfNtt\_XLDaDo/edit?tab=t.0#heading=h.jwms72mdxro2](https://docs.google.com/document/d/1N-s44iSgVwSPa_lS5NL_H9mnR69VNczrfNtt_XLDaDo/edit?tab=t.0#heading=h.jwms72mdxro2)
