@@ -1,8 +1,13 @@
 ---
 title: How to Deal With an Angry Person Without Making Things Worse
 slug: how-to-deal-with-an-angry-person
-summary: Emotional intelligence can change the direction of a difficult conversation without excusing harmful behavior.
-author: Guy Haik
+summary: |-
+  Emotional intelligence can change the direction of a difficult conversation without excusing harmful behavior.
+
+  The ability to analyze the situation and react accordingly.
+
+  The human soul is pure while given birth, so if someone behaves aggressively it is a sign the soul screams for help.
+author: Guy David Haik
 publishedAt: 2026-09-01T00:00:00.000Z
 tags:
   - emotional intelligence
@@ -33,7 +38,7 @@ But what if those reactions are exactly what makes the situation worse?
 
 Emotional intelligence offers another possibility: instead of responding to anger with more anger, we can sometimes change the emotional direction of the interaction.
 
-Bruce Lee said to his student after his student attempted to kick him “What was that ? an exhibition ? we need EMOTIONAL CONTENT! not anger, now try again” 
+Bruce Lee said to his student after his student attempted to kick him “What was that ? an exhibition ? we need EMOTIONAL CONTENT! not anger, now try again”
 
 When someone is extremely angry, logic doesn't always work immediately.
 
@@ -73,9 +78,9 @@ Understanding this does not mean agreeing with their behavior.
 
 It means trying to understand the person behind the behavior.
 
-That distinction can completely change the way we approach a difficult conversation. 
+That distinction can completely change the way we approach a difficult conversation.
 
-According to psychology the human soul is pure while being given birth as a baby so…. How could someone behave aggressively? the soul screams SOS. Someone who has emotional intelligence can recognize this fact, he knows how to analyze the situation and how to respond to the situation without any ego. 
+According to psychology the human soul is pure while being given birth as a baby so…. How could someone behave aggressively? the soul screams SOS. Someone who has emotional intelligence can recognize this fact, he knows how to analyze the situation and how to respond to the situation without any ego.
 
 A Powerful Example From Daniel Goleman's Emotional Intelligence
 
