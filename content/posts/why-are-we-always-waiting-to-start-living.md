@@ -16,7 +16,7 @@ tags:
 
 # Why Are We Always Waiting to Start Living?
 
-There is a quote often attributed to the Dalai Lama that describes a strange contradiction: we sacrifice our health to make money, then sacrifice our money trying to recover our health. We worry so much about the future that we forget to enjoy the present—and eventually, life passes us by.
+There is a quote often attributed to the Dalai Lama that describes a strange contradiction: we sacrifice our health to make money, then sacrifice our money trying to recover our health. We worry so much about the future that we forget to enjoy the present and eventually, life passes us by.
 
 Whether or not the Dalai Lama actually said those words, the idea behind them is worth considering. How often do we tell ourselves:
 
@@ -29,7 +29,7 @@ There is always a “when.” Sometimes that “when” never arrives.
 
 ## Why are we so focused on the future?
 
-Planning for tomorrow is not a bad thing. We need to save money, build careers, care for our health, and prepare for unexpected problems. The problem begins when preparing for the future consumes the present.
+Planning for tomorrow is not a bad thing. We need to save money, build careers, care for our health and prepare for unexpected problems. The problem begins when preparing for the future consumes the present.
 
 We can become so focused on creating a better life later that we do not notice we are already living our life now. A person might spend twenty years working toward financial security, only to discover that they missed many of the experiences they were working so hard to afford.
 
