@@ -79,5 +79,3 @@ There will always be another bill, responsibility, goal, or problem to solve. If
 The future deserves our preparation, but the present deserves our attention. Maybe the goal is to build a future that does not require us to sacrifice the present.
 
 Eventually, all of us will reach the end of our lives. The question is not whether we will get there. The question is what we will have done along the way.
-
-[Read the original PDF article](../Why%20Are%20We%20Always%20Waiting%20to%20Start%20Living.pdf).
