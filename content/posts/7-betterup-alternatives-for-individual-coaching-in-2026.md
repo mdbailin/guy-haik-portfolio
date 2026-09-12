@@ -1,7 +1,10 @@
 ---
 title: 7 BetterUp Alternatives for Individual Coaching in 2026
 slug: 7-BetterUp-Alternatives-for-Individual-Coaching-in-2026
-summary: .
+summary: |-
+  How to navigate in the pitch when everything is changing so fast.
+  does the criteria shown online feet the individual needs?
+  Having an alternatives (plan B). Whatever tomorrow brings, I'll be there. With open arms and open eyes. 
 author: Guy David Haik
 publishedAt: 2026-09-09T00:00:00.000Z
 ---
@@ -62,7 +65,7 @@ One important point: an ICF credential is not a guarantee that a particular coac
 
 You still need to talk to them.
 
-The relationship matters. What do Bill Gates, Steve Jobs and Mark Zuckerberg have in common besides they are all entrepreneurs and rich? they don't hold any degree. Don't let this piece of paper trick you. The average person who has something called “street smarts” can make it in life way more than the ones who do hold a fancy degree. In NLP courses they teach that the average person is influenced by stigmas, superstitions and stereotypes. The ones who have emotional intelligence realize that, bottom line, it depends on the person. When I was a boy I used to admire well educated people, now, as an adult, I realized I prefer well mannered people.
+The relationship matters. What do Bill Gates, Steve Jobs and Mark Zuckerberg have in common besides they are all entrepreneurs and rich? they don't hold any degree. Don't let this piece of paper trick you. The average person who has something called “street smarts” can make it in life way more than the ones who do hold a fancy degree. In NLP courses they teach that the average person is influenced by stigmas, superstitions and stereotypes. The ones who have emotional intelligence realize that, bottom line, it depends on the person. 
 
 3\. MentorCruise
 
@@ -78,7 +81,7 @@ A coach will generally help you explore your own thinking and decisions.
 
 A mentor may also bring their own experience into the conversation and say, "I've been through something similar, and this is what I learned."
 
-If you want both reflection and practical advice from someone with relevant experience, that distinction can matter. Probably everything has some pros and cons. When it's about technology sometimes it feels like we live in the future. When it's about blurring borders, it seems like you can land everywhere you want (money solves a lot of issues nowadays). But when it's about having too many options, is it a good thing or a bad thing? According to NLP the word “depends” usually might be a good answer. Besides Math there's no science which is completely accurate. So a good general advice is to stay away from those who give a one direction answer that eliminates other opinions or theories.
+If you want both reflection and practical advice from someone with relevant experience, that distinction can matter. Probably everything has some pros and cons. When it's about technology sometimes it feels like we live in the future. When it's about blurring borders, it seems like you can land everywhere you want (money solves a lot of issues nowadays). But when it's about having too many options, is it a good thing or a bad thing? According to NLP the word “depends” usually might be a good answer. Besides Math, there's no science which is completely accurate. So a good general advice is to stay away from those who give a one direction answer that eliminates other opinions or theories.
 
 4\. CoachHub
 
@@ -94,7 +97,7 @@ CoachHub is heavily oriented toward organizations and employer-sponsored coachin
 
 So if you are an individual paying for coaching yourself, you should check whether the particular service is actually designed for you.
 
-A platform can be an excellent enterprise solution without necessarily being the best choice for an individual. To those who watch the UFC the name Alex Pereira (middleweight and light heavyweight champion) might sound familiar. But the UFC runs for a long time, right? Why did it take them so long to find him? There's a song by the Goo Goo Dolls that goes “And I don't want the world to see me 'Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am”. Many talented people don't really wish to be exposed or famous or popular. They are humble guys who wish to have a simple life without fans and fame. Respect it and be aware of that. Real heroes don't wear capes! They don't care how they will be shown! they don't care how they will be recognized. Respect it.
+A platform can be an excellent enterprise solution without necessarily being the best choice for an individual. So, what would be the best choice for an individual? Probably there is no such thing but if there is, you won't find it online. To those who watch the UFC, the name Alex Pereira (middleweight and light heavyweight champion) might sound familiar. But the UFC runs for a long time, right? Why did it take them so long to find him? There's a song by the Goo Goo Dolls that goes “And I don't want the world to see me 'Cause I don't think that they'd understand When everything's made to be broken I just want you to know who I am”. Many talented people don't really wish to be exposed or famous or popular. They are humble guys who wish to have a simple life without fans and fame. Respect it and be aware of that. **Real heroes don't wear capes.** They don't care how they will be shown. They don't care how they will be recognized. another point which is might be related, what's shown on the news is selectively chosen by politician. This is why it might be a good idea to be disconnected.
 
 5\. Torch
 
@@ -128,7 +131,7 @@ It also can't replace every kind of professional help. If someone is dealing wit
 
 For reflection, brainstorming and working through everyday decisions, however, AI can be a useful tool.
 
-For deeper personal accountability and an ongoing human relationship, it is a different proposition. In business studies in the university they teach the students the client buys another thing besides the item, what would it be? Any guesses? they buy the experience itself. This is how UI ( User Interface ) / UX ( User Experience ) entered the extreme way inside almost any industry (maybe even all industries). Apps try by different algorithms to realize what would attract you to return to the application again. A special spy follows you almost every moment to understand what would make you come back. Interesting stuff isn't it? Maybe feedback is the perfect old school method a person can use to bring as many clients as possible. It is also a part of UI and UX I believe but very crucial not to take anything personally to to have an open mind to be criticized and to improve.
+For deeper personal accountability and an ongoing human relationship, it is a different proposition. In business studies in the university they teach the students the client buys another thing besides the item, what would it be? Any guesses? they buy the experience itself. This is how UI ( User Interface ) / UX ( User Experience ) entered the extreme way inside almost any industry (maybe even all industries). Apps try by different algorithms to realize what would attract you to return to the application again. A special spy follows you almost every moment to understand what would make you come back. Interesting stuff isn't it? Maybe feedback is the perfect old school method a person can use to bring as many clients as possible. It is also a part of UI and UX.there's something that will never be replaced by technology or AI, it's called humanities. No doubt AI is a tool to make our life easier, to organize details, etc.. but in the end, what's called bottom line, you can't really count on it (only good for indication). According to AI, the Vikings seem to appear out of nowhere in the 10th century. How could that be? It doesn’t make sense. The name “Viking” may have been used or become more common around the 10th century, but the Scandinavian tribes and peoples who later became known as Vikings had already existed and been part of history long before the 10th century. Maybe they were fighting the Roman empire  
 
 7\. Find a coach who works with you directly
 
