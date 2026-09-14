@@ -1,6 +1,6 @@
 ---
 title: How to Deal With an Angry Person Without Making Things Worse
-slug: how-to-deal-with-an-angry-person
+slug: How-to-deal-with-an-angry-person
 summary: |-
   Emotional intelligence can change the direction of a difficult conversation without excusing harmful behavior.
   The ability to analyze the situation and react accordingly.
