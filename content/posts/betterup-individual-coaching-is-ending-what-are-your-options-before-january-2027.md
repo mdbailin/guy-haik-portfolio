@@ -308,7 +308,7 @@ Sometimes you need three conversations about one difficult decision.
 
 Sometimes you want someone who will work with you for six months or longer.
 
-Know which one you're looking for. There's a phrase that says: "What comes around goes around" means that your actions, whether good or bad, will eventually return to affect you. Be patient and enjoy the process. “Patience is bitter, but its fruit is sweet”(ARISTOTLE).
+Know which one you're looking for. Be patient and enjoy the process. “Patience is bitter, but its fruit is sweet”(ARISTOTLE).
 
 4\. Can I speak with the coach before committing?
 
