@@ -300,7 +300,7 @@ Others are more comfortable sharing ideas, frameworks and suggestions.
 
 Neither approach is automatically better.
 
-Think about what actually helps you. In the movie “Inside Out 2", the three words “I’m not good enough” were running on Riley's mind over and over again. Why? I mean, why in general does it happen not only to Riley? Bruce Lee taught that comparing yourself to others or copying an external personality stems from an inner sense of insecurity. He believed people need to have faith in their own uniqueness instead of chasing a successful personality to duplicate. The grass is always greener on the other side = delete this thought immediately. The stuff shown via screens and social media have nothing to do with reality. In other words, restrict screen time as much as possible.
+Think about what actually helps you. In the movie “Inside Out 2", the words “I’m not good enough” were running on Riley's mind over and over again. Why? I mean, why in general does it happen not only to Riley? Bruce Lee taught that comparing yourself to others or copying an external personality stems from an inner sense of insecurity. He believed people need to have faith in their own uniqueness instead of chasing a successful personality to duplicate. The grass is always greener on the other side = delete this thought immediately. The stuff shown via screens and social media have nothing to do with reality. In other words, restrict screen time as much as possible.
 
 3\. Do I want short-term help or an ongoing relationship?
 
