@@ -44,7 +44,7 @@ If you currently have access, you should also make use of the time you have left
 
 Don't wait until your final week to think about what comes next.
 
-This is actually a good opportunity to review what you have learned and decide what kind of support you want going forward. For example, what's needed to solve 3\*3 rubik's cube? intelligence ? nope!! only knowing the algorithms. In other words, you just need to know the order and timing of what you are doing (a bit similar to the game “guitar hero”) Warren Buffett  once said: “We don't have to be smarter than the rest. We have to be more disciplined than the rest”. Discipline is one of the aspects required if you wish to make it in life no doubt.
+This is actually a good opportunity to review what you have learned and decide what kind of support you want going forward. For example, what's needed to solve 3\*3 rubik's cube? intelligence ? nope!! only knowing the algorithms. In other words, you just need to know the order and timing of what you are doing (a bit similar to the game “Guitar Hero”) Warren Buffett  once said: “We don't have to be smarter than the rest. We have to be more disciplined than the rest”. Discipline is one of the aspects required if you wish to make it in life no doubt.
 
 Before you leave BetterUp, save your important information
 
