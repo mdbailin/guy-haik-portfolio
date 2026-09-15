@@ -6,6 +6,7 @@ summary: |
   Maybe you don't really need more time, but better priorities.
   Matching what's offered with the individual needs.
   How to find and locate yourself if your in a situation while gaining new knowledge will never end.
+  Coaching should ultimately increase independence.
 author: Guy David Haik
 publishedAt: 2026-09-13T00:00:00.000Z
 tags:
