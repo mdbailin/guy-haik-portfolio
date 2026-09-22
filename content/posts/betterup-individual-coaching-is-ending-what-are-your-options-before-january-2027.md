@@ -17,430 +17,718 @@ tags:
   - Organize Details
 ---
 
-BetterUp Individual Coaching Is Ending: What Are Your Options Before January 2027?
+BetterUp Individual Coaching Is Ending: How to Decide What Comes Next
 
-If you use BetterUp as an individual and have built a good relationship with your coach, you may be wondering what happens next.
+If you have been using BetterUp for individual coaching, the end of the program may
 
-BetterUp's individual coaching program is winding down.
+leave you with an important question:
 
-According to BetterUp, the BetterUp for Individuals program officially ends on January 31, 2027. New individual subscriptions and coaching sessions stopped being available for purchase on January 31, 2026, and subscription renewals ended on July 31, 2026.
+What should I do next?
 
-For someone who has been working with the same coach for months, this isn't just a change in subscription.
+For many people, coaching becomes more than a scheduled conversation. Over time,
 
-You may have built a relationship with someone who understands your goals, your problems, your personality and the things you've been trying to change.
+your coach may come to understand your goals, the decisions you are facing, the
 
-So the obvious question is:
+habits you are trying to change, and the areas of your life where you want to grow.
 
-What do you do when the coaching relationship you've been relying on is coming to an end?
+That relationship can become an important source of reflection, structure, and
 
-The good news is that you don't have to start from zero. "when one door closes, another one opens”.
+accountability.
 
-First, understand when your BetterUp access ends
+BetterUp for Individuals is now winding down. The program is scheduled to officially
 
-The January 31, 2027 date is the official end of the BetterUp for Individuals program, but your personal access may end earlier depending on your current subscription.
+end on January 31, 2027. Your own access may end earlier depending on your
 
-BetterUp says that members should check their own subscription and billing-cycle end date.
+subscription and billing cycle.
 
-If you currently have access, you should also make use of the time you have left.
+This transition creates a useful opportunity to look more carefully at your coaching
 
-Don't wait until your final week to think about what comes next.
+experience.
 
-This is actually a good opportunity to review what you have learned and decide what kind of support you want going forward. For example, what's needed to solve 3\*3 rubik's cube? intelligence ? nope!! only knowing the algorithms. In other words, you just need to know the order and timing of what you are doing (a bit similar to the game “Guitar Hero”) Warren Buffett  once said: “We don't have to be smarter than the rest. We have to be more disciplined than the rest”. Discipline is one of the aspects required if you wish to make it in life no doubt.
+A good starting point is to identify what part of coaching actually helped you move
 
-Before you leave BetterUp, save your important information
+forward.
 
-This is one of the most practical things you can do.
+Perhaps the most valuable part was the relationship with your coach. You may have
 
-BetterUp recommends that members save their coaching work and message history before their plan ends because access to the platform may conclude at the end of the subscription.
+benefited from having someone who listened carefully, challenged your thinking,
 
-If your coaching relationship has been valuable, consider keeping your own record of:
+remembered your goals, and held you accountable.
 
-Your original goals
+Perhaps the structure mattered just as much. Regular appointments, assessments,
 
-Important insights from your coaching sessions
+exercises, resources, and progress reviews can create a routine that makes personal
 
-Exercises or activities that helped you
+development easier to maintain.
 
-Goals you have already accomplished
+For many people, the value comes from both.
 
-Goals you are still working on
+Understanding that difference can make the next decision much clearer.
 
-Questions you haven't resolved
+The end of BetterUp for Individuals is an opportunity to identify what coaching
 
-Action plans you created
+actually gave you, understand what support you still need, and choose your next
 
-Notes from conversations with your coach
+step with greater clarity and independence.
 
-Resources or assessments you want to keep
+That next step may involve another coach, another kind of professional support, or a
 
-You don't need to preserve every conversation.
+period of applying what you have already learned.
 
-The point is to create a bridge between where you are now and whatever comes next. For example, someone who has a diary. Anne Frank is a powerful personal account of a Jewish teenager hiding from Nazi persecution in Amsterdam during World War II. Anne addresses her diary entries to an imaginary friend named "Kitty", treating her journal as a confidant. Over two years, her writing shifts from typical girlish chatter to deep philosophical reflections on human nature, isolation and hope(Maturation). What does Philosophia mean? if we spread it into two words: Philo=love, and sophia=wisdom. The old school method: take a pan + piece of paper and start writing about things that matter to you. The biggest lie I tell myself is: "I don't need to write it down, I'll remember it".
+The important starting point is understanding what worked for you.
 
-The most important thing: what happens to your coach?
+What Is Changing at BetterUp?
 
-This is probably the question many people will care about most.
+The BetterUp for Individuals program is coming to an end.
 
-You may not want a completely new person.
+According to BetterUp\&#39;s guidance, January 31, 2027 is the official end date for the
 
-You may have spent months building trust with your BetterUp coach, and starting over with somebody else can feel frustrating.
+program. New individual subscriptions and coaching sessions stopped being available
 
-If you had a particularly good relationship with your coach, you can ask them what they plan to do after your BetterUp engagement ends.
+for purchase on January 31, 2026, and subscription renewals ended on July 31, 2026.
 
-Your coach may have another professional practice, another platform they use, or a way for you to continue working with them independently.
+Your own access may finish before January 2027 depending on your current
 
-You should not assume that this will be possible, because every coach's situation is different.
+subscription.
 
-But it is worth asking.
+Your first practical step is therefore simple:
 
-And if continuing with that particular coach isn't possible, you can use what you learned from the relationship to decide what you want in your next coach.How does he and you understand the reality? for example, in the movie “The Lord Of The Rings” which was filmed in the south island in New Zealand it seems like heaven does exist upon planet earth and it's located there. Beyond that it's a lovely spot, every place has its own issues. In other words, just another fantasy movie which has nothing to do with reality. But it's a part of marketing (similar to what's shown on social media). In the movie “Fight Club” they had a role that nobody talks about fight club but rules are meant to be broken, this is why he used it in the first place. Rocky once said: “It's not about how hard you can hit, it's about how hard you can get hit and keep moving forward. Same in life. These things are the infrastructure for understanding how things go. So, for example, moving another coach which better understands these aspects better, without throwing away the knowledge you gained with the former one, isn't a bad thing.
+Check the exact date when your own access ends.
 
-You don't necessarily need another BetterUp
+Knowing your timeline gives you time to review your progress, preserve useful
 
-This is where I think it is worth stepping back for a moment.
+information, and decide what kind of support would serve you well in the next stage.
 
-When a platform closes or changes its individual service, the natural reaction is:
+Use the Remaining Time Well
 
-"What's the replacement?"
+The final weeks or months of your BetterUp access can serve a clear purpose.
 
-But perhaps the better question is:
+Use them to collect what you have learned and turn your coaching experience into
 
-"What was I actually getting from BetterUp that I want to keep?"
+something you can continue using.
 
-For example, perhaps you valued:
+BetterUp recommends saving coaching work and message history before access ends.
 
-Having somebody hold you accountable
+Create a simple personal record of your experience.
 
-Having someone challenge your thinking
+You may want to keep:
 
-Having regular conversations about your goals
+ your original goals;
 
-Having a safe place to think out loud
+ important insights from coaching sessions;
 
-Getting a different perspective on difficult decisions
+ exercises or activities that helped you;
 
-Having someone who remembers what you've been working on
+ goals you have already reached;
 
-Turning ideas into concrete actions
+ goals you are still working toward;
 
-Once you identify what was valuable, you can look for that specifically.
+ questions that remain open;
 
-You don't necessarily need another platform that looks exactly like BetterUp. Maybe you don't need more time, you need better priorities.  "Having someone challenge your thinking"..  A common phrase taught in political science studies: "Give them bread and circuses and they will never revolt." Good advice by a good coach would be: TRY TO RESTRICT SCREEN TIME. It's almost proven that the best therapy against depression would be physical training, but the modern world almost made us forget how to play games. In many countries in Southeast Asia, people live simple lives. Simplicity. So, back to basics and back to how it was before civilization controlled our life? yes. Stop scrolling or tapping or comparing one device to another and doing stuff like this. Go out to meet new friends(magic moments). A good coach will let you know we don't really need much to be truly satisfied and happy and it's not about money and materialism it's about love.
+ action plans you created;
 
-Option 1: Continue with your existing coach
+ useful notes from conversations with your coach;
 
-If your coach is available to work independently, this may be the easiest transition.
+ assessments and resources that still matter to you.
 
-There is no need to explain your entire history to someone new.
+The purpose is to create a clear picture of your development.
 
-They already know you.
+Your original goals can show you how your priorities changed.
 
-They know what you have been working on and what you have already tried.
+Your notes may remind you of ideas that became important over time.
 
-The important thing is to clarify the practical details:
+Your unfinished goals can show you where you want to focus next.
 
-What will the new arrangement look like?
+You can also use one of your final sessions to review your progress with your coach.
 
-How often will you meet?
+Ask:
 
-What will it cost?
+What progress have I made?
 
-How will you communicate?
+Which patterns have changed?
 
-What happens between sessions?
+Where do I still get stuck?
 
-What are you going to work toward?
+Which tools have helped me most?
 
-A good transition should feel like continuing a conversation rather than starting a completely new one. Some may compare it to a gaming console or a brand of a mobile device. You are used to Xbox so you eliminate other options before trying. Same with mobile phones. You are used to Samsung, for example, so you don't really have the strength to use a different brand(even if it might be better for your needs). There is the allegory of the cave which is an allegory presented by the Greek philosopher Plato. There is a group of people who live in a cave. They have never been exposed to the outside world. But they are used to it, they don't really know anything besides the cave. One day, one of them managed to escape and to be exposed to the real world outside the cave. He's so excited to watch it for the first time but he did something stupid. He returned to the cave to tell his friends the real world is not here but outside the cave. They stared at him and they were like: fuck…he's crazy. The way I see it, as someone who graduated Political Science studies, the people in the cave are a metaphor for ordinary people. Same in our society. If someone comes to ordinary people and tells them it's like in the movie “THE MATRIX”, We are not close enough to nature, it's not supposed to be like that etc. They would stare at him and give him a message like mentally: "Fuck you are completely insane".  This is not what God wanted to happen(modern world and civil life).  But, there's no point trying to convince them (ordinary people). Be far from ordinary people. Try to surround yourself by people who think "outside the box".
+What should I continue practicing?
 
-Option 2: Find another individual coach
+A coach who has worked with you over time may notice progress that has become
 
-If you cannot continue with your BetterUp coach, you can find an independent coach who works directly with clients.
+difficult for you to see yourself.
 
-This can actually give you more choice.
+This review gives you a clearer understanding of what the coaching experience
 
-Instead of being matched within a particular platform, you can decide what kind of person you want to work with.
+actually contributed to your life.
 
-You might want somebody who specializes in:
+And that leads to the most important question in the transition.
 
-Career decisions
+What Was Actually Helping You?
 
-Personal development
+Two people can use the same coaching platform and receive value from completely
 
-Confidence
+different parts of the experience.
 
-Relationships
+For one person, the coach may be the most valuable part.
 
-Leadership
+For another, regular appointments may create accountability.
 
-Life transitions
+Someone else may value exercises and assessments because they help organize
 
-Accountability
+thoughts and identify patterns.
 
-Finding direction
+Another person may simply benefit from having a regular place and time for personal
 
-Major changes in your life
+development.
 
-The important thing is not simply finding someone with an impressive website.
+Your next step becomes clearer when you identify your own source of value.
 
-Talk to them.
+Was the Relationship With Your Coach the Main Source of Value?
 
-Ask how they work.
+A strong coaching relationship can provide continuity.
 
-Explain what you are trying to accomplish.
+Your coach may already understand the decisions you have struggled with, the goals
 
-See whether the conversation feels useful.
+you have set, the habits you have tried to change, and the situations that repeatedly
 
-Coaching is a relationship, and sometimes you don't know whether the relationship works until you actually talk. According to MMA Science, CHARACTER DEVELOPMENT contains: Self Control, Confidence, Discipline, Concentration, Respect. On the other hand, according to MMA Science, PHYSICAL ABILITY contains: Self Defense, Coordination, Flexibility, Speed, Strength. It is a bit similar to Yin and yang which is an ancient Chinese philosophical concept describing how opposite, contrasting forces are actually complementary, interconnected and vital for universal balance. And the idea of Yin and yang was inspired, I believe, by Kelipat Nogah in the Tanya book (Judaism). Which is most commonly translated and explained as "The Translucent Shell" or "The Glowing Shell". In Chabad philosophy, it represents the intermediate spiritual realm that contains a mixture of good and evil. Unlike the three entirely impure Kelipot, the spark of goodness in Kelipat Nogah can be elevated and refined through holy actions.
+bring you back to the same questions.
 
-Option 3: Use a coaching directory
+You may have valued having someone who:
 
-If you don't know where to start, coaching directories can help you find individual coaches.
+ listened carefully;
 
-For example, the International Coaching Federation has a Credentialed Coach Finder where people can search for credentialed coaches and filter according to different preferences.
+ asked questions that changed your perspective;
 
-This can be useful if having a recognized coaching credential is particularly important to you.
+ challenged assumptions;
 
-But don't make the mistake of thinking that a credential automatically means somebody is the right coach for you.
+ helped turn intentions into concrete actions;
 
-Qualifications matter.
+ remembered commitments from earlier conversations;
 
-So does the person sitting across from you. According to Bruce Lee’s vision, he didn't believe in belts or degrees or certificates. He had the ability to realize that, what's called bottom line, it depends on the person. This perspective represents people with emotional intelligence. In the anime series “Naruto”, Obito once said: “No one cared who I was until I put on a mask". So, maybe the mask represents a degree for some people to light curiosity. In the movie Fight Club there was a role nobody talks about Fight Club but it was made because rules are meant to be broken (and actually he wanted the opposite to happen). This is how psychology is merged in this kind of stuff. In general, history proves that manipulating people's minds is not a tough mission(the average person is influenced by superstitions, stigmas and stereotypes).
+ provided accountability;
 
-Option 4: Take a break from coaching
+ gave you a regular space to think out loud.
 
-This is an option that people sometimes overlook.
+If these were the strongest parts of your experience, the quality of the relationship
 
-You don't have to immediately replace BetterUp.
+should play an important role in your next decision.
 
-Perhaps you've already made significant progress.
+Did the Structure Help You Stay Consistent?
 
-Perhaps you need some time to apply what you've learned.
+For some people, regular structure creates much of the value.
 
-Perhaps you want to see whether you can continue independently before paying for another coaching relationship.
+Appointments create commitment.
 
-That is completely reasonable.
+Goals give conversations direction.
+
+Exercises keep the work active between sessions.
+
+Regular reviews create accountability.
+
+Resources give you something concrete to return to.
 
 Ask yourself:
 
-"What did I learn from coaching that I can now put into practice on my own?"
+Would I have worked on these goals as consistently without regular sessions?
 
-If the answer is "quite a lot," you may not need another coach immediately.
+Did having an appointment make me prepare and reflect?
 
-And if you discover a few months later that you're stuck again, you can always look for one. Maybe you need to know much about history to implement insights that are related to coaching and psychology. Be aware that Psychology, Philosophy, History, Geography, Political Science etc..  it goes along. About more than 75 years ago, Hermann Göring, Hitler's deputy, testified at the Nuremberg Appeals Tribunal, being asked:
+Did written goals help me stay focused?
 
-How did you get the German people to accept all of this?
+Was accountability one of the main reasons I kept moving forward?
 
-He answered:
+Your answers can show you what kind of support you need next.
 
-"It was very easy, it has nothing to do with Nazism, it has to do with human nature."
+The Answer May Be Both
 
-You can do this in a Nazi, socialist, communist regime, in a monarchy, and even in a democracy.
+For many people, the relationship and the structure work together.
 
-The only thing you need to do to enslave people is to scare them.
+A good coach becomes more effective through continuity. A structured process
 
-"If you can find a way to scare people, you can make them do whatever you want."
+becomes more meaningful when a coach understands the person using it.
 
-NLP is the abbreviated form of Neuro-Linguistic Programming. There's a way the human brain is programmed. It is more noticeable regarding animals(they can be tamed), but also the human brain works in a way that can be controlled by someone who knows how it works.
+Try completing these two sentences:
 
-What if you liked the structure more than the coach?
+“The most useful part of BetterUp for me was \_\_\_\_\_\_ because \_\_\_\_\_\_.”
 
-This is another useful distinction.
+“The part I still need help with is \_\_\_\_\_\_.”
 
-Some people like coaching platforms because they create a structure around personal development.
+These two answers create a strong starting point for your next decision.
 
-You have appointments.
+Decide What Kind of Support You Need Now
 
-You have goals.
+Once you understand what helped you, the available options become easier to
 
-You have assessments.
+evaluate.
 
-You have resources.
+Your next step should match your current needs, your goals, and the way you work
 
-You have someone checking in with you.
+best.
 
-If that's what kept you moving forward, make sure your next arrangement provides some of that structure.
+Option 1: Continue With Your Current Coach
 
-An independent coach can provide it too.
+If the relationship with your coach has been especially valuable, ask whether there is
 
-In fact, one advantage of working directly with a person is that the structure can be built around you rather than around a standard platform. There is a Japanese legend that says, if you miss the bus, maybe you avoided the accident. If you got rejected, maybe you were saved from the wrong place. If they left, maybe they made room for who is coming. The universe protects you in ways that look like bad luck at first. Trust the detour. The words in English: “Meant to be”, represents not only spirituality but the mindset needed to overcome obstacles. No one can answer the question: what would be the best platform for the individual needs. If you don't want to have a burden, understand there's no such thing as perfect.
+an appropriate way to continue working together after your BetterUp engagement
 
-What should you look for in your next coach?
+ends.
 
-Before choosing someone, I would ask yourself five questions.
+Your coach may have an independent practice, another professional setting, or another
 
-1\. What problem am I trying to solve?
+way of providing coaching. Every coach\&#39;s situation will be different, so a direct
 
-"Personal development" is too broad.
+conversation is the best place to begin.
 
-Try to make it concrete.
+If continuing together is possible, clarify the practical details:
 
-Do you need to make a decision?
+ How often will you meet?
 
-Change careers?
+ What will each session cost?
 
-Build confidence?
+ How will you communicate?
 
-Improve a relationship?
+ What happens between sessions?
 
-Stop procrastinating?
+ What goals will you work toward?
 
-Create better habits?
+ How will you review progress?
 
-Find direction?
+Continuity can be valuable because your coach already knows your history and the
 
-The clearer the problem, the easier it is to find appropriate support. In the anime series "Naruto" Itachi once said: "Time doesn't heal anything, it just teaches us how to live with pain". In the movie “Inside Out” Joy wanted to leave Sadness behind. She said to her: “I'm sorry Riley needs to be happy”. Later on, Joy realized it was a mistake. Sadness is one of the human emotions which cannot be denied. The former UFC lightweight champion of the world(Khabib Nurmagomedov) once said: “win or lose I know who I am”. The current lightweight UFC champion of the world(Islam Makhachev) once said: “win or lose, Alhamdulillah!”. In other words, we are supposed to be thankful and grateful for what we already achieved in life. We should thank God for the good stuff which happens, but also we should be grateful and thankful for the bad stuff which happens. How could it be ? Personal Maturity. The bad things which happen come to teach us how to overcome threats (don't be a "bubble boy”). It is some kind of a test the Lord wanted us to pass so in the end we realize how strong we really are. "Personal development" starts with understanding stuff like that.
+work you have done together.
 
-2\. Do I want advice or questions?
+Use the transition to confirm that the relationship still serves your current goals.
 
-Different coaches work differently.
+Option 2: Find Another Individual Coach
 
-Some primarily ask questions and help you reach your own conclusions.
+A new coach can be useful when you still want one-to-one support and have clear
 
-Others are more comfortable sharing ideas, frameworks and suggestions.
+goals you want to continue working on.
 
-Neither approach is automatically better.
+You may want someone who specializes in:
 
-Think about what actually helps you. In the movie “Inside Out 2", the words “I’m not good enough” were running on Riley's mind over and over again. Why? I mean, why in general does it happen not only to Riley? Bruce Lee taught that comparing yourself to others or copying an external personality stems from an inner sense of insecurity. He believed people need to have faith in their own uniqueness instead of chasing a successful personality to duplicate. The grass is always greener on the other side = delete this thought immediately. The stuff shown via screens and social media have nothing to do with reality. In other words, restrict screen time as much as possible. Before jumping into conclusion, think twice. The truth, in most cases, is hard to discover.
+ career decisions;
 
-3\. Do I want short-term help or an ongoing relationship?
+ leadership;
 
-Sometimes you need three conversations about one difficult decision.
+ confidence;
 
-Sometimes you want someone who will work with you for six months or longer.
+ relationships;
 
-Know which one you're looking for. Be patient and enjoy the process. “Patience is bitter, but its fruit is sweet”(ARISTOTLE).
+ personal development;
 
-4\. Can I speak with the coach before committing?
+ life transitions;
 
-If possible, have an introductory conversation.
+ accountability;
 
-Pay attention to how you feel during it.
+ major personal or professional change.
 
-Do you feel listened to?
+Start with your actual goal.
 
-Can you explain what you're struggling with?
+A person facing a career transition may need a different kind of coach from someone
 
-Does the person understand what you're trying to accomplish?
+who wants stronger habits, greater confidence, or better leadership skills.
 
-Do they challenge you in a useful way?
+An introductory conversation can help you understand how the coach works.
 
-Be aware you can have the wrong impression. In the anime series "Naruto", Itachi once said: "It is not wise to judge others based on your own perception and by their appearances". In the book “Le Petit Prince” by Antoine de Saint-Exupéry, the famous quote means that love, friendship and care are felt internally rather than measured with the eyes. Feelings and the heart exist to help us perceive the invisible, essential truths of life that physical eyes cannot measure.
+Explain what you are trying to accomplish.
 
-5\. What happens if it isn't working?
+Listen to the questions they ask.
 
-You shouldn't feel trapped in a coaching relationship.
+Notice whether the conversation helps you think more clearly.
 
-Ask about cancellation, changing the arrangement and what happens if you decide the relationship isn't a good fit. Maybe it is not meant to be. Sometimes it happens and it's not a shame, just flow, let go and move on. In the anime series "Naruto" Jiraiya once said: "A place where someone still thinks of you, that's a place you can call home". So, if nobody thinks about you and you are “just another brick in the wall”, maybe it's a sign you are not in the right place.
+Coaching is a relationship, and the quality of that relationship matters.
 
-Don't try to recreate BetterUp exactly
+Option 3: Consider Another Form of Support
 
-There is a temptation to search for "the next BetterUp."
+Your reflection may show that another kind of support fits your current goal more
 
-I would resist that.
+closely.
 
-BetterUp was one particular way of delivering coaching.
+A career adviser may help with a specific professional transition.
 
-Your next coaching relationship doesn't have to look the same.
+A mentor may share experience from a field you want to enter.
 
-Maybe you want more continuity.
+A consultant may help with a defined professional or business problem.
 
-Maybe you want longer conversations.
+A therapist may be appropriate when the main concern involves mental health,
 
-Maybe you want someone who knows your situation personally.
+emotional distress, trauma, or another clinical issue.
 
-Maybe you want a coach who works with a smaller number of clients and can give you more individualized attention.
+A structured course may help when your main goal is to develop a specific skill.
 
-Or maybe you realize that you don't need coaching as often as you thought.
+Ask yourself:
 
-The end of one service can be an opportunity to reconsider what you actually need. According to Bruce Lee: Fluid Adaptability ("Be Water"): True strength comes from flowing with circumstances rather than fighting against them, absorbing what is useful and discarding the rest. Have the ability to help yourself better than just searching for a better application or website. "God helps those who help themselves". According to the Jewish narrative, the story of Jesus was about someone who believed that he was the Messiah. A group of people followed him, while another group hated him and was ratting him to the Romans. The Romans took Jesus into custody to investigate him. During the investigation, they asked him whether he was the Messiah, but he refused to answer. He was then taken along the Via Dolorosa, to make him suffer before his execution. During the execution, Jesus called upon the Lord to save him, as a way of proving that he was the Messiah. However, this did not happen. He then quoted King David, saying, “Oh Lord, why have you forsaken me?” God helps those who help themselves.
+What kind of help best matches the problem I am trying to solve?
 
-If you're worried about losing your progress
+Clear goals make this choice easier.
 
-This is probably the biggest concern.
+Option 4: Practice Independently for a While
 
-You may be thinking:
+You may also discover that you already have useful tools and want time to apply
 
-"I've spent all this time working on myself. Am I going to have to start again?"
+them.
 
-No.
+Ask yourself:
 
-Your progress isn't stored inside BetterUp.
+What did I learn from coaching that I can now put into practice on my own?
 
-The platform is only where some of the conversations happened.
+You might continue:
 
-What you learned, the decisions you made, the habits you developed and the things you discovered about yourself belong to you.
+ reviewing your goals every week;
 
-The goal of coaching should never be to make you dependent on a coach or a platform.
+ keeping a journal;
 
-Ideally, coaching should help you become more capable of handling your own life.
+ using questions that helped you during coaching;
 
-If you decide to continue with another coach, you aren't starting from the beginning.
+ setting monthly priorities;
 
-You're continuing from where you are now. In the movie “America X” which is about two European-American, skinhead brothers from Los Angeles who are involved in the White supremacist movement. After Derek(main character) serves three years in prison for killing two gang members, he is released on parole as a changed man and tries to prevent Danny(his younger brother) from being indoctrinated further. While being in jail his black school principal comes to visit Derek to talk with him. During the conversation, his principal said to him: “you are not asking the right questions”, then Derek responded: “what are the right questions?”. Then his black principal asks him directly “what you've been doing so far promoted you and your family somehow. Derek’s answers: “no”. The movie ends with one of the most important insights in life: “life is too short to spend it on hatred, it doesn't really worth it”. And Derek quotes Abraham Lincoln while saying “We are not enemies, but friends”. The media and politicians want us to fight each other and to hate each other and many people are tricked into it. To start a brand new chapter in your life isn't a bad thing. This is what Derek decided to do after he was released from prison. Even if you start from zero it doesn't matter as long as you are on the right path.
+ tracking an important habit;
 
-A simple transition plan
+ reviewing difficult decisions in writing;
 
-If you are currently using BetterUp, here's what I would do.
+ creating your own accountability routine.
 
-First, check your actual subscription end date.
+A period of independent practice can show you which lessons have already become
 
-Second, save the coaching notes, messages, assessments and resources that you want to keep.
+part of your daily life.
 
-Third, write down the three most important things you have learned from your coaching.
+It can also show you where outside support still adds value.
 
-Fourth, write down the problems or goals you still want to work on.
+Choose Your Next Coach More Deliberately
 
-Fifth, ask your current coach whether continuing independently is possible.
+If another coach feels like the right next step, use what you already learned about
 
-Sixth, if it isn't, speak with two or three potential coaches before choosing one.
+yourself.
 
-And finally, don't choose someone simply because they are the closest replacement for BetterUp.
+Your previous coaching experience has probably taught you something about the way
 
-Choose someone who is a good fit for where you are going next. According to the scroll of Kohelet "Vanity of vanities, all is vanity". In other words, "Everything is meaningless". **We,  humans, often make a tragedy even if something which is not a big deal happens.** Looking at a glass as half empty reflects a natural human survival trait called negativity bias, which causes our brains to focus on risks and losses rather than gains. You emphasize the negative stuff instead of emphasizing the positive, right? Do you remember when Luke Skywalker realized he can't run away from his destiny and he has to become the last Jedi? He returned to his family and discovered they were all dead. The scroll of Kohelet (Ecclesiastes) is a biblical wisdom book in the Hebrew Bible that explores the fleeting, temporary nature of human life and effort (attributed to King Solomon in his later years, reflecting on his vast wealth, wisdom and experiences). "Utter futility, everything is futile" (or "vanity of vanities, all is vanity"), portraying human labor and life under the sun as temporary and elusive like breath. Key Takeaways: The Cycle of Nature: Generations come and go, while the physical earth, sun, and rivers repeat their eternal circuits without ultimate final change or lasting human grasp. Time and Seasons: Chapter 3 famously outlines an appointed season for every human experience(from birth and death to weeping and laughing, building and tearing down). The Resolution: Rather than despair, Kohelet advises finding joy in simple daily gifts(eating, drinking, and finding satisfaction in one’s toil). It concludes that the ultimate duty of humanity is to fear God and keep His commandments. Reading Tradition Sukkot: The scroll is traditionally read publicly during the Jewish holiday of Sukkot (the Feast of Tabernacles). Purpose: Reading it during the harvest festival serves as a humbling reminder not to get lost in material success or physical harvests, but to keep life grounded in a higher spiritual purpose. So, if we put all the puzzle pieces together regarding BetterUp and the someone you'd choose or not simply because they are the closest replacement for = Everything is meaningless. The fusion of Karma with destiny is more likely to be counting on.
+you like to work.
 
-You don't have to start over
+1\. What Am I Trying to Change?
 
-The end of BetterUp's individual coaching program may be disappointing, especially if you have developed a strong relationship with your coach.
+“Personal development” covers many different goals.
 
-But it doesn't have to mean the end of your personal development.
+A clearer goal gives the relationship direction.
 
-In some ways, it can be a useful moment to ask a more fundamental question:
+You may want to:
 
-"What do I actually need help with now?"
+ make a career decision;
 
-Maybe the answer is another coaching relationship.
+ build confidence;
 
-Maybe it is a different kind of professional support.
+ improve communication;
 
-Maybe it is a few months of putting what you've already learned into practice.
+ create better habits;
 
-There is no universal answer.
+ deal with procrastination;
 
-What matters is that the next step is chosen deliberately rather than simply because a platform you were using has ended.
+ become a stronger leader;
 
-If you already know that you want to continue working with someone one-on-one, I offer direct coaching rather than putting you through a large platform or trying to force you into a standardized program.
+ make a major life transition;
 
-The first step can simply be a conversation about where you are now, what you are trying to change, and whether I am the right person to help.
+ find greater direction.
 
-You don't have to commit to anything before you know whether the fit is right.
+Try to describe the issue in one or two sentences.
 
-P.S UNIVERSAL ADVICE...
+For example:
 
-Save money every week. It doesn't matter how much. Just save.
+“I want to decide whether to stay in my current career or move into a new field.”
 
-Listen to your parent's advice... At the end of the day, they are the only ones who want the best for you.
+Now both you and the coach have something concrete to work with.
 
-Choose your friends wisely as you are the product of your environment.
+2\. What Coaching Style Helps Me Think Clearly?
 
-Learn to be alone and independent!
+Different coaches work in different ways.
 
-It's a skill few master.
+Some rely heavily on questions and reflection.
 
--Educate yourself. read, read, read.
+Others use frameworks, exercises, feedback, or practical suggestions.
 
-Be healthy & look after your body.
+Think about your previous experience.
 
-Don't wait for someone to love you; learn to love YOURSELF first.
+Which conversations helped you most?
 
-You'll be okay(:
+Did direct questions help?
+
+Did structured exercises help?
+
+Did you benefit from someone challenging your assumptions?
+
+Did practical suggestions help you take action?
+
+Understanding your preferred style can make the next relationship more productive.
+
+3\. How Much Support Do I Need?
+
+Your answer may depend on the problem.
+
+One difficult decision may require a few focused conversations.
+
+A major career or life transition may benefit from a longer relationship.
+
+Think about the level and duration of support that fit your current situation.
+
+4\. Can I Speak With the Coach Before I Commit?
+
+An introductory conversation can tell you a great deal about communication.
+
+During that conversation, ask yourself:
+
+Do I feel heard?
+
+Can I explain what I am struggling with clearly?
+
+Does this person understand what I want to achieve?
+
+Do their questions help me think?
+
+Do I feel comfortable being open with them?
+
+The first conversation gives you useful information about how working together may
+
+feel.
+
+5\. What Would Progress Look Like?
+
+Imagine that you work together for three or six months.
+
+What would be different?
+
+Perhaps you would finally make a decision that has been delayed.
+
+Perhaps you would communicate more confidently at work.
+
+Perhaps you would follow through on goals more consistently.
+
+Perhaps you would handle a particular challenge with greater confidence and less
+
+outside guidance.
+
+Define progress in language that makes sense to you.
+
+Then return to that definition during the coaching process.
+
+Clear signs of progress keep the relationship connected to a purpose.
+
+Coaching Should Strengthen Your Own Judgment
+
+There is a larger lesson in this transition.
+
+We now have more tools than ever for helping us think.
+
+A coach can offer questions and perspective.
+
+A platform can provide structure.
+
+An assessment can help identify patterns.
+
+A search engine can provide information.
+
+AI can organize ideas, suggest questions, and help us examine a problem from several
+
+angles.
+
+Each of these tools can be valuable.
+
+Their strongest role is to support your thinking while you remain responsible for your
+
+choices.
+
+No coach knows every detail of your life.
+
+No assessment can capture your entire personality.
+
+No platform can understand every relationship, priority, fear, responsibility, and goal
+
+that shapes a major decision.
+
+Your own judgment therefore remains central.
+
+Effective coaching strengthens that judgment.
+
+Over time, you begin to recognize your own patterns earlier.
+
+You learn which questions help you think clearly.
+
+You become better at separating an immediate emotional reaction from a longer-term
+
+priority.
+
+You learn how to turn a broad problem into a decision you can actually work through.
+
+You develop ways to hold yourself accountable.
+
+This is where coaching can create value that lasts beyond a subscription or a platform.
+
+The conversations may happen inside BetterUp, but the insight you gain becomes part
+
+of your own experience. The decisions you made, habits you developed, and lessons
+
+you learned remain yours.
+
+This also changes the way you can think about technology.
+
+Use technology to gather information.
+
+Use AI to explore possibilities.
+
+Use assessments to notice patterns.
+
+Use coaches to gain perspective and challenge your thinking.
+
+Then bring those inputs together and make a decision that fits your own
+
+circumstances.
+
+Personal development becomes stronger when outside support gradually improves
+
+your ability to guide yourself.
+
+That is a useful standard for evaluating any future coaching relationship:
+
+Am I becoming clearer, more capable, and more confident in the way I make
+
+decisions?
+
+A good coaching experience should gradually move you in that direction.
+
+A Simple Transition Plan
+
+If your BetterUp access is coming to an end, you can turn the transition into a simple
+
+process.
+
+Step 1: Check your exact end date
+
+Confirm when your subscription and access finish.
+
+Step 2: Save what matters
+
+Keep useful notes, messages, assessments, exercises, and resources while you still
+
+have access.
+
+Step 3: Write down your three most important lessons
+
+Ask yourself:
+
+What did coaching teach me that I want to continue using?
+
+Keep the answer simple and specific.
+
+Step 4: Identify what still needs attention
+
+Write down one or two goals or problems that still matter.
+
+Avoid creating a long list.
+
+Focus on the areas that would make the biggest difference in your life right now.
+
+Step 5: Identify the kind of support you need
+
+Ask whether your main need is:
+
+ a coaching relationship;
+
+ accountability;
+
+ specialist knowledge;
+
+ emotional or clinical support;
+
+ structure;
+
+ or time to practice independently.
+
+Step 6: Talk With the Right People
+
+If your current coach is especially valuable to you, ask about possible ways to
+
+continue working together.
+
+If you want a new coach, speak with a few people before making your decision.
+
+Use the conversations to understand their style and how they would approach your
+
+goal.
+
+Step 7: Define Your Next Step
+
+Choose one clear action.
+
+Book a conversation.
+
+Create an independent routine.
+
+Contact another professional.
+
+Set a review date for yourself.
+
+Your transition becomes easier when reflection leads to action.
+
+The original version of this plan already contained the essential practical steps:
+
+checking the subscription date, saving materials, identifying lessons and remaining
+
+goals, speaking with the current coach, and considering other coaches.
+
+You Are Continuing From Where You Are
+
+The end of BetterUp for Individuals may feel significant, especially when you have
+
+built a strong relationship with a coach.
+
+Your development continues beyond the platform.
+
+The conversations you had helped shape ideas.
+
+The decisions you made created experience.
+
+The habits you practiced created skills.
+
+The questions you learned to ask can continue helping you long after the subscription
+
+ends.
+
+This transition therefore gives you a useful opportunity to ask:
+
+What do I actually need at this stage of my life?
+
+Your answer may be another coach.
+
+It may be a different professional.
+
+It may be a more structured personal routine.
+
+It may be time to practice independently and see how much of the work you can now
+
+carry forward yourself.
+
+There is no single next step that fits everyone. Your own needs, goals, and experience
+
+should guide the decision.
+
+The most useful next step is the one that fits the person you are becoming and the
+
+goals you want to pursue.
+
+You have already done part of the work.
+
+Now you can decide how you want to continue it.
+
+If You Want to Continue With One-to-One Coaching
+
+If you already know that personal one-to-one coaching is the kind of support you
+
+want, the next step can begin with a conversation.
+
+I offer direct coaching built around the person rather than a standardized program.
+
+We can start by talking about where you are now, what you want to change, and what
+
+kind of support would help you move forward.
+
+The first conversation is simply an opportunity to see whether working together feels
+
+useful and whether the approach fits your goals.
