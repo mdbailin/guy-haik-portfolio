@@ -2,742 +2,434 @@
 title: 'BetterUp Individual Coaching Is Ending: What Are Your Options Before January 2027'
 slug: 'BetterUp-Individual-Coaching-Is-Ending:-What-Are-Your-Options-Before-January-2027'
 summary: |-
-  The end of BetterUp for Individuals creates an important moment to review what
-  coaching has actually given you and decide what kind of support you need next. The
-  most useful first step is to look back at your progress, save the material that still
-  matters, and identify which parts of the coaching experience were most valuable to
-  you.
-  For some people, the main value came from the relationship with the coach. For
-  others, it came from structure, accountability, regular sessions, or practical tools.
-  Understanding that difference can help you choose your next step more clearly.
-  You may decide to continue with your current coach, find a new coach, work with
-  another professional, or practice independently for a period of time. Whatever you
-  choose, the goal is to carry forward the lessons, skills, and self-awareness you have
-  already developed.
-  A good next step should fit your current goals and help you continue growing with
-  greater clarity, confidence and independence.
+  Good coaching should leave you better able to guide yourself after the coaching ends, not simply dependent on the coach or platform.
+  The real value of coaching is what becomes part of how you think, make decisions, recognize patterns, and act when the coach is no longer in the conversation.
+  BetterUp’s ending is therefore an opportunity to ask not just “What should replace it?” but “What did I learn that I can now carry forward?”
 author: Guy David Haik
 publishedAt: 2026-09-13T00:00:00.000Z
 tags:
   - Navigation
   - Adaptability
-  - Profits VS Investment
-  - Time Management
-  - Organize Details
+  - Self-Leadership
+  - Coaching Relationships
+  - Self-Awareness
+  - Personal Growth
+  - Accountability
+  - Autonomy
+  - Decision Making
+  - Leadership Development
 ---
 
-BetterUp Individual Coaching Is Ending: How to Decide What Comes Next
+What Should Good Coaching Leave Behind?
 
-If you have been using BetterUp for individual coaching, the end of the program may
+BetterUp for Individuals is coming to an end. BetterUp began winding down its
 
-leave you with an important question:
+individual subscription plans in February 2026, and the service is scheduled to close
 
-What should I do next?
+completely on January 31, 2027. Some members will lose access earlier when their
 
-For many people, coaching becomes more than a scheduled conversation. Over time,
+current subscription ends, and BetterUp recommends that they save their coaching
 
-your coach may come to understand your goals, the decisions you are facing, the
+work and message history before that happens. For people who have spent months
 
-habits you are trying to change, and the areas of your life where you want to grow.
+working with the same coach, this may feel like more than the loss of a subscription.
 
-That relationship can become an important source of reflection, structure, and
+The relationship may have become part of the way they deal with difficult decisions,
 
-accountability.
+unfinished goals, or periods when motivation is low. That makes the end of BetterUp
 
-BetterUp for Individuals is now winding down. The program is scheduled to officially
+interesting for a reason that goes beyond the company itself. It creates a natural point
 
-end on January 31, 2027. Your own access may end earlier depending on your
+at which to ask what coaching is supposed to leave behind.
 
-subscription and billing cycle.
+My argument is simple: good coaching should leave a person better able to guide
 
-This transition creates a useful opportunity to look more carefully at your coaching
+themselves when the coaching relationship ends. I do not mean that successful
 
-experience.
+coaching should make people unwilling to ask for help again. There are many
 
-A good starting point is to identify what part of coaching actually helped you move
+situations in which another person\&#39;s knowledge, perspective, or support remains
 
-forward.
+valuable. The point is that coaching should change something in the client\&#39;s own way
 
-Perhaps the most valuable part was the relationship with your coach. You may have
+of approaching problems. A person may become more precise about what is bothering
 
-benefited from having someone who listened carefully, challenged your thinking,
+them, more aware of a recurring pattern, or better able to move from thinking about a
 
-remembered your goals, and held you accountable.
+decision to acting on it. If the work has been useful, some part of it should remain
 
-Perhaps the structure mattered just as much. Regular appointments, assessments,
+available after the conversation itself is over.
 
-exercises, resources, and progress reviews can create a routine that makes personal
+That idea is harder to measure than the number of sessions completed or satisfaction
 
-development easier to maintain.
+with a particular coach. It also requires some care when discussing research. Much of
 
-For many people, the value comes from both.
+the strongest evidence available concerns executive and workplace coaching rather
 
-Understanding that difference can make the next decision much clearer.
+than consumer life coaching. I would therefore use that literature to clarify what
 
-The end of BetterUp for Individuals is an opportunity to identify what coaching
+coaching can sometimes develop, rather than treating it as proof that every coaching
 
-actually gave you, understand what support you still need, and choose your next
+relationship has the same effect.
 
-step with greater clarity and independence.
+When External Support Becomes an Internal Skill
 
-That next step may involve another coach, another kind of professional support, or a
+People usually seek coaching because something in the present feels difficult. A
 
-period of applying what you have already learned.
+decision has been delayed, a goal keeps slipping, or the person feels stuck in a pattern
 
-The important starting point is understanding what worked for you.
+they understand only vaguely. A coach introduces structure into that situation. There
 
-What Is Changing at BetterUp?
+is a scheduled conversation, another person asking questions, and an expectation that
 
-The BetterUp for Individuals program is coming to an end.
+the client will return to the issue rather than allow it to disappear into everyday life.
 
-According to BetterUp\&#39;s guidance, January 31, 2027 is the official end date for the
+None of this is dramatic, but it can change the way a problem is handled.
 
-program. New individual subscriptions and coaching sessions stopped being available
+Imagine someone who has been saying for a year that they want to leave their job. “I
 
-for purchase on January 31, 2026, and subscription renewals ended on July 31, 2026.
+hate my job” may accurately describe how the person feels, yet it is still too broad to
 
-Your own access may finish before January 2027 depending on your current
+support a careful decision. The dissatisfaction may come from the manager, the
 
-subscription.
+profession itself, salary, exhaustion, fear of stagnation, or some combination of them.
 
-Your first practical step is therefore simple:
+A useful coaching conversation can slow the problem down enough to separate these
 
-Check the exact date when your own access ends.
+elements. Once that happens, the client can ask more specific questions: what exactly
 
-Knowing your timeline gives you time to review your progress, preserve useful
+needs to change, which parts of the situation are temporary, what information is
 
-information, and decide what kind of support would serve you well in the next stage.
+missing, and what risks are real rather than assumed. The coach has not made the
 
-Use the Remaining Time Well
+decision. The problem has simply become easier to think about.
 
-The final weeks or months of your BetterUp access can serve a clear purpose.
+Research on executive coaching gives some support to the idea that coaching can
 
-Use them to collect what you have learned and turn your coaching experience into
+affect capacities that extend beyond a single conversation. Nicolau et al. (2023)
 
-something you can continue using.
+reviewed 20 controlled studies and reported positive effects on outcomes including
 
-BetterUp recommends saving coaching work and message history before access ends.
+goal attainment, self-efficacy, psychological capital, and resilience. Grant, Curtayne,
 
-Create a simple personal record of your experience.
+and Burton (2009), in a randomized controlled study involving 41 executives, also
 
-You may want to keep:
+found greater goal attainment, resilience, and workplace well-being among
 
- your original goals;
+participants who received coaching. Their qualitative findings included increased self-
 
- important insights from coaching sessions;
+confidence and personal insight. These studies do not demonstrate that coaching
 
- exercises or activities that helped you;
+automatically creates independence. They do show that coaching can influence
 
- goals you have already reached;
+resources that remain relevant after a particular session or problem has passed.
 
- goals you are still working toward;
+Self-efficacy is especially useful here because it concerns a person\&#39;s belief in their
 
- questions that remain open;
+ability to handle a task or challenge. A coach may help somebody through one
 
- action plans you created;
+difficult choice, but a stronger sense of self-efficacy can affect the next one as well.
 
- useful notes from conversations with your coach;
+The difference is subtle. At first, the person may depend on the scheduled session to
 
- assessments and resources that still matter to you.
+examine what happened during the week. Later, they may begin doing that review
 
-The purpose is to create a clear picture of your development.
+before the meeting. A question that originally came from the coach may become a
 
-Your original goals can show you how your priorities changed.
+question the client asks alone. The same is true of accountability. Knowing that
 
-Your notes may remind you of ideas that became important over time.
+another person will ask whether something was done can initially provide the pressure
 
-Your unfinished goals can show you where you want to focus next.
+needed to act. With repetition, the client may develop a more reliable way of holding
 
-You can also use one of your final sessions to review your progress with your coach.
+themselves to a commitment.
 
-Ask:
+This is the part of coaching I find most interesting. The visible product is the
 
-What progress have I made?
+conversation, but the more durable effect may lie in a change in how the client
 
-Which patterns have changed?
+handles the time between conversations. A person who has learned to identify the real
 
-Where do I still get stuck?
+problem, test an assumption, or turn a vague intention into a concrete action has
 
-Which tools have helped me most?
+acquired something that is not tied to the platform where the learning occurred.
 
-What should I continue practicing?
+Why Autonomy Matters
 
-A coach who has worked with you over time may notice progress that has become
+The idea of autonomy helps explain why this matters without turning independence
 
-difficult for you to see yourself.
+into a demand to do everything alone. Schiemann, Mühlberger, and Jonas (2018)
 
-This review gives you a clearer understanding of what the coaching experience
+examined the role of autonomy in coaching across three studies grounded in Self-
 
-actually contributed to your life.
+Determination Theory. In their first study, clients expected coaching to fulfil the need
 
-And that leads to the most important question in the transition.
+for autonomy more strongly than the needs for competence or relatedness. Their work
 
-What Was Actually Helping You?
+also examined how the coaching relationship could support that need. In this context,
 
-Two people can use the same coaching platform and receive value from completely
+autonomy refers to acting with a sense of choice and ownership. It does not mean
 
-different parts of the experience.
+refusing advice or avoiding relationships.
 
-For one person, the coach may be the most valuable part.
+That distinction is important because it changes the standard by which coaching is
 
-For another, regular appointments may create accountability.
+judged. A coach can be highly involved while leaving responsibility for the decision
 
-Someone else may value exercises and assessments because they help organize
+with the client. They can challenge an explanation, point out an inconsistency, or ask
 
-thoughts and identify patterns.
+whether fear is being mistaken for evidence. The client still decides what the
 
-Another person may simply benefit from having a regular place and time for personal
+observation means and what to do next. Over time, a person may become better at
 
-development.
+performing some of that examination without prompting. The coach remains useful
 
-Your next step becomes clearer when you identify your own source of value.
+because another perspective can reveal things that are difficult to see from inside one\&#39;s
 
-Was the Relationship With Your Coach the Main Source of Value?
+own situation, but the client\&#39;s judgment becomes more active rather than less.
 
-A strong coaching relationship can provide continuity.
+This also prevents autonomy from becoming another simplistic coaching slogan.
 
-Your coach may already understand the decisions you have struggled with, the goals
+Someone may become more autonomous and still decide that continued coaching is
 
-you have set, the habits you have tried to change, and the situations that repeatedly
+useful. Another person may recognize that the issue they are dealing with belongs in
 
-bring you back to the same questions.
+therapy, mentoring, or another form of professional support. Knowing when outside
 
-You may have valued having someone who:
+help is needed is itself part of sound judgment. The goal is therefore not permanent
 
- listened carefully;
+self-sufficiency. It is a clearer sense of ownership over the questions, decisions, and
 
- asked questions that changed your perspective;
+actions that belong to one\&#39;s own life.
 
- challenged assumptions;
+For that reason, I would be cautious about describing coaching as successful simply
 
- helped turn intentions into concrete actions;
+because the client feels encouraged after a session. Feeling better can matter,
 
- remembered commitments from earlier conversations;
+especially during a difficult period, but encouragement by itself tells us little about
 
- provided accountability;
+what the person can do differently. A more demanding question is whether the client
 
- gave you a regular space to think out loud.
+is becoming better at recognizing what kind of problem they are facing and how they
 
-If these were the strongest parts of your experience, the quality of the relationship
+should respond to it. Sometimes the answer will still involve another person. What
 
-should play an important role in your next decision.
+changes is the quality of the choice.
 
-Did the Structure Help You Stay Consistent?
+The Relationship Still Matters
 
-For some people, regular structure creates much of the value.
+An argument about autonomy can easily go too far if it makes the relationship with
 
-Appointments create commitment.
+the coach sound secondary. The available research suggests that it is not. Bozer and
 
-Goals give conversations direction.
+Jones (2018) reviewed 117 empirical studies of workplace coaching and identified
 
-Exercises keep the work active between sessions.
+several areas associated with coaching effectiveness, including self-efficacy,
 
-Regular reviews create accountability.
+motivation, goal orientation, trust, interpersonal attraction, feedback, and support
 
-Resources give you something concrete to return to.
+from the work environment. Their review does not point to one universal ingredient
 
-Ask yourself:
+that makes coaching work. It presents a more complicated picture in which the
 
-Would I have worked on these goals as consistently without regular sessions?
+characteristics of the client, the coach, the relationship, and the surrounding
 
-Did having an appointment make me prepare and reflect?
+environment all matter.
 
-Did written goals help me stay focused?
+That complexity makes intuitive sense. A person may arrive at coaching with a
 
-Was accountability one of the main reasons I kept moving forward?
+practical question and take several conversations to say what is actually troubling
 
-Your answers can show you what kind of support you need next.
+them. Trust affects whether uncomfortable information is disclosed. Continuity allows
 
-The Answer May Be Both
+a coach to notice when an old pattern returns in a different form. A coach who already
 
-For many people, the relationship and the structure work together.
+knows the history of a career decision, for example, may recognize that what looks
 
-A good coach becomes more effective through continuity. A structured process
+like a new dilemma is actually another version of the same fear that appeared six
 
-becomes more meaningful when a coach understands the person using it.
+months earlier. A new coach might eventually reach the same insight, but the existing
 
-Try completing these two sentences:
+relationship has accumulated context that cannot be transferred instantly.
 
-“The most useful part of BetterUp for me was \_\_\_\_\_\_ because \_\_\_\_\_\_.”
+For someone using BetterUp, the end of an established coaching relationship can
 
-“The part I still need help with is \_\_\_\_\_\_.”
+therefore represent a genuine loss. Starting again with another person requires
 
-These two answers create a strong starting point for your next decision.
+explanation, time, and a new process of building trust. BetterUp itself allows
 
-Decide What Kind of Support You Need Now
+members in supported programs to change coaches, which reflects the importance of
 
-Once you understand what helped you, the available options become easier to
+finding a workable fit rather than treating all coaches as interchangeable. None of this
 
-evaluate.
+weakens the argument for autonomy. The relationship can be important precisely
 
-Your next step should match your current needs, your goals, and the way you work
+because of what becomes possible inside it.
 
-best.
+A useful coach may notice a pattern before the client can see it. After enough
 
-Option 1: Continue With Your Current Coach
+repetition, the client may start noticing it earlier. The coach may initially provide the
 
-If the relationship with your coach has been especially valuable, ask whether there is
+accountability that gets an action completed; months later, the client may have
 
-an appropriate way to continue working together after your BetterUp engagement
+developed a routine that performs part of the same function. This does not make the
 
-ends.
+relationship disposable. It means the relationship has produced learning that is no
 
-Your coach may have an independent practice, another professional setting, or another
+longer confined to the hour in which the conversation takes place.
 
-way of providing coaching. Every coach\&#39;s situation will be different, so a direct
+The difference matters because dependence can sometimes be mistaken for continuity.
 
-conversation is the best place to begin.
+Continuing to work with the same coach can be reasonable when the relationship is
 
-If continuing together is possible, clarify the practical details:
+still producing useful work. It becomes harder to justify when the only reason is that
 
- How often will you meet?
+the client no longer trusts themselves to think without the coach present. I would not
 
- What will each session cost?
+claim that research provides a simple threshold separating these situations. It does not.
 
- How will you communicate?
+The distinction is better used as a question the client can ask: is this relationship
 
- What happens between sessions?
+continuing to expand my ability to deal with problems, or has the relationship itself
 
- What goals will you work toward?
+become the only way I know how to deal with them?
 
- How will you review progress?
+What the End of BetterUp Reveals
 
-Continuity can be valuable because your coach already knows your history and the
+BetterUp is a useful case because its individual service combined a coaching
 
-work you have done together.
+relationship with a wider system. Members had access to sessions, messaging,
 
-Use the transition to confirm that the relationship still serves your current goals.
+assessments, resources, and different subscription arrangements. The platform also
 
-Option 2: Find Another Individual Coach
+supported recurring sessions, allowing some members to schedule coaching at the
 
-A new coach can be useful when you still want one-to-one support and have clear
+same day and time on a regular basis. The experience therefore contained at least two
 
-goals you want to continue working on.
+kinds of support: the human relationship with a coach and the structure created around
 
-You may want someone who specializes in:
+that relationship.
 
- career decisions;
+When the service disappears, those two forms of support become easier to separate. A
 
- leadership;
+person who misses the coach may be responding to the loss of trust, continuity, and
 
- confidence;
+shared history. Someone who struggles after the regular appointments disappear may
 
- relationships;
+discover that structure and accountability were more important than they realized.
 
- personal development;
+Another user may find that the assessments or written materials helped them give
 
- life transitions;
+language to problems they previously understood only as a general sense of
 
- accountability;
+dissatisfaction. BetterUp advises members to save their coaching work, resources,
 
- major personal or professional change.
+assessment reports, and messages before access ends. That is practical advice, but the
 
-Start with your actual goal.
+files themselves cannot show the whole effect of the experience.
 
-A person facing a career transition may need a different kind of coach from someone
+A more revealing review would ask what has changed in the person\&#39;s own thinking.
 
-who wants stronger habits, greater confidence, or better leadership skills.
+Perhaps a question that once had to come from the coach is now something the client
 
-An introductory conversation can help you understand how the coach works.
+asks automatically. Perhaps an old pattern becomes recognizable earlier. A person
 
-Explain what you are trying to accomplish.
+who used to spend months circling around a decision may now know how to identify
 
-Listen to the questions they ask.
+the missing information and make a choice. Another may have learned that
 
-Notice whether the conversation helps you think more clearly.
+motivation is unreliable and that scheduled accountability helps, which tells them
 
-Coaching is a relationship, and the quality of that relationship matters.
+something useful about the kind of structure they should build in the future. These are
 
-Option 3: Consider Another Form of Support
+modest changes, but they are also concrete. They describe what a person can now do
 
-Your reflection may show that another kind of support fits your current goal more
+differently.
 
-closely.
+This is why I would not frame the end of BetterUp primarily as a search for the
 
-A career adviser may help with a specific professional transition.
+closest replacement. That question assumes that the next step should reproduce the
 
-A mentor may share experience from a field you want to enter.
+previous arrangement. For some users, continuing with another coach may be exactly
 
-A consultant may help with a defined professional or business problem.
+the right choice. Others may need a different professional, a different structure, or
 
-A therapist may be appropriate when the main concern involves mental health,
+simply time to use what they have already learned. The more useful question comes
 
-emotional distress, trauma, or another clinical issue.
+first: what exactly was the coaching doing for me, and which parts of that work can I
 
-A structured course may help when your main goal is to develop a specific skill.
+now carry myself?
 
-Ask yourself:
+There is no clean research finding that answers that question for an individual client.
 
-What kind of help best matches the problem I am trying to solve?
+Coaching outcomes vary, the existing evidence comes largely from organizational
 
-Clear goals make this choice easier.
+settings, and the relationship between a particular coaching method and a particular
 
-Option 4: Practice Independently for a While
+personal outcome is not always easy to isolate. That uncertainty is useful rather than
 
-You may also discover that you already have useful tools and want time to apply
+inconvenient. It forces the argument to remain modest. Good coaching cannot
 
-them.
+guarantee independence, resilience, confidence, or better decisions. What it can
 
-Ask yourself:
+reasonably be expected to do is work in that direction: helping the client understand a
 
-What did I learn from coaching that I can now put into practice on my own?
+problem more accurately, act with greater ownership, and develop ways of thinking
 
-You might continue:
+that remain useful outside the session.
 
- reviewing your goals every week;
+The ending of a coaching relationship makes those changes easier to see. When the
 
- keeping a journal;
+scheduled meetings stop and the familiar coach is no longer present, the client
 
- using questions that helped you during coaching;
+discovers which parts of the process have become their own. Some will realize that
 
- setting monthly priorities;
+they still benefit from regular professional support. Others will notice that situations
 
- tracking an important habit;
+which once felt unmanageable are now easier to approach. Both outcomes can reflect
 
- reviewing difficult decisions in writing;
+learning. Knowing that another perspective is needed can be just as thoughtful as
 
- creating your own accountability routine.
+knowing that a problem can be handled alone.
 
-A period of independent practice can show you which lessons have already become
+For me, that is the most useful way to think about BetterUp\&#39;s transition. The company
 
-part of your daily life.
+is ending one service, but the larger question has little to do with the platform itself. A
 
-It can also show you where outside support still adds value.
+coaching relationship is temporary by nature. At some point the session ends, the
 
-Choose Your Next Coach More Deliberately
+client leaves, and ordinary life continues. Good coaching should leave something
 
-If another coach feels like the right next step, use what you already learned about
+behind in that ordinary life: a person who is better able to understand what they
 
-yourself.
+are facing, make a decision they can own, and recognize when outside help would
 
-Your previous coaching experience has probably taught you something about the way
+genuinely improve it.
 
-you like to work.
+References
 
-1\. What Am I Trying to Change?
+BetterUp. (2026). “BetterUp for Individuals”: Changes to Coaching Services FAQ.
 
-“Personal development” covers many different goals.
+Bozer, G., \&amp; Jones, R. J. (2018). Understanding the factors that determine workplace
 
-A clearer goal gives the relationship direction.
+coaching effectiveness: A systematic literature review. European Journal of Work and
 
-You may want to:
+Organizational Psychology, 27(3), 342–361.
 
- make a career decision;
+Grant, A. M., Curtayne, L., \&amp; Burton, G. (2009). Executive coaching enhances goal
 
- build confidence;
+attainment, resilience and workplace well-being: A randomised controlled study. The
 
- improve communication;
+Journal of Positive Psychology, 4(5), 396–407.
 
- create better habits;
+Nicolau, A., Candel, O. S., Constantin, T., \&amp; Kleingeld, A. (2023). The effects of
 
- deal with procrastination;
+executive coaching on behaviors, attitudes, and personal characteristics: A meta-
 
- become a stronger leader;
+analysis of randomized control trial studies. Frontiers in Psychology, 14, 1089797.
 
- make a major life transition;
+Schiemann, S. J., Mühlberger, C., \&amp; Jonas, E. (2018). Striving for autonomy: The
 
- find greater direction.
+importance of the autonomy need and its support within coaching. International
 
-Try to describe the issue in one or two sentences.
-
-For example:
-
-“I want to decide whether to stay in my current career or move into a new field.”
-
-Now both you and the coach have something concrete to work with.
-
-2\. What Coaching Style Helps Me Think Clearly?
-
-Different coaches work in different ways.
-
-Some rely heavily on questions and reflection.
-
-Others use frameworks, exercises, feedback, or practical suggestions.
-
-Think about your previous experience.
-
-Which conversations helped you most?
-
-Did direct questions help?
-
-Did structured exercises help?
-
-Did you benefit from someone challenging your assumptions?
-
-Did practical suggestions help you take action?
-
-Understanding your preferred style can make the next relationship more productive.
-
-3\. How Much Support Do I Need?
-
-Your answer may depend on the problem.
-
-One difficult decision may require a few focused conversations.
-
-A major career or life transition may benefit from a longer relationship.
-
-Think about the level and duration of support that fit your current situation.
-
-4\. Can I Speak With the Coach Before I Commit?
-
-An introductory conversation can tell you a great deal about communication.
-
-During that conversation, ask yourself:
-
-Do I feel heard?
-
-Can I explain what I am struggling with clearly?
-
-Does this person understand what I want to achieve?
-
-Do their questions help me think?
-
-Do I feel comfortable being open with them?
-
-The first conversation gives you useful information about how working together may
-
-feel.
-
-5\. What Would Progress Look Like?
-
-Imagine that you work together for three or six months.
-
-What would be different?
-
-Perhaps you would finally make a decision that has been delayed.
-
-Perhaps you would communicate more confidently at work.
-
-Perhaps you would follow through on goals more consistently.
-
-Perhaps you would handle a particular challenge with greater confidence and less
-
-outside guidance.
-
-Define progress in language that makes sense to you.
-
-Then return to that definition during the coaching process.
-
-Clear signs of progress keep the relationship connected to a purpose.
-
-Coaching Should Strengthen Your Own Judgment
-
-There is a larger lesson in this transition.
-
-We now have more tools than ever for helping us think.
-
-A coach can offer questions and perspective.
-
-A platform can provide structure.
-
-An assessment can help identify patterns.
-
-A search engine can provide information.
-
-AI can organize ideas, suggest questions, and help us examine a problem from several
-
-angles.
-
-Each of these tools can be valuable.
-
-Their strongest role is to support your thinking while you remain responsible for your
-
-choices.
-
-No coach knows every detail of your life.
-
-No assessment can capture your entire personality.
-
-No platform can understand every relationship, priority, fear, responsibility, and goal
-
-that shapes a major decision.
-
-Your own judgment therefore remains central.
-
-Effective coaching strengthens that judgment.
-
-Over time, you begin to recognize your own patterns earlier.
-
-You learn which questions help you think clearly.
-
-You become better at separating an immediate emotional reaction from a longer-term
-
-priority.
-
-You learn how to turn a broad problem into a decision you can actually work through.
-
-You develop ways to hold yourself accountable.
-
-This is where coaching can create value that lasts beyond a subscription or a platform.
-
-The conversations may happen inside BetterUp, but the insight you gain becomes part
-
-of your own experience. The decisions you made, habits you developed, and lessons
-
-you learned remain yours.
-
-This also changes the way you can think about technology.
-
-Use technology to gather information.
-
-Use AI to explore possibilities.
-
-Use assessments to notice patterns.
-
-Use coaches to gain perspective and challenge your thinking.
-
-Then bring those inputs together and make a decision that fits your own
-
-circumstances.
-
-Personal development becomes stronger when outside support gradually improves
-
-your ability to guide yourself.
-
-That is a useful standard for evaluating any future coaching relationship:
-
-Am I becoming clearer, more capable, and more confident in the way I make
-
-decisions?
-
-A good coaching experience should gradually move you in that direction.
-
-A Simple Transition Plan
-
-If your BetterUp access is coming to an end, you can turn the transition into a simple
-
-process.
-
-Step 1: Check your exact end date
-
-Confirm when your subscription and access finish.
-
-Step 2: Save what matters
-
-Keep useful notes, messages, assessments, exercises, and resources while you still
-
-have access.
-
-Step 3: Write down your three most important lessons
-
-Ask yourself:
-
-What did coaching teach me that I want to continue using?
-
-Keep the answer simple and specific.
-
-Step 4: Identify what still needs attention
-
-Write down one or two goals or problems that still matter.
-
-Avoid creating a long list.
-
-Focus on the areas that would make the biggest difference in your life right now.
-
-Step 5: Identify the kind of support you need
-
-Ask whether your main need is:
-
- a coaching relationship;
-
- accountability;
-
- specialist knowledge;
-
- emotional or clinical support;
-
- structure;
-
- or time to practice independently.
-
-Step 6: Talk With the Right People
-
-If your current coach is especially valuable to you, ask about possible ways to
-
-continue working together.
-
-If you want a new coach, speak with a few people before making your decision.
-
-Use the conversations to understand their style and how they would approach your
-
-goal.
-
-Step 7: Define Your Next Step
-
-Choose one clear action.
-
-Book a conversation.
-
-Create an independent routine.
-
-Contact another professional.
-
-Set a review date for yourself.
-
-Your transition becomes easier when reflection leads to action.
-
-The original version of this plan already contained the essential practical steps:
-
-checking the subscription date, saving materials, identifying lessons and remaining
-
-goals, speaking with the current coach, and considering other coaches.
-
-You Are Continuing From Where You Are
-
-The end of BetterUp for Individuals may feel significant, especially when you have
-
-built a strong relationship with a coach.
-
-Your development continues beyond the platform.
-
-The conversations you had helped shape ideas.
-
-The decisions you made created experience.
-
-The habits you practiced created skills.
-
-The questions you learned to ask can continue helping you long after the subscription
-
-ends.
-
-This transition therefore gives you a useful opportunity to ask:
-
-What do I actually need at this stage of my life?
-
-Your answer may be another coach.
-
-It may be a different professional.
-
-It may be a more structured personal routine.
-
-It may be time to practice independently and see how much of the work you can now
-
-carry forward yourself.
-
-There is no single next step that fits everyone. Your own needs, goals, and experience
-
-should guide the decision.
-
-The most useful next step is the one that fits the person you are becoming and the
-
-goals you want to pursue.
-
-You have already done part of the work.
-
-Now you can decide how you want to continue it.
-
-If You Want to Continue With One-to-One Coaching
-
-If you already know that personal one-to-one coaching is the kind of support you
-
-want, the next step can begin with a conversation.
-
-I offer direct coaching built around the person rather than a standardized program.
-
-We can start by talking about where you are now, what you want to change, and what
-
-kind of support would help you move forward.
-
-The first conversation is simply an opportunity to see whether working together feels
-
-useful and whether the approach fits your goals.
+Journal of Evidence Based Coaching and Mentoring, Special Issue 12, 98–110.
