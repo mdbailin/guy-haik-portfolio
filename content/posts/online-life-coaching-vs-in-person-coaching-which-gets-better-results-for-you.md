@@ -9,6 +9,14 @@ summary: |
   Ultimately, good coaching should help you become better able to understand yourself, make decisions, and guide yourself(whether the conversation happens online or in the same room).
 author: Guy David Haik
 publishedAt: 2026-10-02T00:00:00.000Z
+tags:
+  - Online vs In-Person Coaching
+  - Coaching Relationship
+  - Communication
+  - Online Life Coaching
+  - Life Coaching
+  - In-Person Coaching
+  - Online vs In-Person Coaching
 ---
 
 Online Life Coaching vs. In-Person Coaching: Which Approach Is Right for You?
@@ -55,7 +63,7 @@ There can be something useful about creating a clear separation between everyday
 
 At the same time, in-person coaching requires more planning.
 
-You have to travel to the coach, work around their location and schedule and possibly spend more time and money getting to each appointment. If you wish to be accepted a reputable job, it might be a good idea to come in person(to show that you're serious). The old school method = knocking on doors and after the door is open, put a foot in the door. Relates a song goes: "if you had one shot or one opportunity to seize everything you ever wanted, would you capture it or just let it slip?"(Eminem). But beyond that, there's nothing that can replace real interactions and relationships between people. In the movie  X-Men Origins: Wolverine (2009) there was a scene that Wolverine said to his brother Victor after winning together a battle vs villain Deadpool in the end of the movie: "This doesn't change anything between us Victor, we're done. Victor replied: "we can never be done, Jimmy. We're brothers and brothers look after each other". 
+You have to travel to the coach, work around their location and schedule and possibly spend more time and money getting to each appointment. If you wish to be accepted a reputable job, it might be a good idea to come in person(to show that you're serious). The old school method = knocking on doors and after the door is open, put a foot in the door. Relates a song goes: "if you had one shot or one opportunity to seize everything you ever wanted, would you capture it or just let it slip?"(Eminem). But beyond that, there's nothing that can replace real interactions and relationships between people. In the movie  X-Men Origins: Wolverine (2009) there was a scene that Wolverine said to his brother Victor after winning together a battle vs villain Deadpool in the end of the movie: "This doesn't change anything between us Victor, we're done. Victor replied: "we can never be done, Jimmy. We're brothers and brothers look after each other".
 
 Does the format affect the relationship?
 
@@ -75,7 +83,7 @@ There is no universal answer here.
 
 What matters is whether you feel comfortable enough with the coach to be honest.
 
-A coach can have impressive qualifications, but if you don't feel that you can speak openly with them, the qualifications may not mean very much to your particular situation. According to Bruce Lee’s vision, he didn't believe in belts or degrees or certificates. He had the ability to realize that, what's called bottom line, it depends on the person. This perspective represents people with emotional intelligence. In the anime series “Naruto”, Obito once said: “No one cared who I was until I put on a mask". So, maybe the mask represents a degree for some people to light curiosity. This is how psychology is merged in this kind of stuff. In general, history proves that manipulating people's minds is not a tough mission(the average person is influenced by superstitions, stigmas and stereotypes). Maybe you need to know much about history to implement insights that are related to coaching and psychology. Be aware that Psychology, Philosophy, History, Geography, Political Science etc..  it goes along. 
+A coach can have impressive qualifications, but if you don't feel that you can speak openly with them, the qualifications may not mean very much to your particular situation. According to Bruce Lee’s vision, he didn't believe in belts or degrees or certificates. He had the ability to realize that, what's called bottom line, it depends on the person. This perspective represents people with emotional intelligence. In the anime series “Naruto”, Obito once said: “No one cared who I was until I put on a mask". So, maybe the mask represents a degree for some people to light curiosity. This is how psychology is merged in this kind of stuff. In general, history proves that manipulating people's minds is not a tough mission(the average person is influenced by superstitions, stigmas and stereotypes). Maybe you need to know much about history to implement insights that are related to coaching and psychology. Be aware that Psychology, Philosophy, History, Geography, Political Science etc..  it goes along.
 
 Is online communication less personal?
 
@@ -91,7 +99,7 @@ If you are able to speak openly, listen carefully, and build trust with the pers
 
 In some cases, people may actually feel more comfortable talking from their own home.
 
-For someone who is nervous about entering a coaching office for the first time, that can make a difference. According to Bruce Lee: Fluid Adaptability ("Be Water"): True strength comes from flowing with circumstances rather than fighting against them, absorbing what is useful and discarding the rest. 
+For someone who is nervous about entering a coaching office for the first time, that can make a difference. According to Bruce Lee: Fluid Adaptability ("Be Water"): True strength comes from flowing with circumstances rather than fighting against them, absorbing what is useful and discarding the rest.
 
 What about convenience?
 
@@ -109,9 +117,7 @@ But if you are having coaching sessions every week, it can add up.
 
 At the same time, convenience is not everything.
 
-If travelling to a coach helps you take the session more seriously and gives you a clear space away from your normal routine, the additional effort may actually be useful. The former UFC lightweight champion of the world(Khabib Nurmagomedov) once said: "train, sleep, eat, repeat, patience, hard work, sacrifice. Without these things, it doesn't matter how talented you are. If you're not ready to sacrifice, you can stay at home". He mentions the word "sacrifice" a lot in his interviews. So, maybe it is a matter of how much you are going to sacrifice. Usually, something comes at on expenses of something else. So ,as mentioned in other articles, maybe you don't need more time but better priorities. 
-
- 
+If travelling to a coach helps you take the session more seriously and gives you a clear space away from your normal routine, the additional effort may actually be useful. The former UFC lightweight champion of the world(Khabib Nurmagomedov) once said: "train, sleep, eat, repeat, patience, hard work, sacrifice. Without these things, it doesn't matter how talented you are. If you're not ready to sacrifice, you can stay at home". He mentions the word "sacrifice" a lot in his interviews. So, maybe it is a matter of how much you are going to sacrifice. Usually, something comes at on expenses of something else. So ,as mentioned in other articles, maybe you don't need more time but better priorities.
 
 What about privacy?
 
@@ -135,7 +141,7 @@ It can also give you more options when searching for a coach who specializes in 
 
 In-person coaching can still offer flexibility, but you are naturally limited by geography.
 
-You need to find someone who is both suitable for you and accessible from where you live or work. So, flexibility is important no doubt but is it the purpose? In a race between a lion and a deer, many times the deer wins because the lion runs for food and the deer runs for life.Remember, purpose is more important than need. 
+You need to find someone who is both suitable for you and accessible from where you live or work. So, flexibility is important no doubt but is it the purpose? In a race between a lion and a deer, many times the deer wins because the lion runs for food and the deer runs for life.Remember, purpose is more important than need.
 
 What actually matters more than online or in-person?
 
@@ -177,7 +183,7 @@ You can try one approach and see how it feels.
 
 The important thing is not to choose a format simply because someone tells you that it is the "best" one.
 
-Choose the environment in which you believe you can be honest, engaged and willing to do the work. Who said what works best for the majority is going to work best for you. It is not something bad to diifrent. For example, most fighters attacked the head, Bruce Lee attacked your balance first. His low side kick targeted the legs to break your movement. Then he followed with a lightning fast back fist before you could recover. If you tried to strike back, Bruce used his intercepting punch to beat you to the target, but nothing became more legendary than his side kick. Famous for its explosive power against a shield holder. 
+Choose the environment in which you believe you can be honest, engaged and willing to do the work. Who said what works best for the majority is going to work best for you. It is not something bad to diifrent. For example, most fighters attacked the head, Bruce Lee attacked your balance first. His low side kick targeted the legs to break your movement. Then he followed with a lightning fast back fist before you could recover. If you tried to strike back, Bruce used his intercepting punch to beat you to the target, but nothing became more legendary than his side kick. Famous for its explosive power against a shield holder.
 
 What should good coaching leave you with?
 
@@ -207,7 +213,7 @@ That can happen through online coaching or in-person coaching.
 
 The format is only the environment.
 
-The real question is what you take from the experience. Can you now see things from a different point of view? Global mindset, for example, is to be aware of Yin and yang which is an ancient Chinese philosophical concept describing how opposite, contrasting forces are actually complementary, interconnected and vital for universal balance. Rocky once said: “It's not about how hard you can hit, it's about how hard you can get hit and keep moving forward. Same in life. In the movie “The Lord Of The Rings” which was filmed in the south island in New Zealand it seems like heaven does exist upon planet earth and it's located there. Beyond that it's a lovely spot, every place has its own issues. In other words, just another fantasy movie which has nothing to do with reality. But it's a part of marketing (similar to what's shown on social media). In the movie “Fight Club” they had a role that nobody talks about fight club but rules are meant to be broken, this is why it was made in the first place. We, humans, often make a tragedy even if something which is not a big deal happens. Looking at a glass as half empty reflects a natural human survival trait called negativity bias, which causes our brains to focus on risks and losses rather than gains. You emphasize the negative stuff instead of emphasizing the positive, right? Do you remember when Luke Skywalker realized he can't run away from his destiny and he has to become the last Jedi? He returned to his family and discovered they were all dead.  These things are the infrastructure for understanding how things go. 
+The real question is what you take from the experience. Can you now see things from a different point of view? Global mindset, for example, is to be aware of Yin and yang which is an ancient Chinese philosophical concept describing how opposite, contrasting forces are actually complementary, interconnected and vital for universal balance. Rocky once said: “It's not about how hard you can hit, it's about how hard you can get hit and keep moving forward. Same in life. In the movie “The Lord Of The Rings” which was filmed in the south island in New Zealand it seems like heaven does exist upon planet earth and it's located there. Beyond that it's a lovely spot, every place has its own issues. In other words, just another fantasy movie which has nothing to do with reality. But it's a part of marketing (similar to what's shown on social media). In the movie “Fight Club” they had a role that nobody talks about fight club but rules are meant to be broken, this is why it was made in the first place. We, humans, often make a tragedy even if something which is not a big deal happens. Looking at a glass as half empty reflects a natural human survival trait called negativity bias, which causes our brains to focus on risks and losses rather than gains. You emphasize the negative stuff instead of emphasizing the positive, right? Do you remember when Luke Skywalker realized he can't run away from his destiny and he has to become the last Jedi? He returned to his family and discovered they were all dead.  These things are the infrastructure for understanding how things go.
 
 If you want to try online coaching
 
