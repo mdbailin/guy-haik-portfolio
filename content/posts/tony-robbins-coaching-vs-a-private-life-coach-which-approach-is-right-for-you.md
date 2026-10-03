@@ -31,7 +31,7 @@ What if you don't want the Tony Robbins system? What if you simply want a coach 
 
 That is where the difference between a large coaching brand and a private life coach becomes interesting.
 
-This isn't about saying that one approach is automatically better than the other. They offer different experiences and what works for one person may not work for someone else. Does the brand really play an important role? When you buy a necktie, does it matter if the logo of LOUIS VUITTON appears somewhere? When it's about quality of course not, when it's about impression the answer would be of course yes. The Brand does not reflect the quality necessarily, but whether you are a cocky boy it might be good for show off. It is not a bad thing to be dressed properly but it is a bad thing to be cocky. Keanu Reeves, for example, is dressed super cool in his movies but in his daily life they say he is dressed modestly( he brought his mom to the Oscars instead of coming with a top model girl like many others ). 
+This isn't about saying that one approach is automatically better than the other. They offer different experiences and what works for one person may not work for someone else. Does the brand really play an important role? When you buy a necktie, does it matter if the logo of LOUIS VUITTON appears somewhere? When it's about quality of course not, when it's about impression the answer would be of course yes. The Brand does not reflect the quality necessarily, but whether you are a cocky boy it might be good for show off. It is not a bad thing to be dressed properly but it is a bad thing to be cocky. Keanu Reeves, for example, is dressed super cool in his movies but in his daily life they say he is dressed modestly( he brought his mom to the Oscars instead of coming with a top model girl like many others ).
 
 What is Tony Robbins coaching?
 
@@ -127,7 +127,7 @@ A famous name cannot guarantee that you will connect with a particular coach.
 
 Likewise, an unknown private coach cannot guarantee that they will be right for you.
 
-The individual relationship still matters. In Neuro-Linguistic Programming (NLP) courses they teach there's something called "rapport", a word comes from French which is equivalent to connection. It is the process of building immediate trust, harmony and a sense of shared connection with another person by emphasizing similarities and aligning communication styles. In many cases the word "style" has something unclear. If I'm used a specific fighting style, does it make the other ones less interesting? same with coding. For example, if I'm used to Java, so the other ones become irrelevant? Bruce Lee didn't believe in styles. It can be shown as something that separates among us. In NLP they teach that we are similar but different because the human image is the same. If we bleed, we all have red blood. They way each person understands the reality can be different.
+The individual relationship still matters. In Neuro-Linguistic Programming (NLP) courses they teach there's something called "rapport", a word comes from French which is equivalent to connection. It is the process of building immediate trust, harmony and a sense of shared connection with another person by emphasizing similarities and aligning communication styles. In many cases the word "style" has something unclear. If I'm used a specific fighting style, does it make the other ones less interesting? same with coding. For example, if I'm used to Java, so the other ones become irrelevant? Bruce Lee didn't believe in styles. It can be shown as something that separates among us. In NLP they teach that we are similar but different because the human image is the same. If we bleed, we all have red blood. The way each person understands the reality can be different.
 
 What about the coaching style?
 
@@ -161,7 +161,7 @@ Do you want accountability?
 
 Or do you need somewhere to slow down and understand what is actually happening in your life?
 
-Those are useful questions regardless of which coaching company you are considering.  Be aware you can have the wrong impression. In the anime series "Naruto", Itachi once said: "It is not wise to judge others based on your own perception and by their appearances". In the book “Le Petit Prince” by Antoine de Saint-Exupéry, the famous quote means that love, friendship and care are felt internally rather than measured with the eyes. Feelings and the heart exist to help us perceive the invisible, essential truths of life that physical eyes cannot measure. Maybe it is not meant to be. Sometimes it happens and it's not a shame, just flow, let go and move on. In the anime series "Naruto" Jiraiya once said: "A place where someone still thinks of you, that's a place you can call home". So, if nobody thinks about you and you are “just another brick in the wall”, maybe it's a sign you are not in the right place. 
+Those are useful questions regardless of which coaching company you are considering.  Be aware you can have the wrong impression. In the anime series "Naruto", Itachi once said: "It is not wise to judge others based on your own perception and by their appearances". In the book “Le Petit Prince” by Antoine de Saint-Exupéry, the famous quote means that love, friendship and care are felt internally rather than measured with the eyes. Feelings and the heart exist to help us perceive the invisible, essential truths of life that physical eyes cannot measure. Maybe it is not meant to be. Sometimes it happens and it's not a shame, just flow, let go and move on. In the anime series "Naruto" Jiraiya once said: "A place where someone still thinks of you, that's a place you can call home". So, if nobody thinks about you and you are “just another brick in the wall”, maybe it's a sign you are not in the right place.
 
 Tony Robbins coaching vs. a private life coach
 
@@ -259,7 +259,7 @@ Can you make a difficult decision without someone else making it for you?
 
 Can you take action?
 
-If the answer becomes yes, then something useful has happened. Be patient and enjoy the process. “Patience is bitter, but its fruit is sweet”(ARISTOTLE). 
+If the answer becomes yes, then something useful has happened. Be patient and enjoy the process. “Patience is bitter, but its fruit is sweet”(ARISTOTLE).
 
 A more personalized alternative
 
