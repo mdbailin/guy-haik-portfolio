@@ -27,9 +27,9 @@ The two can sometimes look similar from the outside. Both involve talking with a
 
 But they are not the same thing.
 
-The right choice depends largely on what you are actually trying to deal with. 
+The right choice **depends **largely on what you are actually trying to deal with.
 
-In NLP courses they teach that the word "depends" usually can be used as the right answer. Besides Math there's no science that stays stable and can't be proven wrong somehow. The way you understand a tree's growth also depends on spiritual and philosophical aspects. When a tree falls, everyone hears the sound. But when a tree grows, no one hears it. So keep growing quietly. Don't wait for applause. The noise isn't the proof. The roots are.
+In NLP courses they teach that the word "**depends**" usually can be used as the right answer. Besides Math there's no science that stays stable and can't be proven wrong somehow. The way you understand a tree's growth also depends on spiritual and philosophical aspects. When a tree falls, everyone hears the sound. But when a tree grows, no one hears it. So keep growing quietly. Don't wait for applause. The noise isn't the proof. The roots are.
 
 What does a therapist do?
 
@@ -73,7 +73,7 @@ That doesn't mean a coach has all the answers.
 
 In fact, I don't think they should.
 
-A good coach should help you become better at finding your own answers. Life is like a notebook. Two pages are already written by GOD. The first page is Birth. The last page is Farewell. Center pages are blank. So, fill them with SMILE & LOVE.
+A good coach should help you become better at finding your own answers. Life is like a notebook. Two pages are already written by GOD. The first page is Birth. The last page is Farewell. Center pages are blank. So, fill them with **SMILE & LOVE**.
 
 So what's the biggest difference?
 
@@ -99,7 +99,7 @@ Sometimes the most helpful thing you can do is get the right kind of professiona
 
 A responsible coach should be able to recognize this too.
 
-If a coach makes you feel that coaching is the answer to absolutely everything, I would be cautious. Bruce Lee once said while interviewed: " It's a combination of both. I mean, here it is the natural instinct, and here is control. You are to combine the two in harmony. Not if you have one to the extreme, you will be very unscientific. If you have another to the extreme, you become all of a sudden a mechanical man, no longer a human being. So it is a successful combination of both. It's not pure naturalness or unnaturalness. The ideal is unnatural naturalness or natural unnaturalness".Then the interviewer asked: "Yin Yang?", and Bruce replied: "right man, that's it". 
+If a coach makes you feel that coaching is the answer to absolutely everything, I would be cautious. Bruce Lee once said while interviewed: " It's a combination of both. I mean, here it is the natural instinct, and here is control. You are to combine the two in harmony. Not if you have one to the extreme, you will be very unscientific. If you have another to the extreme, you become all of a sudden a mechanical man, no longer a human being. So it is a successful combination of both. It's not pure naturalness or unnaturalness. The ideal is unnatural naturalness or natural unnaturalness".Then the interviewer asked: "Yin Yang?", and Bruce replied: "right man, that's it".
 
 When might coaching be useful?
 
@@ -145,7 +145,7 @@ The answer can point you in the right direction.
 
 And if you still aren't sure, it is okay to talk to a qualified professional and ask.
 
-You don't have to figure everything out by yourself. Bruce Lee was asked during an interview “Why do people hide insecurity behind ego?”, he answered: "Because ego protects what skill has not earned”. Smash the ego. Say to yourself: ego is the enemy and I wish my enemy to be smashed.
+You don't have to figure everything out by yourself. Bruce Lee was asked during an interview “Why do people hide insecurity behind ego?”, he answered: "**Because ego protects what skill has not earned**”. Smash the ego. Say to yourself: **ego is the enemy and I wish my enemy to be smashed**.
 
 Can you have both a therapist and a life coach?
 
@@ -181,7 +181,7 @@ There is no universal answer.
 
 Different coaches have different styles.
 
-The important thing is to find someone whose approach makes sense for what you are trying to accomplish. It's fun to say “mission accomplished” but it's easy to talk, right? One mission we all need to have is to avoid violence and inconvenient situations. Don't let situations escalate. You need to know when it's time to put limits before it gets worser. For example, GPS Tracking Shows How Much Wolf Packs Avoid Each Other’s Range. Wolf packs generally avoid being around each other unless they are fighting for food that may be in short supply. Bit like humans do with their countries. When that situation occurs, wolves may engage in battles with other packs in order to continue have their claim on a given location as well as the food found within it. But, more often than not, it’s due to human activity that wolves have to shift their territory. You see, when people take out part of their natural habitat, wolves may have to find a new route to get to their food sources. Naturally, this can create conflicts among various wolf packs due to the overstepping of pack bounds. 
+The important thing is to find someone whose approach makes sense for what you are trying to accomplish. It's fun to say “mission accomplished” but it's easy to talk, right? One mission we all need to have is to avoid violence and inconvenient situations. Don't let situations escalate. You need to know when it's time to put limits before it gets worser. For example, GPS Tracking Shows How Much Wolf Packs Avoid Each Other’s Range. Wolf packs generally avoid being around each other unless they are fighting for food that may be in short supply. Bit like humans do with their countries. When that situation occurs, wolves may engage in battles with other packs in order to continue have their claim on a given location as well as the food found within it. But, more often than not, it’s due to human activity that wolves have to shift their territory. You see, when people take out part of their natural habitat, wolves may have to find a new route to get to their food sources. Naturally, this can create conflicts among various wolf packs due to the overstepping of pack bounds.
 
 What should good coaching leave behind?
 
@@ -213,7 +213,7 @@ And they are also quite big! They are the largest rodents in the world, growing 
 
 Third, capybaras are semi-aquatic mammals that prefer to live near bodies of water. They are master swimmers that can avoid predators by staying submerged for up to 5 minutes. They even only mate in water.
 
-But as for why everybody loves them, there are only guesses. Yet, there’s certainly much evidence around. 
+But as for why everybody loves them, there are only guesses. Yet, there’s certainly much evidence around.
 
 By the way, did you know that capybaras are very good at crossing busy roads together, too?
 
@@ -233,7 +233,7 @@ And you don't need to choose therapy simply because you're going through a diffi
 
 Start with the problem.
 
-Then find the kind of support that actually fits it. The way I see it, if you follow Bruce Lee's vision and adopt it, you can make life much easier. Bruce was once asked during an interview: "How do you stay calm in chaos?", he answered: "find a steel point within you. Storms cannot harm a mountain that stands unmoved". When he was asked: "What does it truly mean to flow like water in life?", he responded: "To flow is to stop resisting what already is. Water adapts, yet remains itself. That is the essence of living free". And last one, when he was asked " Why do you say victory is not the real goal?", he replied: "Because winning only proves something to others. Growth proves something to yourself". In other words I'd say: willingness is more important than the final result. Try to make things simpler. For example, drugs(Ritalin, etc...) are given to some of us who have ADHD or ADD, right? Why? Long ago there was no such thing as Ritalin, right? So how could you overcome stuff like this without any pill? I believe you'd had to find the way somehow because sometimes when you don't really have any choice, it makes things easier. Sometimes when you don't really have so many options, it makes things easier.  You'd had to find a special therapy that helps you concentrate. Mine was: physical activity( Calisthenics), Rubik's cubes, animals, nature, coffee and especially music. A good coach can help you find the therapy which fits you most. When the word simplicity was mentioned there's another aspect and that would be the way of solving issues. For example, if I give you a mission to solve a 4\*4 Rubik's cube(speech therapy methods) , how long would it take you to give up? A few weeks? A few days? A few hours ? and why is that? Because you experience something different? because you are used to give up so easily? I'd say before you try to solve, shed some light on your approach of solving problems. The thing is, before I try to solve it, I should ask myself what the idea behind it really is? once I managed to realize what the point is all about, it would be much easier, right ? The point is the middle of the cube and then comes the algorithm part which has nothing to do with how clever you are, it is only knowing a pattern (YouTube can provide it immediately). But wait it is still not perfect, why? What happens if I ask you to discover yourself? How long would it take you to understand what's missing? again, approach. Don't ask me immediately, try to discover yourself. Maybe you need to see it solved to realize what's missing(hint). Show willingness and passion to learn and discover things by yourself. Speech therapist methods are often useful by the way.
+Then find the kind of support that actually fits it. The way I see it, if you follow Bruce Lee's vision and adopt it, you can make life much easier. Bruce was once asked during an interview: "How do you stay calm in chaos?", he answered: "find a steel point within you. Storms cannot harm a mountain that stands unmoved". When he was asked: "What does it truly mean to flow like water in life?", he responded: "To flow is to stop resisting what already is. Water adapts, yet remains itself. That is the essence of living free". And last one, when he was asked " Why do you say victory is not the real goal?", he replied: "Because winning only proves something to others. Growth proves something to yourself". In other words I'd say: willingness is more important than the final result. Try to make things simpler. For example, drugs(Ritalin, etc...) are given to some of us who have ADHD or ADD, right? Why? Long ago there was no such thing as Ritalin, right? So how could you overcome stuff like this without any pill? I believe you'd had to find the way somehow because sometimes when you don't really have any choice, it makes things easier. Sometimes when you don't really have so many options, it makes things easier.  You'd had to find a special therapy that helps you concentrate. Mine was: physical activity( Calisthenics), Rubik's cubes, animals, nature, coffee and especially music. A good coach can help you find the therapy which fits you most. When the word simplicity was mentioned there's another aspect and that would be the way of solving issues. For example, if I give you a mission to solve a 4\*4 Rubik's cube(speech therapy methods) , how long would it take you to give up? A few weeks? A few days? A few hours ? and why is that? Because you experience something different? because you are used to give up so easily? I'd say before you try to solve, shed some light on your approach of solving problems. The thing is, before I try to solve it, I should ask myself what the idea behind it really is? once I managed to realize what the point is all about, it would be much easier, right ? The point is the middle of the cube and then comes the algorithm part which has nothing to do with how clever you are, it is only knowing a pattern (YouTube can provide it immediately). But wait it is still not perfect, why? What happens if I ask you to discover yourself? How long would it take you to understand what's missing? again, approach. Don't ask me immediately, try to discover yourself. Maybe you need to see it solved to realize what's missing(hint). Show **willingness **and passion to learn and discover things by yourself. Speech therapist methods are often useful by the way.
 
 If you're considering coaching
 
