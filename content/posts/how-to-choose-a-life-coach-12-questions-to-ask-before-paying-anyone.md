@@ -21,7 +21,7 @@ There are thousands of coaches online, with different backgrounds, qualification
 
 So how are you supposed to know who is actually right for you?
 
-You don't have to find the "best" life coach. You need to find someone who is a good fit for what you're trying to accomplish. When we speak about "best", the truth is there are some questions that remain hard to be answered. If you'd ask me who's the best fighter of all times, I'd answer Bruce Lee of course. But you can't really measure it. It is like asking who's the best footballer of all times. You can't really answer this question.  A young man once asked an old Buddhist monk: “My mind never rests. I worry about the future, money, failure, people, health… even things that haven’t happened yet. How do I stop worrying so much?” The monk smiled gently and asked him: “If you plant a seed today, do you dig it up every hour to check if it’s growing?” “No,” the young man replied. “Because that would stop it from growing.” The monk nodded softly. “Yet that is what you do with your life. You keep digging up tomorrow with worry, fear and overthinking, then wonder why your mind cannot find peace.” An amazing answer by a wise monk. For the ones who believe in the spiritual side it might be the best answer but it depends who asks the question. 
+You don't have to find the "best" life coach. You need to find someone who is a good fit for what you're trying to accomplish. When we speak about "best", the truth is there are some questions that remain hard to be answered. If you'd ask me who's the best fighter of all times, I'd answer Bruce Lee of course. But you can't really measure it. It is like asking who's the best footballer of all times. You can't really answer this question.  A young man once asked an old Buddhist monk: “My mind never rests. I worry about the future, money, failure, people, health… even things that haven’t happened yet. How do I stop worrying so much?” The monk smiled gently and asked him: “If you plant a seed today, do you dig it up every hour to check if it’s growing?” “No,” the young man replied. “Because that would stop it from growing.” The monk nodded softly. “Yet that is what you do with your life. You keep digging up tomorrow with worry, fear and overthinking, then wonder why your mind cannot find peace.” An amazing answer by a wise monk. For the ones who believe in the spiritual side it might be the best answer but it depends who asks the question.
 
 Before you pay anyone, here are 12 questions worth asking.
 
@@ -83,27 +83,27 @@ The point isn't whether a coach gives advice.
 
 The point is understanding how they use questions, perspective, suggestions and challenges during the coaching relationship. There is nothing wrong with giving advice mainly or asking some questions mainly. The thing is to adapt to each person's mind and to see things from his point of view. Because that's his truth at the moment and even if you disagree, you must respect other outlooks as long as it doesn't harm anyone.
 
-According the monk and the young man discussion here are 5 SIMPLE WAYS TO STOP WORRYING 
+According the monk and the young man discussion here are 5 SIMPLE WAYS TO STOP WORRYING
 
 1\. Bring your mind back to the present moment
 
-   Many worries live in the future. Gently return your attention to what is actually happening right now.
+Many worries live in the future. Gently return your attention to what is actually happening right now.
 
 2\. Stop trying to control everything
 
-   Some things can only be handled when they arrive. Focus your energy on what is within your control today.
+Some things can only be handled when they arrive. Focus your energy on what is within your control today.
 
 3\. Reduce what feeds your anxiety
 
-   Constant negativity, excessive news, comparison, and endless overthinking can leave the mind more unsettled. Be careful about what you repeatedly feed your attention.
+Constant negativity, excessive news, comparison, and endless overthinking can leave the mind more unsettled. Be careful about what you repeatedly feed your attention.
 
 4\. Calm your body to support a calmer mind
 
-   Slow breathing, walking, quiet time, meditation, prayer, and adequate sleep can help you settle when stress rises.
+Slow breathing, walking, quiet time, meditation, prayer, and adequate sleep can help you settle when stress rises.
 
 5\. Trust that you can face difficult moments when they come
 
-   You have already survived difficult days you once thought you could not handle. You do not need to solve every future problem today.
+You have already survived difficult days you once thought you could not handle. You do not need to solve every future problem today.
 
 Worry may visit you, but you do not have to build a home for it.
 
@@ -127,7 +127,7 @@ Will you normally arrive with something you want to discuss? Will the coach help
 
 There is no universal formula.
 
-You are simply trying to understand what the experience will actually feel like. The word typical resonates in people who are usually dragged to have faith in superstitions, stigmas and stereotypes. "Hey, just another common typical thief". "You go to shady places, be careful". Don't assume statistics can predict human behavior. This thought leads to inclusions. Like saying all the Afro-Americans are involved with crime because of the rates. It is like thinking Africa is just a large jungle even though they have skyscrapers in some places. It is like saying it is time to get rid of a specific group in our society. Thinking this way is a bad habit. Have faith that in the battle between good and evil, the good can manage to beat the evil. Have faith there are some good in every country that just wish to live peaceful life(watch the movie “the lone survivor"). The media and the politicians want us to fight each other (divide and conquer = political strategy). but the truth is we are not enemies, but friends -  Abraham Lincoln. 
+You are simply trying to understand what the experience will actually feel like. The word typical resonates in people who are usually dragged to have faith in superstitions, stigmas and stereotypes. "Hey, just another common typical thief". "You go to shady places, be careful". Don't assume statistics can predict human behavior. This thought leads to inclusions. Like saying all the Afro-Americans are involved with crime because of the rates. It is like thinking Africa is just a large jungle even though they have skyscrapers in some places. It is like saying it is time to get rid of a specific group in our society. Thinking this way is a bad habit. Have faith that in the battle between good and evil, the good can manage to beat the evil. Have faith there are some good in every country that just wish to live peaceful life(watch the movie “the lone survivor"). The media and the politicians want us to fight each other (divide and conquer = political strategy). but the truth is we are not enemies, but friends -  Abraham Lincoln.
 
 6\. How do you decide what we should work on?
 
@@ -171,7 +171,7 @@ A healthy coaching relationship should leave room for disagreement.
 
 You should be able to say, "I don't agree with that," without feeling that you've somehow failed as a client.
 
-You're still the person living your life. 
+You're still the person living your life.
 
 “I don’t like to wear stuffy clothes and be at places where people are trying to impress each other.” - Bruce Lee. Show off is a bad thing, respect is a good thing. When I became a school teacher I noticed everyone around was dressing properly. They came with a tie, tailored trousers etc... so, the meaning behind it is that I respect the workplace when I arrive dressed this way. In Japan they are into fashion. They like to be dressed properly. All brands. LOUIS VUITTON, Ralph Lauren, GUCCI, Versace, Cavalli, Dior etc..... Maybe it affects your personality somehow. When it's about Japanese manners there's no doubt it was amazing. So, what's called, bottom line there's nothing wrong with being dressed properly, we should both agree. But, the point is I'm not doing it for show off. I'm not a cocky boy. This is not who I am. I remain humble even when I'm dressed properly. I'm doing it in honor of respect and this is it. Deep inside me I know who I am and the way I'm dressed won't change who I am.
 
@@ -265,7 +265,7 @@ You could also find a coach with a very different background who understands wha
 
 The goal isn't to find the most impressive résumé.
 
-It's to find the right person for the work you want to do. In Disney's 1998 animated film “Mulan”, there was a song that goes: "We must be swift as the coursing river. With all the force of a great typhoon (Be a man)". During the movie Captain Li Shang shoots an arrow into the top of a massive wooden pillar. He challenges his recruits to retrieve it while wearing two heavy bronze bands(The Challenge). Shang explains that the two weights represent "Discipline" and "Strength". The weights act as a heavy burden that drags them back down. After Mulan was told by Shang to pack up and go home, Mulan has a breakthrough. Instead of fighting against the weights, she loops the weighted straps together. By wrapping them around the column, she creates a fabric anchor and leverage system. Using her inner thighs and upper body to brace the wrapped weights, she hitches herself up the column step-by-step. By shifting her perspective and turning her perceived weakness into a strength, Mulan successfully reaches the top just as the sun rises. She pulls out the arrow and throws it down at Li Shang's feet, instantly earning the respect of her commander and her fellow soldiers. The iconic pole-climbing scene serves as the ultimate turning point in her training during the song "I'll Make a Man Out of You". Wait.. but she was a woman, right? So how could it be? it makes no sense, right? wrong! It depends on the person and his or her will power. Mulan came to the military camp and disguised herself as a man to take the place of her aging, injured father, Fa Zhou, saving him from certain death in the war. Her choice to enlist is driven by deep love, duty, and a desperate need to protect her family from tragedy. The Emperor of China commands that one man from every family must join the imperial army to stop the invading Huns. Mulan became a hero due to her bravery. She managed to surpass her unit mates. So.. I guess choosing soldiers selectively based on their gender is a stupid strategy, right? indeed. Same when it's about degrees or certifications or anything like it. It depends on the person you work with. 
+It's to find the right person for the work you want to do. In Disney's 1998 animated film “Mulan”, there was a song that goes: "We must be swift as the coursing river. With all the force of a great typhoon (Be a man)". During the movie Captain Li Shang shoots an arrow into the top of a massive wooden pillar. He challenges his recruits to retrieve it while wearing two heavy bronze bands(The Challenge). Shang explains that the two weights represent "Discipline" and "Strength". The weights act as a heavy burden that drags them back down. After Mulan was told by Shang to pack up and go home, Mulan has a breakthrough. Instead of fighting against the weights, she loops the weighted straps together. By wrapping them around the column, she creates a fabric anchor and leverage system. Using her inner thighs and upper body to brace the wrapped weights, she hitches herself up the column step-by-step. By shifting her perspective and turning her perceived weakness into a strength, Mulan successfully reaches the top just as the sun rises. She pulls out the arrow and throws it down at Li Shang's feet, instantly earning the respect of her commander and her fellow soldiers. The iconic pole-climbing scene serves as the ultimate turning point in her training during the song "I'll Make a Man Out of You". Wait.. but she was a woman, right? So how could it be? it makes no sense, right? wrong! It depends on the person and his or her will power. Mulan came to the military camp and disguised herself as a man to take the place of her aging, injured father, Fa Zhou, saving him from certain death in the war. Her choice to enlist is driven by deep love, duty, and a desperate need to protect her family from tragedy. The Emperor of China commands that one man from every family must join the imperial army to stop the invading Huns. Mulan became a hero due to her bravery. She managed to surpass her unit mates. So.. I guess choosing soldiers selectively based on their gender is a stupid strategy, right? indeed. Same when it's about degrees or certifications or anything like it. It depends on the person you work with.
 
 Don't be afraid to interview your coach
 
@@ -323,7 +323,7 @@ And you don't need to commit immediately because someone tells you that you "nee
 
 You need to find someone you trust, someone whose approach makes sense to you and someone who can help you work toward what you actually want from coaching.
 
-If you're considering working with me, you can ask me these same questions. But before asking me questions, what if the treasure you're searching for has been with you all along? In the book "The Alchemist by Paulo Coelho"  When Santiago is beaten and robbed near the Pyramids, he tells the leader of the refugees (often called the refugee captain or chief of the robbers) at the Pyramids of Egypt about his dream of finding a hidden treasure there. The leader laughs at him and says that he also had a recurring dream about a treasure buried under a sycamore tree growing in the ruins of an old church in Spain(which is the exact spot where Santiago started his journey).  “What did you do that for?” “To show you one of life's simple lessons,” the alchemist answered. “When you possess great treasures within you, and try to tell others of them, seldom are you believed.”
+If you're considering working with me, you can ask me these same questions. But before asking me questions, what if the treasure you're searching for has been with you all along? In the book "The Alchemist by Paulo Coelho" When Santiago( a young shepherd who leaves behind everything comfortable to pursue his "Personal Legend"—a dream of hidden treasure near the Egyptian Pyramids) is beaten and robbed near the Pyramids, he tells the leader of the refugees (often called the refugee captain or chief of the robbers) at the Pyramids of Egypt about his dream of finding a hidden treasure there. The leader laughs at him and says that he also had a recurring dream about a treasure buried under a sycamore tree growing in the ruins of an old church in Spain(which is the exact spot where Santiago started his journey).  “What did you do that for?” “To show you one of life's simple lessons,” the alchemist answered. “When you possess great treasures within you, and try to tell others of them, seldom are you believed.”
 
 No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.
 
