@@ -9,6 +9,10 @@ summary: |-
   Ultimately, a trustworthy coach should respect your independence, be honest about their limitations and help you become better able to guide yourself rather than dependent on their services.
 author: Guy David Haik
 publishedAt: 2026-10-10T00:00:00.000Z
+tags:
+  - Trust and Transparency
+  - Life Coach Red Flags
+  - Choosing a Life Coach
 ---
 
 10 Life Coach Red Flags to Watch for Before You Sign a Coaching Contract
