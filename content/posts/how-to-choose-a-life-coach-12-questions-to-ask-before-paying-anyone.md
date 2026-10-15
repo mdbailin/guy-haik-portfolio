@@ -127,7 +127,7 @@ Will you normally arrive with something you want to discuss? Will the coach help
 
 There is no universal formula.
 
-You are simply trying to understand what the experience will actually feel like. The word typical resonates in people who are usually dragged to have faith in superstitions, stigmas and stereotypes. "Hey, just another common typical thief". "You go to shady places, be careful". Don't assume statistics can predict human behavior. This thought leads to inclusions. Like saying all the Afro-Americans are involved with crime because of the rates. It is like thinking Africa is just a large jungle even though they have skyscrapers in some places. It is like saying it is time to get rid of a specific group in our society. Thinking this way is a bad habit. Have faith that in the battle between good and evil, the good can manage to beat the evil. Have faith there are some good in every country that just wish to live peaceful life(watch the movie “the lone survivor"). The media and the politicians want us to fight each other (divide and conquer = political strategy). but the truth is we are not enemies, but friends -  Abraham Lincoln.
+You are simply trying to understand what the experience will actually feel like. The word typical resonates in people who are usually dragged to have faith in superstitions, stigmas and stereotypes. "Hey, just another common typical thief". "You go to shady places, be careful". Don't assume statistics can predict human behavior. This thought leads to inclusions. Like saying all the Afro-Americans are involved with crime because of the rates. It is like thinking Africa is just a large jungle even though they have skyscrapers in some places. It is like saying it is time to get rid of a specific group in our society. Thinking this way is a bad habit. Have faith that in the battle between good and evil, the good can manage to beat the evil. Have faith there are some good people in every country that just wish to live peaceful life(watch the movie “the lone survivor"). The media and the politicians want us to fight each other (divide and conquer = political strategy). but the truth is we are not enemies, but friends -  Abraham Lincoln.
 
 6\. How do you decide what we should work on?
 
@@ -241,7 +241,7 @@ Can you disagree?
 
 Do you feel like the coach is actually interested in understanding your situation?
 
-These things matter. For me when we speak about commitment you should focus on one thing at a time. If you'd ask a wise person: " When things feel overwhelming, what do you focus on?", the wise person(according to my opinion) would reply:" I come back to what's infinitely not everything. Just the next step. When you give your attention to one thing, the noise settles, and you move forward with more control".
+These things matter. For me when we speak about commitment you should focus on one thing at a time. If you'd ask a wise person: " When things feel overwhelming, what do you focus on?", the wise person(according to my opinion) would reply:" I come back to what's in front of me not everything. Just the next step. When you give your attention to one thing, the noise settles, and you move forward with more control".
 
 Credentials aren't everything
 
