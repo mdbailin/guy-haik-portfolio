@@ -13,6 +13,7 @@ tags:
   - 'Motivation '
   - Personal growth
   - Goals
+  - 'Dopamine '
   - Bruce Lee
   - Kindness
   - 'Self respect  '
@@ -27,7 +28,7 @@ tags:
 
 Choosing a life coach can be harder than it first appears.
 
-You can find plenty of people online who promise to help you build confidence, find direction, improve your relationships, or finally make the changes you've been thinking about for years. Some have impressive qualifications. Others have years of experience or hundreds of testimonials.
+The way I see it sometimes all we need is one person in our life, just one who says, "I believe in you. I got you." And if this whole thing goes sideways, I will still be there for you. And that gives you the strength to do whatever needs to be done. You can find plenty of people online who promise to help you build confidence, find direction, improve your relationships, or finally make the changes you've been thinking about for years. Some have impressive qualifications. Others have years of experience or hundreds of testimonials.
 
 But how do you know whether a particular coach is right for you?
 
@@ -35,39 +36,21 @@ You could spend hours comparing websites, reading reviews, and watching introduc
 
 And when you do, it's worth asking a few questions.
 
-You don't need to turn the conversation into a job interview. The point isn't to catch the coach out or find someone who gives the perfect answer to everything. It's to understand how they work, what they offer, and whether you can see yourself having honest conversations with them. For example, someone who can provide something that can "fill the void" but only for a short period of time. Choose your dopamine hits wisely. Fake dopamine: Porn, Drugs Over Time Video Games, Laziness, Fast food, Debauchery, Social media, Manipulation, Procrastination, Fake relationships, Instant gratification. Real dopamine: Enjoying the little things, New experiences, Good friendships, Good food, Forgiveness, Breathwork, Teamwork, Gratitude, Exercise, Nature, Love, Sun(Vitamin D). Not everything that makes you feel good is good for you.  Some habits give you temporary pleasure, while others bring lasting happiness, peace and fulfillment. Choose what nourishes your mind, not just what satisfies it for a moment. Because true happiness isn't about chasing pleasure. It's about creating a life you don't need to escape from. 
+You don't need to turn the conversation into a job interview. The point isn't to catch the coach out or find someone who gives the perfect answer to everything. It's to understand how they work, what they offer, and whether you can see yourself having honest conversations with them. For example, someone who can provide something that can "fill the void" but only for a short period of time. Choose your dopamine hits wisely. Fake dopamine: Porn, Drugs Over Time Video Games, Laziness, Fast food, Debauchery, Social media, Manipulation, Procrastination, Fake relationships, **Instant gratification**. Real dopamine: **Enjoying the little things**, New experiences, Good friendships, Good food, Forgiveness, Breathwork, Teamwork, Gratitude, Exercise, Nature, Love, Sun(Vitamin D). Not everything that makes you feel good is good for you.  Some habits give you temporary pleasure, while others bring lasting happiness, peace and fulfillment. Choose what nourishes your mind, not just what satisfies it for a moment. Because true happiness isn't about chasing pleasure. It's about creating a life you don't need to escape from. 
 
 Are your daily habits bringing you closer to peace or just helping you escape for a moment?  
 
 Here are 15 questions I'd recommend asking before hiring a life coach.
 
-1\. What kind of problems do you help people with?
+1\. What would you say about taking things personally?
 
-Start with the basics.
+Take nothing personally. There is so much freedom in taking nothing personally. Too much time is spent worrying about what others think of us. When in reality, you are the creator of your own life.
 
-Some coaches focus on careers and leadership. Others work with confidence, personal development, accountability, life transitions, or decision-making.
+2\. What would you recommend me doing when my mind is agitated?
 
-Ask the coach what they typically help people work through and whether your situation falls within their experience.
+“When your mind is agitated, it is difficult to see; allow it to settle, and the answer becomes clear.” — Master Oogway
 
-You don't necessarily need someone who has faced exactly the same problem as you. But you should have a reasonable understanding of what they can offer.
-
-My answer:
-
-Understanding stuff like - The most valuable asset you own isn't money. It's the ability to think clearly in a world designed to confuse you. Mental clarity is wealth.
-
-2\. What experience and training do you have?
-
-This is a reasonable question, and you shouldn't feel uncomfortable asking it.
-
-Find out what training the coach has completed, whether they hold relevant credentials, and what experience they bring to their work.
-
-Qualifications can be useful, but they don't tell you everything about how someone coaches. Likewise, personal experience alone doesn't automatically make someone a good coach.
-
-You're trying to understand the person's background without assuming that a long list of certificates guarantees a good working relationship.
-
-My answer:
-
-I hold a Bachelor’s Degree in Leadership And Management of Educational Systems And Political Science (Double Major). Having taught in diverse international environments across Asia, I gained. valuable experience engaging students of various ages and backgrounds. My teaching approach emphasizes conversation, creativity and confidence-building(encouraging learners to express themselves freely while developing). I bring a broad educational perspective, Leadership skills and a deep respect for cultural exchange. I believe that learning is about connecting people and expanding horizons. I am eager to contribute my skills and positive energy.
+Revisit one of the most profound and peaceful scenes from DreamWorks’ Kung Fu Panda (2008). In this timeless moment, Master Oogway imparts a lesson on patience, clarity, and mindfulness to Master Shifu. A masterclass in wisdom, emotional resonance, and philosophical storytelling in animation. Understanding stuff like - The most valuable asset you own isn't money. It's the ability to think clearly in a world designed to confuse you. Mental clarity is wealth.
 
 3\. What is your coaching approach?
 
@@ -81,7 +64,7 @@ You should have some idea of what working together might feel like before you co
 
 My answer:
 
-There's a song that goes; ""All I ever wanted, all I ever needed, is here in my arms" (famous lyrics from the song "Enjoy the Silence"). So by knowing that you are no longer wearing the handcuffs of what people think of me (this thought is like being in prison). I am in competition with no one. I have no desire to play the game of being better with anyone. I am simply trying to be better than the person I was yesterday. I am simply trying to be better than the person I was yesterday. I am simply trying to be better than the person I was yesterday.
+There's a song that goes; ""All I ever wanted, all I ever needed, is here in my arms" (famous lyrics from the song "Enjoy the Silence"). So by knowing that you are no longer wearing the handcuffs of what people think of me (this thought is like being in prison). I am in competition with no one. I have no desire to play the game of being better with anyone. I am simply trying to be better than the person I was yesterday. I am simply trying to be better than the person I was yesterday. **I am simply trying to be better than the person I was yesterday**.
 
 The moment you stop comparing your life to others, you start living your own.  Someone else's success doesn't mean you're falling behind. Everyone has their own journey, their own struggles and their own timing. Real growth isn't about being better than others. It's about becoming better than who you were yesterday. 
 
@@ -127,23 +110,11 @@ You should not have to pretend you know what you want just to begin a conversati
 
 My answer:
 
-It's not really a bad thing not to know everything. It's not really a bad thing to ask for some help. But you need to understand time is a precious thing. If you love life, don't waste time, for time is what life is made up of - Bruce Lee. So if you believe it might be a good idea to set up some goals together, it is completely fine. And if you want to do it yourself, it is completely fine as well. Some say it's OK if it comes at on expense of something like sleeping. I disagree. If someone would ask me if because he's "falling in his dreams" he should sleep less, I'd answer of course not. Falling in your dreams means that you don't really control your life. The way to work with clients can vary from one to another. Even for the ones who think they already have clear goals, maybe have no idea what they truly want. So, if you think you came ready so you can save the time of identifying the issue, sometimes you receive the opposite effect and the ones who already come in the first place and say "I have no idea" actually save time. The thing is there are no rules. But more importantly “Don’t fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.” - Bruce Lee.
+It's not really a bad thing not to know everything. It's not really a bad thing to ask for some help. But you need to understand time is a precious thing. If you love life, don't waste time, for time is what life is made up of - Bruce Lee. So if you believe it might be a good idea to set up some goals together, it is completely fine. And if you want to do it yourself, it is completely fine as well. Some say it's OK if it comes at on expense of something like sleeping. I disagree. If someone would ask me if because he's "falling in his dreams" he should sleep less, I'd answer of course not. Falling in your dreams is a clear that you don't really control your life. The way to work with clients can vary from one to another. Even for the ones who think they already have clear goals, maybe have no idea what they truly want. So, if you think you came ready so you can save the time of identifying the issue, sometimes you receive the opposite effect and the ones who already come in the first place and say "I have no idea" actually save time. The thing is there are no rules. But more importantly “Don’t fear failure. — Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.” - Bruce Lee.
 
 7\. How will we know whether coaching is helping?
 
-This is one of the most important questions to ask.
-
-Coaching can involve useful conversations, but having an interesting conversation every week isn't necessarily the same as making progress.
-
-Ask how the coach approaches progress and how you can review whether the work is helping.
-
-Depending on your goals, progress might mean making a difficult decision, following through on commitments, responding differently to a recurring problem, or understanding your situation more clearly.
-
-The signs of progress should relate to what you actually want to change.
-
-My answer:
-
-Bruce Lee could canetically anchor the totality of his body and press himself up through only two fingers but wasn't born with his strength, he built it incrementally. So let's reimagine the idea of the New Year's resolution and commit to making tiny improvements on ourselves each day. Much love and enjoy the hostilities, my friends. 
+Making tiny improvements on ourselves each day. Bruce Lee could canetically anchor the totality of his body and press himself up through only two fingers but wasn't born with his strength, he built it incrementally. Your worst enemy isn't in front of you; it's inside your head or in other words: Your greatest enemy is within. You think you're finished when you hit your limits? That's where it starts. That's where the real battle begins. Every wall you face. Every time your body screams to stop, that's a challenge from the universe asking you. How bad do you want it? 
 
 8\. What happens if I disagree with you?
 
@@ -195,7 +166,7 @@ My answer:
 
 When I was a private guitar teacher I remember many of my students wanted to learn almost on a daily basis, some twice a week etc... The thing is it's like asking someone if his low kick is good. What's your opinion as the one who's doing the action, you need to feel whether your kick is good or not. I'll try my best to adapt myself to others when it's about this kind of stuff like schedule but I expect from the other side to do the same. 
 
-11\. What are your fees, and what is included?
+11\. What about the money?
 
 Discuss the financial side before committing.
 
