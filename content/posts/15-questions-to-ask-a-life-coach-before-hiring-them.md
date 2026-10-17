@@ -36,9 +36,9 @@ You could spend hours comparing websites, reading reviews, and watching introduc
 
 And when you do, it's worth asking a few questions.
 
-You don't need to turn the conversation into a job interview. The point isn't to catch the coach out or find someone who gives the perfect answer to everything. It's to understand how they work, what they offer, and whether you can see yourself having honest conversations with them. For example, someone who can provide something that can "fill the void" but only for a short period of time. Choose your dopamine hits wisely. Fake dopamine: Porn, Drugs Over Time Video Games, Laziness, Fast food, Debauchery, Social media, Manipulation, Procrastination, Fake relationships, **Instant gratification**. Real dopamine: **Enjoying the little things**, New experiences, Good friendships, Good food, Forgiveness, Breathwork, Teamwork, Gratitude, Exercise, Nature, Love, Sun(Vitamin D). Not everything that makes you feel good is good for you.  Some habits give you temporary pleasure, while others bring lasting happiness, peace and fulfillment. Choose what nourishes your mind, not just what satisfies it for a moment. Because true happiness isn't about chasing pleasure. It's about creating a life you don't need to escape from. 
+You don't need to turn the conversation into a job interview. The point isn't to catch the coach out or find someone who gives the perfect answer to everything. It's to understand how they work, what they offer, and whether you can see yourself having honest conversations with them. For example, someone who can provide something that can "fill the void" but only for a short period of time. Choose your dopamine hits wisely. Fake dopamine: Porn, Drugs Over Time Video Games, Laziness, Fast food, Debauchery, Social media, Manipulation, Procrastination, Fake relationships, **Instant gratification**. Real dopamine: **Enjoying the little things**, New experiences, Good friendships, Good food, Forgiveness, Breathwork, Teamwork, Gratitude, Exercise, Nature, Love, Sun(Vitamin D). Not everything that makes you feel good is good for you.  Some habits give you temporary pleasure, while others bring lasting happiness, peace and fulfillment. Choose what nourishes your mind, not just what satisfies it for a moment. Because true happiness isn't about chasing pleasure. It's about creating a life you don't need to escape from.
 
-Are your daily habits bringing you closer to peace or just helping you escape for a moment?  
+Are your daily habits bringing you closer to peace or just helping you escape for a moment?
 
 Here are 15 questions I'd recommend asking before hiring a life coach.
 
@@ -64,13 +64,13 @@ You should have some idea of what working together might feel like before you co
 
 My answer:
 
-There's a song that goes; ""All I ever wanted, all I ever needed, is here in my arms" (famous lyrics from the song "Enjoy the Silence"). So by knowing that you are no longer wearing the handcuffs of what people think of me (this thought is like being in prison). I am in competition with no one. I have no desire to play the game of being better with anyone. I am simply trying to be better than the person I was yesterday. I am simply trying to be better than the person I was yesterday. **I am simply trying to be better than the person I was yesterday**.
+There's a song that goes; ""All I ever wanted, all I ever needed, is here in my arms" (famous lyrics from the song "Enjoy the Silence"). So by knowing that you are no longer wearing the handcuffs of what people think of me (this thought is like being in prison). I am in competition with no one. I have no desire to play the game of being better with anyone. **I am simply trying to be better than the person I was yesterday**.
 
-The moment you stop comparing your life to others, you start living your own.  Someone else's success doesn't mean you're falling behind. Everyone has their own journey, their own struggles and their own timing. Real growth isn't about being better than others. It's about becoming better than who you were yesterday. 
+The moment you stop comparing your life to others, you start living your own.  Someone else's success doesn't mean you're falling behind. Everyone has their own journey, their own struggles and their own timing. Real growth isn't about being better than others. It's about becoming better than who you were yesterday.
 
 I don't need to prove anything to anyone, I know who I am.
 
-If you stopped comparing yourself to others, what would you be most proud of in your own journey? 
+If you stopped comparing yourself to others, what would you be most proud of in your own journey?
 
 4\. Do you give advice, ask questions, or use a combination of both?
 
@@ -114,7 +114,7 @@ It's not really a bad thing not to know everything. It's not really a bad thing 
 
 7\. How will we know whether coaching is helping?
 
-Making tiny improvements on ourselves each day. Bruce Lee could canetically anchor the totality of his body and press himself up through only two fingers but wasn't born with his strength, he built it incrementally. Your worst enemy isn't in front of you; it's inside your head or in other words: Your greatest enemy is within. You think you're finished when you hit your limits? That's where it starts. That's where the real battle begins. Every wall you face. Every time your body screams to stop, that's a challenge from the universe asking you. How bad do you want it? 
+Making tiny improvements on ourselves each day. Bruce Lee could canetically anchor the totality of his body and press himself up through only two fingers but wasn't born with his strength, he built it incrementally. Your worst enemy isn't in front of you; it's inside your head or in other words: Your greatest enemy is within. You think you're finished when you hit your limits? That's where it starts. That's where the real battle begins. Every wall you face. Every time your body screams to stop, that's a challenge from the universe asking you. How bad do you want it?
 
 8\. What happens if I disagree with you?
 
@@ -144,9 +144,9 @@ The answer should give you an idea of whether their style is likely to suit you.
 
 My answer:
 
-There's a song that goes: ""Oh, simple thing, where have you gone? I'm getting old, and I need something to rely on. So, tell me when you're gonna let me in. I'm getting tired, and I need somewhere to begin." You can count on me because money is a thing which motivates me but good Karma and legacy do. There's a pic showing a man holding a woman before she falls from a cliff. He's holding her hand so she won't fall but there's a large rock shown crushing him so he's bleeding. On the other hand, the woman receives a snake's venom which is hiding a bit below the cliff: Seeing With The Heart. "The man doesn’t know that there is a snake underneath. The woman doesn’t know that there is a stone crushing the man. The woman thinks: “I am going to fall! And I can’t climb because the snake is going to bite me. Why can’t the man use a little more strength and pull me up!” The man thinks: “I am in so much pain! Yet I’m still pulling you as much as I can. Why don’t you try and climb a little harder!?” The moral: You can’t see the pressure the other person is under, and the other person can’t see the pain you’re in. This is life. Whether it’s with work, family, feelings or friends, we should try to understand each other. Learn to think differently, perhaps more clearly and communicate better. A little thought and patience goes a long way." 
+There's a song that goes: ""Oh, simple thing, where have you gone? I'm getting old, and I need something to rely on. So, tell me when you're gonna let me in. I'm getting tired, and I need somewhere to begin." You can count on me because money is a thing which motivates me but good Karma and legacy do. There's a pic showing a man holding a woman before she falls from a cliff. He's holding her hand so she won't fall but there's a large rock shown crushing him so he's bleeding. On the other hand, the woman receives a snake's venom which is hiding a bit below the cliff: Seeing With The Heart. "The man doesn’t know that there is a snake underneath. The woman doesn’t know that there is a stone crushing the man. The woman thinks: “I am going to fall! And I can’t climb because the snake is going to bite me. Why can’t the man use a little more strength and pull me up!” The man thinks: “I am in so much pain! Yet I’m still pulling you as much as I can. Why don’t you try and climb a little harder!?” The moral: You can’t see the pressure the other person is under, and the other person can’t see the pain you’re in. This is life. Whether it’s with work, family, feelings or friends, we should try to understand each other. Learn to think differently, perhaps more clearly and communicate better. A little thought and patience goes a long way."
 
-♥️ Anonymous Writer 
+♥️ Anonymous Writer
 
 "God's purpose for man is to acquire a seeing eye and an understanding heart."
 
@@ -164,7 +164,7 @@ More frequent sessions aren't automatically better, and you shouldn't feel that 
 
 My answer:
 
-When I was a private guitar teacher I remember many of my students wanted to learn almost on a daily basis, some twice a week etc... The thing is it's like asking someone if his low kick is good. What's your opinion as the one who's doing the action, you need to feel whether your kick is good or not. I'll try my best to adapt myself to others when it's about this kind of stuff like schedule but I expect from the other side to do the same. 
+When I was a private guitar teacher I remember many of my students wanted to learn almost on a daily basis, some twice a week etc... The thing is it's like asking someone if his low kick is good. What's your opinion as the one who's doing the action, you need to feel whether your kick is good or not. I'll try my best to adapt myself to others when it's about this kind of stuff like schedule but I expect from the other side to do the same.
 
 11\. What about the money?
 
