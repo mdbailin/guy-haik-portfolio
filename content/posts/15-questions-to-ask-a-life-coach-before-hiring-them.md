@@ -82,7 +82,7 @@ The important thing is to find out how the coach handles this balance. If you do
 
 My answer:
 
-It depends on the situation. Response to intervention is something  I studied during my studies in the university. How to analyze the situation and to respond accordingly. When a wise person is asked: "what do you do when something catches you off guard ?", I believe he'd answer: "My first instinct is to react. Everyone has that. But I don't follow it. I sit with it for a second. I let it pass. Then I choose what to do". We can do some special activities to help you know yourself better style Name 3 People That You Love. Think fast in three seconds, name three people that you love. 3..........2............1........ Okay, and you didn't name yourself. Love yourself.. It's not a shame.
+It depends on the situation. Response to intervention is something  I studied during my studies in the university. How to analyze the situation and to respond accordingly. When a wise person is asked: "what do you do when something catches you off guard ?", I believe he'd answer: "My first instinct is to react. Everyone has that. But I don't follow it. I sit with it for a second. I let it pass. Then I choose what to do". We can do some special activities to help you know yourself better style: Name 3 People That You Love. Think fast in three seconds, name three people that you love. 3..........2............1........ Okay, and you didn't name yourself. Love yourself.. It's not a shame.
 
 5\. What happens during a typical coaching session?
 
