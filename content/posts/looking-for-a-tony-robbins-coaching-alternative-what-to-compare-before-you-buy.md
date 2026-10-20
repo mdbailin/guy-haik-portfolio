@@ -92,7 +92,7 @@ You simply want a place where you can say what is going on in your life and have
 
 These are different needs.
 
-Before choosing a coach, it can help to identify yours. There is a lot of value to the word “choose”. Bruce Lee was asked during an interview: "how do you find peace?", he answered: "You don't find peace. You choose it, by what you ignore, by what you release, by what you stop giving energy to". Choosing what's right and what is wrong according to your needs relates to how much you know who you are. In the movie "The Lion King" Simba experienced a revelation. After Mufasa's(his father) death, Simba sees him in the sky. Mufasa says to Simba at the end of the revelation: "remember who you are".
+Before choosing a coach, it can help to identify yours. There is a lot of value to the word “choose”. I heard a sentence(for the ones who seek for peaceful life) that goes: "You don't find peace. You choose it, by what you ignore, by what you release, by what you stop giving energy to". Choosing what's right and what is wrong according to your needs relates to how much you know who you are. In the movie "The Lion King" Simba experienced a revelation. After Mufasa's(his father) death, Simba sees him in the sky. Mufasa says to Simba at the end of the revelation: "remember who you are".
 
 What about pressure?
 
@@ -294,7 +294,7 @@ Someone who helps you turn an idea into an action.
 
 And eventually, the ability to do more of that yourself.
 
-That is the kind of coaching I believe is worth looking for. According to Bruce Lee's words of wisdom no one should go to sleep without saying these four things to God. Thank you. For the bread I was given today, the problems I survived and the lessons disguised as pain. I'm grateful. I will use it. Every world, every failure, everything I cannot control, I let it go. I am being prepared. What I am going through is not punishment. It is a process. I trust what I cannot yet see. Tomorrow I will rise. My body's knees. My mind is set. And I wake up closer to the person I was created to be.
+That is the kind of coaching I believe is worth looking for. 
 
 If you're looking for a different kind of coaching
 
@@ -311,7 +311,3 @@ And if it isn't, that's okay too.
 The goal isn't to convince you that you need coaching.
 
 The goal is to help you figure out whether coaching is something that can help you right now.
-
-But regardless I want you to follow this pattern: Every morning, everyone should speak these five affirmations. I am the best. I can do it alone. God is always with me. I am a winner. Today is my day.
-
-\- Bruce Lee
