@@ -122,7 +122,7 @@ The only thing you need to do to enslave people is to scare them.
 
 "If you can find a way to scare people, you can make them do whatever you want."
 
-NLP is the abbreviated form of Neuro-Linguistic Programming. There's a way the human brain is programmed. It is more noticeable regarding animals(they can be tamed), but also the human brain works in a way that can be controlled by someone who knows how it works. Fear is one of the human emotions we must accept. According to Bruce Lee: Instead of letting fear paralyze action, he argued that aiming too low is the true mistake: "Don't fear failure. Not failure, but low aim, is the crime. In great attempts it is glorious even to fail.
+NLP is the abbreviated form of Neuro-Linguistic Programming. There's a way the human brain is programmed. It is more noticeable regarding animals(they can be tamed), but also the human brain works in a way that can be controlled by someone who knows how it works. Fear is one of the human emotions we must accept. According to Bruce Lee: Instead of letting fear paralyze action, he argued that aiming too low is the true mistake: “Don't fear failure. Not failure, but low aim, is the crime. In great attempts it is glorious even to fail”.
 
 Price is part of the decision, but it isn't the whole decision
 
@@ -294,7 +294,7 @@ Someone who helps you turn an idea into an action.
 
 And eventually, the ability to do more of that yourself.
 
-That is the kind of coaching I believe is worth looking for. 
+That is the kind of coaching I believe is worth looking for.
 
 If you're looking for a different kind of coaching
 
