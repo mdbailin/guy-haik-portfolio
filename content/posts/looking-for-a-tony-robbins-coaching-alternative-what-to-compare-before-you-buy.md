@@ -72,7 +72,7 @@ They look at the coach's reputation, qualifications, social media following, or 
 
 You are going to be having personal conversations with this person.
 
-That matters. What you've been through in life matters to shape your personality. For example, In 1969, a young American soldier in Vietnam was asked to send one message, 50 years into the future, and he didn't hesitate to speak the truth. "If you could send one message to Americans, 50 years in the future, what would it be?" "Don't send your son to finish what politician's started." Minato (Naruto's dad) once said: "Don’t be afraid of death, be afraid of the unlived life".
+That matters. What you've been through in life matters to shape your personality. For example, In 1969, a young American soldier in Vietnam was asked to send one message, 50 years into the future, and he didn't hesitate to speak the truth. "If you could send one message to Americans, 50 years in the future, what would it be?" "Don't send your son to finish what politician's started." I heard a sentence that goes: Don’t be afraid of death, be afraid of the unlived life".
 
 Do you want motivation, advice or a place to think?
 
