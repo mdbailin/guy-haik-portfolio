@@ -279,4 +279,4 @@ You may simply need the right conversation.
 
 If you want to explore what that could look like, you can work directly with me and see whether we're a good fit before deciding whether coaching makes sense for you.
 
-In the book Le petit prince there is a verse that says Humans are like stars and constellations, but each sees them differently. To those who go on journeys, the stars will serve as guides. To others, they are nothing but lights and cities. Teachers will see them as scientific problems alone. My merchant valued them as a treasure
+In the book Le petit prince there is a verse that says "All men have stars, but they are not the same things for different people. For some, who are travelers, the stars are guides. For others they are no more than little lights in the sky. For others, who are scholars, they are problems... But all these stars are silent. You—you alone will have stars as no one else has them..."
