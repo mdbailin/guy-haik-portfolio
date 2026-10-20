@@ -51,7 +51,7 @@ That kind of experience can be extremely valuable.
 
 You don't always need to discover everything for yourself.
 
-Sometimes you simply want to learn from someone who has already made the mistakes. The thing is = to name something doesn't always reflect on results. You are not supposed to count on Wikipedia definitions for things. The five words "it depends on the person" were mentioned a lot in many articles for a reason. That represents a high level of awareness. 
+Sometimes you simply want to learn from someone who has already made the mistakes. The thing is = to name something doesn't always reflect on results. You are not supposed to count on Wikipedia definitions for things. The five words "it depends on the person" were mentioned a lot in many articles for a reason. That represents a high level of awareness.
 
 What is a life coach?
 
@@ -269,7 +269,7 @@ It's:
 
 "What kind of help do I actually need right now?"
 
-That question can take you much further. When Bruce Lee was asked during an interview: "Why do thoughts burden people so much?", he answered: Because they cling to thoughts as identity. Thoughts are clouds, you are the sky. Let them drift and the space is still yours". When he was asked: "Do you think people waste too much time thinking about time?", he replied: "Time does not pass. We pass. The moment you understand it, every second becomes precious". There's a song goes: One day my father, he told me "Son, don't let it slip away" He took me in his arms, I heard him say "When you get older Your wild heart will live for younger days Think of me if ever you're afraid" He said, "One day you'll leave this world behind So live a life you will remember" My father told me when I was just a child These are the nights that never die.
+That question can take you much further. There's a song goes: One day my father, he told me "Son, don't let it slip away" He took me in his arms, I heard him say "When you get older Your wild heart will live for younger days Think of me if ever you're afraid" He said, "One day you'll leave this world behind So live a life you will remember" My father told me when I was just a child These are the nights that never die.
 
 Find out how I approach coaching
 
@@ -280,5 +280,3 @@ My goal isn't to tell you how to live your life.
 It is to help you understand what you want, examine your options, and move toward decisions that you can actually own.
 
 If that sounds like the kind of support you're looking for, we can start with a conversation.
-
-“Do you believe the soul has form? It has no form, just like water. It becomes whatever your actions mold it into”.  — Bruce Lee
