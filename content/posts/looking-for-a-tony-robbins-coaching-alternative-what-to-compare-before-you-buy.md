@@ -108,19 +108,7 @@ At least, that is how I see it.
 
 You should be able to say, "I don't think this is working for me," or "I changed my mind," without feeling that you have failed.
 
-Good coaching should give you room to be honest. Pressure goes along with fear? About more than 75 years ago, Hermann Göring, Hitler's deputy, testified at the Nuremberg Appeals Tribunal, being asked:
-
-How did you get the German people to accept all of this?
-
-He answered:
-
-"It was very easy, it has nothing to do with Nazism, it has to do with human nature."
-
-You can do this in a Nazi, socialist, communist regime, in a monarchy, and even in a democracy.
-
-The only thing you need to do to enslave people is to scare them.
-
-"If you can find a way to scare people, you can make them do whatever you want."
+Good coaching should give you room to be honest. Pressure goes along with fear? 
 
 NLP is the abbreviated form of Neuro-Linguistic Programming. There's a way the human brain is programmed. It is more noticeable regarding animals(they can be tamed), but also the human brain works in a way that can be controlled by someone who knows how it works. Fear is one of the human emotions we must accept. According to Bruce Lee: Instead of letting fear paralyze action, he argued that aiming too low is the true mistake: “Don't fear failure. Not failure, but low aim, is the crime. In great attempts it is glorious even to fail”.
 
