@@ -94,7 +94,7 @@ Regarding what was mentioned earlier there's a video game called assassin creed.
 
 5\. Deciding what comes next
 
-There's a song that goes: "If you wanna know something 'bout me the blood in my veins is full of northern grit. I got that northern soul, man I got bags of it. We're far from ordinary people". Most people die at 25 and aren't buried until they're 75.- Benjamin Franklin. There's no point in surrounding yourself with ordinary people because they're like zombies. They're actually dead but they don't really know it. I always emphasize the phrase “you are the product of your environment”. What comes next is some rest and then the sunrise. You decide what to do when tomorrow comes.
+There's a song that goes: "If you wanna know something 'bout me the blood in my veins is full of northern grit. I got that northern soul, man I got bags of it. We're far from ordinary people". Most people die at 25 and aren't buried until they're 75. There's no point in surrounding yourself with ordinary people because they're like zombies. They're actually dead but they don't really know it. I always emphasize the phrase “you are the product of your environment”. What comes next is some rest and then the sunrise. You decide what to do when tomorrow comes.
 
 "I wish for you to have a heart" is the final and defining wish made by Bastian Balthazar Bux in the 1990 fantasy film The NeverEnding Story II: The Next Chapter. At the climax of the story, the evil sorceress Xayide tries to force Bastian to use his final remaining wish from the AURYN amulet to return home, which would abandon the realm of Fantasia to her dark rule. Instead, Bastian uses the wish on her, saying: "I wish... for you to have a heart!"
 
