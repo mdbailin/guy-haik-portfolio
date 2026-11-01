@@ -9,7 +9,7 @@ const setupNote = document.getElementById("booking-setup");
 if (SITE_CONFIG.links.booking) {
   bookingLink.href = SITE_CONFIG.links.booking;
   bookingLink.target = "_blank";
-  bookingLink.rel = "noreferrer";
+  bookingLink.rel = "noopener noreferrer";
 } else {
   bookingLink.remove();
   setupNote.classList.remove("is-hidden");

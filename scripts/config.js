@@ -13,9 +13,8 @@ const SITE_CONFIG = {
   },
   links: {
     resume: "Guy%20Haik%20CV.pdf",
-    // Paste the public Google Appointment Schedule booking-page URL here.
-    // Google Calendar sends confirmations to both the guest and Guy automatically.
-    booking: "https://calendar.app.google/GwVGaYBgqVfFSBv96",
+    // WhatsApp click-to-chat: international phone number, digits only.
+    booking: `https://wa.me/972549761580?text=${encodeURIComponent("Hi Guy, I'd like to book a coaching conversation. What times do you have available?")}`,
     email: "",
     linkedin: "",
     x: "",

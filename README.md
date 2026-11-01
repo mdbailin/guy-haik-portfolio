@@ -6,13 +6,11 @@ A static portfolio for Guy Haik, ready to deploy on GitHub Pages.
 
 Open `scripts/config.js` and add the public values for `booking`, `email`, `linkedin`, and (optionally) YouTube. The résumé link is already set to `Guy Haik CV.pdf`.
 
-### Google Calendar booking
+### WhatsApp booking
 
-1. In Guy's Google Calendar, create an **Appointment schedule** and set its availability, duration, location, and invitee questions.
-2. In the schedule settings, enable email confirmations and calendar invitations for booked appointments.
-3. Copy the schedule's public booking-page URL into `links.booking` in `scripts/config.js`.
+The booking page opens a WhatsApp chat with Guy at `+972 54-976-1580`, with a prefilled request for a coaching conversation. Visitors send the message and arrange a time directly with Guy.
 
-Google Calendar then checks Guy's availability, creates the event, and emails confirmations to both the guest and Guy. No separate scheduling backend or email service is needed.
+Update `links.booking` in `scripts/config.js` to change the number or message. The `wa.me` URL uses the full international number with digits only and a URL-encoded `text` parameter.
 
 ## Local preview
 
