@@ -26,8 +26,8 @@ const SITE_CONFIG = {
     contentDir: "content/posts",
   },
   youtube: {
-    channelId: "",
-    channelUrl: "",
+    channelId: "UCHQpJEqoN-psG7H6IIno9eQ",
+    channelUrl: "https://www.youtube.com/@guyhaikthehighlight7523",
   },
 };
 

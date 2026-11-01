@@ -144,6 +144,7 @@ export function initSite(activePage) {
     footer.innerHTML = `
       <p>${SITE_CONFIG.profile.name}</p>
       <p><a class="footer-link" href="${SITE_CONFIG.links.resume}" download>Download CV</a></p>
+      ${SITE_CONFIG.youtube.channelUrl ? `<p><a class="footer-link" href="${SITE_CONFIG.youtube.channelUrl}" target="_blank" rel="noopener noreferrer">YouTube</a></p>` : ""}
     `;
   }
 
@@ -152,6 +153,7 @@ export function initSite(activePage) {
   [
     ["[data-email-link]", SITE_CONFIG.links.email, "mailto:"],
     ["[data-linkedin-link]", SITE_CONFIG.links.linkedin, ""],
+    ["[data-youtube-link]", SITE_CONFIG.youtube.channelUrl, ""],
   ].forEach(([selector, value, prefix]) => {
     document.querySelectorAll(selector).forEach((link) => {
       if (!value) {
