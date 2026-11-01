@@ -763,6 +763,10 @@ header.header {
 }
 
 /* Post summary */
+.post-summary {
+  white-space: pre-line;
+}
+
 .post-list-item p {
   color: var(--muted);
   font-size: 1rem;

@@ -1,6 +1,7 @@
 import { readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
+import { parse } from "yaml";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -8,96 +9,16 @@ const projectRoot = path.resolve(__dirname, "..");
 const postsDir = path.join(projectRoot, "content", "posts");
 const outputPath = path.join(projectRoot, "content", "posts.json");
 
-function parseYamlScalar(value) {
-  const trimmed = value.trim();
-  if (!trimmed) {
-    return "";
-  }
-
-  if (
-    (trimmed.startsWith('"') && trimmed.endsWith('"')) ||
-    (trimmed.startsWith("'") && trimmed.endsWith("'"))
-  ) {
-    return trimmed.slice(1, -1);
-  }
-
-  if (trimmed === "true") {
-    return true;
-  }
-
-  if (trimmed === "false") {
-    return false;
-  }
-
-  if (trimmed.startsWith("[") && trimmed.endsWith("]")) {
-    return trimmed
-      .slice(1, -1)
-      .split(",")
-      .map((item) => item.trim())
-      .filter(Boolean)
-      .map((item) => parseYamlScalar(item));
-  }
-
-  return trimmed;
-}
-
-function parseFrontMatter(markdown) {
+export function parseFrontMatter(markdown) {
   const normalized = markdown.replace(/\r\n/g, "\n");
-  if (!normalized.startsWith("---\n")) {
-    return {
-      data: {},
-      body: normalized.trim(),
-    };
-  }
-
-  const lines = normalized.split("\n");
-  const closingIndex = lines.findIndex((line, index) => index > 0 && line.trim() === "---");
-  if (closingIndex === -1) {
-    return {
-      data: {},
-      body: normalized.trim(),
-    };
-  }
-
-  const data = {};
-  let index = 1;
-
-  while (index < closingIndex) {
-    const line = lines[index];
-    if (!line.trim()) {
-      index += 1;
-      continue;
-    }
-
-    const keyMatch = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
-    if (!keyMatch) {
-      index += 1;
-      continue;
-    }
-
-    const key = keyMatch[1];
-    const rest = keyMatch[2];
-
-    if (!rest) {
-      const items = [];
-      index += 1;
-
-      while (index < closingIndex && /^\s*-\s+/.test(lines[index])) {
-        items.push(lines[index].replace(/^\s*-\s+/, ""));
-        index += 1;
-      }
-
-      data[key] = items;
-      continue;
-    }
-
-    data[key] = parseYamlScalar(rest);
-    index += 1;
+  const match = normalized.match(/^---\n([\s\S]*?)\n---(?:\n|$)/);
+  if (!match) {
+    return { data: {}, body: normalized.trim() };
   }
 
   return {
-    data,
-    body: lines.slice(closingIndex + 1).join("\n").trim(),
+    data: parse(match[1]) || {},
+    body: normalized.slice(match[0].length).trim(),
   };
 }
 
@@ -109,7 +30,7 @@ function slugify(value) {
     .replace(/^-+|-+$/g, "");
 }
 
-function normalizePost(markdown, fileName) {
+export function normalizePost(markdown, fileName) {
   const { data, body } = parseFrontMatter(markdown);
   const fallbackSlug = slugify(fileName.replace(/\.md$/i, ""));
   const tags = Array.isArray(data.tags) ? data.tags : [];
@@ -141,7 +62,8 @@ async function buildPostIndex() {
   return posts.sort((left, right) => new Date(right.publishedAt) - new Date(left.publishedAt));
 }
 
-const posts = await buildPostIndex();
-await writeFile(outputPath, `${JSON.stringify(posts, null, 2)}\n`, "utf8");
-
-console.log(`Wrote ${posts.length} posts to ${path.relative(projectRoot, outputPath)}.`);
+if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
+  const posts = await buildPostIndex();
+  await writeFile(outputPath, `${JSON.stringify(posts, null, 2)}\n`, "utf8");
+  console.log(`Wrote ${posts.length} posts to ${path.relative(projectRoot, outputPath)}.`);
+}

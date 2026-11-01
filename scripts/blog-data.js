@@ -3,6 +3,13 @@ import { formatDate } from "./site.js";
 
 let postIndexPromise;
 
+function renderSummary(summary) {
+  const escaped = summary.replace(/[&<>"']/g, (character) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
+  })[character]);
+  return `<p class="post-summary">${escaped}</p>`;
+}
+
 // Helper function to filter out category tags (cat-*)
 function getDisplayTags(tags) {
   if (!Array.isArray(tags)) return [];
@@ -70,7 +77,7 @@ export function renderPostCard(post) {
     <article class="post-card">
       <p class="meta-text">${formatDate(post.publishedAt)}</p>
       <h3>${post.title}</h3>
-      <p>${post.summary}</p>
+      ${renderSummary(post.summary)}
       <div class="tag-row">${tags}</div>
       <a class="post-link" href="post.html?slug=${encodeURIComponent(post.slug)}">Read post</a>
     </article>
@@ -84,7 +91,7 @@ export function renderPostListItem(post) {
     <article class="post-list-item">
       <p class="meta-text">${formatDate(post.publishedAt)}</p>
       <h2>${post.title}</h2>
-      <p>${post.summary}</p>
+      ${renderSummary(post.summary)}
       <div class="tag-row">${tags}</div>
       <a class="post-link" href="post.html?slug=${encodeURIComponent(post.slug)}">Open article</a>
     </article>

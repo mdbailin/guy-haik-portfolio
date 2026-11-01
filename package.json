@@ -5,6 +5,7 @@
   "description": "Guy Haik portfolio site with optional TinaCMS-backed notes.",
   "scripts": {
     "build:posts": "node scripts/generate-posts-json.mjs",
+    "test": "node --test",
     "tinacms": "tinacms",
     "dev": "npm run build:posts && tinacms dev -c \"python3 -m http.server 8000\"",
     "build:admin": "tinacms build",
@@ -14,6 +15,7 @@
     "@tinacms/cli": "^1.12.6",
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
-    "tinacms": "^2.10.1"
+    "tinacms": "^2.10.1",
+    "yaml": "^2.8.3"
   }
 }
