@@ -82,7 +82,7 @@ function parseInline(text) {
     .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
     .replace(/\*([^*]+)\*/g, "<em>$1</em>")
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noreferrer">$1</a>')
-      .replace(/\\([.!#()+$-])/g, "$1");
+    .replace(/\\(&amp;|&lt;|&gt;|&quot;|&#39;|[.!#()+$-])/g, "$1");
 }
 
 function renderParagraph(text) {
