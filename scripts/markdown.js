@@ -44,7 +44,7 @@ function extractMathSegments(text) {
         }
       } else if (text[cursor] === "\n") {
         break;
-      } else if (text[cursor] === "$" && !/\s/.test(text[cursor - 1] || "")) {
+      } else if (text[cursor] === "$" && !/\s/.test(text[cursor - 1] || "") && !/\d/.test(text[cursor + 1] || "")) {
         end = cursor + 1;
         break;
       }
