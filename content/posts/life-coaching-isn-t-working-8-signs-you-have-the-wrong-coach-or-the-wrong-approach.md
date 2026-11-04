@@ -1,22 +1,15 @@
 ---
 title: 'Life Coaching Isn''t Working: 8 Signs You Have the Wrong Coach or the Wrong Approach'
 slug: 'Life-Coaching-Isn''t-Working:-8-Signs-You-Have-the-Wrong-Coach—or-the-Wrong-Approach'
-summary: |-
-  Navigation without a compass, just by asking questions. 
-
-  Recognize things that don't go the way you expected but keep moving forward.
-
-  Wrong approach may have various definitions but learning what is right or wrong for you is equivalent to the infinity symbol.
-  .
+summary: 'Coaching that isn’t working doesn’t always mean the wrong coach. Here are eight signs to watch for, and what to try before you decide to stay, adjust, or leave.'
 author: Guy David Haik
 publishedAt: 2026-10-30T00:00:00.000Z
 tags:
-  - Approach
-  - 'Positivity '
-  - Signs
-  - 'Beautiful '
-  - 'Beyourself '
-  - 'Love '
+  - Life Coaching
+  - Coaching Not Working
+  - Wrong Coach
+  - Coaching Approach
+  - Personal Growth
 ---
 
 Life Coaching Isn’t Working: 8 Signs You Have the Wrong Coach or the Wrong Approach
@@ -143,4 +136,4 @@ You can clarify your goals, change the approach, talk openly with your coach, ta
 
 Keep searching for tools that make the journey meaningful. A message often attributed to the Dalai Lama says that whether you believe in God, in Buddha or in reincarnation matters less than living a good life, and that a good life is not only good food, clothes and shelter. What is needed is a good motivation: compassion, without dogmatism, and respect for the rights and dignity of others.
 
-If you are unsure whether your coaching is working, or what you would want from the next step, I would be glad to talk. 
+If you are unsure whether your coaching is working, or what you would want from the next step, I would be glad to talk.
