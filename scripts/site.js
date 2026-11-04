@@ -1,4 +1,5 @@
 import SITE_CONFIG from "./config.js";
+   import "./extras.js";
 
 function navLink(href, label, activePage) {
   const activeClass = activePage === href ? "is-active" : "";
