@@ -9,6 +9,12 @@ summary: |-
   "Live the life you love. Love the life you live." How long shall they kill our prophets, while we stand aside and look? this sentences have something to do with the article's topic maybe.
 author: Guy David Haik
 publishedAt: 2026-10-20T00:00:00.000Z
+tags:
+  - 'Discipline '
+  - 'Motivation '
+  - 'Self improvement '
+  - 'Productivity '
+  - ''
 ---
 
 Does Life Coaching Actually Work? How to Tell Whether You're Making Real Progress
@@ -57,7 +63,7 @@ Still, you should be able to raise them with your coach. You shouldn't have to p
 
 What does progress in life coaching actually look like?
 
-Progress doesn't always mean achieving a major goal or completely changing your life. It simply means be happy in what you have. 
+Progress doesn't always mean achieving a major goal or completely changing your life. It simply means be happy in what you have.
 
 The poor want money, the rich want peace. The young want to grow up. The old wish to be young again. The married long for freedom. The single, long for love. The broken wish to heal. The truth is, not everyone has everything. Sometimes it's much less dramatic than that.
 
@@ -77,11 +83,11 @@ Sometimes the difficulty isn't a lack of options. It's being unable to choose be
 
 Progress might mean recognising what is holding you back, deciding what matters most, and accepting that no decision comes with complete certainty.
 
-You may still feel nervous about your choice. The difference is that you're no longer waiting to feel perfectly ready before moving forward. Sometimes having too many options isn't really a good thing, it makes things complicated. When I was a kid I remember when I bought an ice-cream there were only two options: vanilla flavor or chocolate, now there's a ton. There's a video that goes: Wait! So you're telling me in the future people just stare at a little box all day? And in the future you don't even own the music, you just pay every month to borrow it? Like if you stop paying the music just disappears? Wait, so before people eat they take a picture of the food and show strangers? And the strangers like and comment on it? So in the future everyone has their own phone and they use it to type messages instead of calling and if someone calls you without typing it first it's considered rude? So you're telling me in the future people just post their diary for everyone? 
+You may still feel nervous about your choice. The difference is that you're no longer waiting to feel perfectly ready before moving forward. Sometimes having too many options isn't really a good thing, it makes things complicated. When I was a kid I remember when I bought an ice-cream there were only two options: vanilla flavor or chocolate, now there's a ton. There's a video that goes: Wait! So you're telling me in the future people just stare at a little box all day? And in the future you don't even own the music, you just pay every month to borrow it? Like if you stop paying the music just disappears? Wait, so before people eat they take a picture of the food and show strangers? And the strangers like and comment on it? So in the future everyone has their own phone and they use it to type messages instead of calling and if someone calls you without typing it first it's considered rude? So you're telling me in the future people just post their diary for everyone?
 
 some people get paid for it /:
 
- for their diary?
+for their diary?
 
 and in the future a little box just tells you where to go, turn by turn, and people still get lost? If you want food from a restaurant, you just tap the box and a stranger brings it to your door, and you pay extra for that, and then you rate the stranger. Our moms always say don't talk to strangers, but in the future everyone just talks to strangers all day on the little box and shows them their house and their kids? So in the future, nobody ever just sits with the quiet, like ever. That sounds really exhausting. In the future everyone's connected to everything and people are still lonely? Okay, but do we at least still stay outside until the street lights come on?
 
@@ -117,7 +123,7 @@ Are you becoming more comfortable thinking through your own problems? Can you re
 
 You may still value your coach's perspective, but you shouldn't feel that you need your coach present every time you face a difficult decision.
 
-The ability to guide yourself is part of what makes progress meaningful. Also the ability to copy someone's pattern which can serve you as well as it serves him. For example, have you noticed how Goku (Dragon Ball)  every time he meets someone new that could realistically kill him, he gets excited. Everyone thinks he's stupid for that. But there's a Japanese concept that explains why Goku is able to surpass every single one of his opponents. It's called SHOSHIN(Approach things with a beginner's mindset. "If your mind is empty, it opens to everything") Shoshin quite literally means beginner's mind. It's a Zen concept that means you're approaching everything later and beginner again, even though you might already be a master, but Goku on the other hand, gets excited. He asks his opponent questions. He's curious about what their next power is going to be like, simply because he's curious. And that same curiosity is what keeps him growing. There's Zen saying, in the beginners mind there are many possibilities, but in the experts mind there are few. What that means for you is that an expert sees what he's always seeing and a beginner sees what's right in front of him. That's why people plateau. Not because they stop working, but they stop being curious. See, you weren't passed by someone who's smarter than you. You were passed by the version of you who was still asking dumb questions. So remember, the strongest version of you isn't the one who will ever be. It's the one who's excited to learn something new. So stay a beginner. 
+The ability to guide yourself is part of what makes progress meaningful. Also the ability to copy someone's pattern which can serve you as well as it serves him. For example, have you noticed how Goku (Dragon Ball)  every time he meets someone new that could realistically kill him, he gets excited. Everyone thinks he's stupid for that. But there's a Japanese concept that explains why Goku is able to surpass every single one of his opponents. It's called SHOSHIN(Approach things with a beginner's mindset. "If your mind is empty, it opens to everything") Shoshin quite literally means beginner's mind. It's a Zen concept that means you're approaching everything later and beginner again, even though you might already be a master, but Goku on the other hand, gets excited. He asks his opponent questions. He's curious about what their next power is going to be like, simply because he's curious. And that same curiosity is what keeps him growing. There's Zen saying, in the beginners mind there are many possibilities, but in the experts mind there are few. What that means for you is that an expert sees what he's always seeing and a beginner sees what's right in front of him. That's why people plateau. Not because they stop working, but they stop being curious. See, you weren't passed by someone who's smarter than you. You were passed by the version of you who was still asking dumb questions. So remember, the strongest version of you isn't the one who will ever be. It's the one who's excited to learn something new. So stay a beginner.
 
 How can you tell whether your coaching is working?
 
@@ -131,7 +137,7 @@ To me, the way I see it… it would be easier to give an example: If I ask a gir
 
 2\. What's different now?
 
-What drives you now? There's a song that goes: "whatever tomorrow brings, I'll be there. With open arms and open eyes, yeah" = add this attitude to the collection. When it's about motivation is there anything special? there's a song that goes: You thought that it was special,(special). But it was just the sex though, (the sex though). And I still hear the echoes (the echoes). I got a feeling that it's time to let it go(Let it go). 
+What drives you now? There's a song that goes: "whatever tomorrow brings, I'll be there. With open arms and open eyes, yeah" = add this attitude to the collection. When it's about motivation is there anything special? there's a song that goes: You thought that it was special,(special). But it was just the sex though, (the sex though). And I still hear the echoes (the echoes). I got a feeling that it's time to let it go(Let it go).
 
 3\. What am I still struggling with?
 
@@ -147,7 +153,7 @@ There's a song that goes: "Seasons change and our love went cold. Feed the flame
 
 How long should you wait to see results?
 
-There's no accurate answer to it. Don't think about the time issue or you will be distracted. A long journey ahead of everyone in this life so a good advice would be to be patient and enjoy the process. In the Anime series Dragon Ball, Piccolo and Gohan had a bond. Piccolo unlocked “Orange Piccolo” not for his own glory, but to buy Gohan time. Gohan reached “Gohan Beast” only after he saw Piccolo fall. This proves that their power is linked. They are two parts of the same warrior spirit, one providing the tactical foundation, the other providing the explosive execution. Piccolo’s Wisdom: “Gohan, you’re not just a fighter. You’re the one who has to be there when no one else can. Now, stop thinking and start acting!” 
+There's no accurate answer to it. Don't think about the time issue or you will be distracted. A long journey ahead of everyone in this life so a good advice would be to be patient and enjoy the process. In the Anime series Dragon Ball, Piccolo and Gohan had a bond. Piccolo unlocked “Orange Piccolo” not for his own glory, but to buy Gohan time. Gohan reached “Gohan Beast” only after he saw Piccolo fall. This proves that their power is linked. They are two parts of the same warrior spirit, one providing the tactical foundation, the other providing the explosive execution. Piccolo’s Wisdom: “Gohan, you’re not just a fighter. You’re the one who has to be there when no one else can. Now, stop thinking and start acting!”
 
 "You have to learn to rely on yourself. If you can find the courage to survive on your own, you'll be a stronger fighter, who was in body and in mind. Remember, there's a great power inside you waiting to be unlocked, but it's up to you to bring it out. Use it, rely on it."
 
