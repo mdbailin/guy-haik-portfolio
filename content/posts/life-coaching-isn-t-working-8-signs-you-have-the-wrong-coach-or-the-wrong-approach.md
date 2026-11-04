@@ -1,5 +1,5 @@
 ---
-title: 'Life Coaching Isn''t Working: 8 Signs You Have the Wrong Coach—or the Wrong Approach'
+title: 'Life Coaching Isn''t Working: 8 Signs You Have the Wrong Coach or the Wrong Approach'
 slug: 'Life-Coaching-Isn''t-Working:-8-Signs-You-Have-the-Wrong-Coach—or-the-Wrong-Approach'
 summary: |-
   Navigation without a compass, just by asking questions. 
@@ -19,7 +19,7 @@ tags:
   - 'Love '
 ---
 
-Life Coaching Isn't Working: 8 Signs You Have the Wrong Coach—or the Wrong Approach
+Life Coaching Isn't Working: 8 Signs You Have the Wrong Coach or the Wrong Approach
 
 You've been showing up to your coaching sessions, talking about what's happening in your life, and trying to make progress. But after a while, you start asking yourself a question you didn't expect to ask: Is any of this actually helping?
 
@@ -51,7 +51,7 @@ I always say the best example for a fighting style is like coding. If you learne
 
 5\. Nothing Changes Between Sessions
 
-Maybe it's because you forgot Simplicity and Humility which re-evaluates what society defines as "victory," focusing on internal balance rather than external validation. Maybe it's because forgetting to emphasize and improve adaptability (Being Like Water - Bruce Lee). Maybe it's because nobody teaches you how to navigate challenges with minimal and well-timed effort rather than brute force( Wu-Wei — Effortless Action) Tao Te Ching Core Ideas That Transform Perspective. The best example I can give is succeeding doing a muscle up with minimum physical effort = clear sign your mind realized what it takes to do it and make it look easy. 
+Maybe it's because you forgot Simplicity and Humility which re-evaluates what society defines as "victory," focusing on internal balance rather than external validation. Maybe it's because forgetting to emphasize and improve adaptability (Being Like Water - Bruce Lee). Maybe it's because nobody teaches you how to navigate challenges with minimal and well-timed effort rather than brute force( Wu-Wei — Effortless Action) Tao Te Ching Core Ideas That Transform Perspective. The best example I can give is succeeding doing a muscle up with minimum physical effort = clear sign your mind realized what it takes to do it and make it look easy.
 
 6\. Your Concerns Aren't Taken Seriously
 
@@ -63,11 +63,11 @@ You know better than anyone else if you feel better or not. Long ago people used
 
 8\. You Feel Pressured to Keep Paying
 
-Someone can take advantage of your vulnerability to make you keep in touch and keep paying. People who constantly need reassurance and relationships, texting too often, worrying if someone is upset, or panicking when they don't get a reply, are often showing signs of anxious attachment. This style doesn't mean they are needy or too much. It's the brain's way of protecting against abandonment. In anxious attachment, the amygdala, the brain's fear center, is highly alert, scanning for the smallest signs of rejection. The stress hormone cortisol spikes quickly when closeness feels uncertain, while the soothing effects of oxytocin fade too fast. This creates emotional highs and lows, relief when they feel loved, panic when they sense distance. The roots of anxious attachment usually trace back to childhood environments where care was inconsistent. Sometimes a parent was warm and loving, other times distant or distracted. This unpredictability taught the child's brain that love could disappear at any moment. As adults, they carry that same worry into relationships, always bracing for loss, always needing proof that they are safe. anxious attachment often shows up in two clear traits. One, they overthink every interaction. A late reply, a changed tone, or even a sigh can feel like rejection. Their minds quickly spiral into what ifs, making it hard to stay calm. Two, they hold on too tightly. Fear of abandonment can make them cling, apologize too much, or give more love than they receive, hoping that effort will keep the bond alive. Anxious attachment is not about weakness. It's about a nervous system shaped to survive uncertainty. These individuals love deeply, but they live in fear of losing the very connection they crave. Healing begins when they learn to calm the alarm inside their brain, and trust that love doesn't vanish when it isn't constantly proven. 
+Someone can take advantage of your vulnerability to make you keep in touch and keep paying. People who constantly need reassurance and relationships, texting too often, worrying if someone is upset, or panicking when they don't get a reply, are often showing signs of anxious attachment. This style doesn't mean they are needy or too much. It's the brain's way of protecting against abandonment. In anxious attachment, the amygdala, the brain's fear center, is highly alert, scanning for the smallest signs of rejection. The stress hormone cortisol spikes quickly when closeness feels uncertain, while the soothing effects of oxytocin fade too fast. This creates emotional highs and lows, relief when they feel loved, panic when they sense distance. The roots of anxious attachment usually trace back to childhood environments where care was inconsistent. Sometimes a parent was warm and loving, other times distant or distracted. This unpredictability taught the child's brain that love could disappear at any moment. As adults, they carry that same worry into relationships, always bracing for loss, always needing proof that they are safe. anxious attachment often shows up in two clear traits. One, they overthink every interaction. A late reply, a changed tone, or even a sigh can feel like rejection. Their minds quickly spiral into what ifs, making it hard to stay calm. Two, they hold on too tightly. Fear of abandonment can make them cling, apologize too much, or give more love than they receive, hoping that effort will keep the bond alive. Anxious attachment is not about weakness. It's about a nervous system shaped to survive uncertainty. These individuals love deeply, but they live in fear of losing the very connection they crave. Healing begins when they learn to calm the alarm inside their brain, and trust that love doesn't vanish when it isn't constantly proven.
 
 Should You Switch Coaches or Try a Different Approach First?
 
-Often, the problem isn't the coach itself, but a deeper layer of communication, expectations, or methodology. You have to look at the layers before you find the core issue. Before making a dramatic move like firing a coach, you need to peel back the outer layers to understand what is actually going wrong. 
+Often, the problem isn't the coach itself, but a deeper layer of communication, expectations, or methodology. You have to look at the layers before you find the core issue. Before making a dramatic move like firing a coach, you need to peel back the outer layers to understand what is actually going wrong.
 
 It reminds me of the movie "Shrek" he said to the donkey  (Ogres are like onions – they have layers!). Shrek uses this famous metaphor to explain that ogres (and people in general) are much more complex and sensitive on the inside than their tough, grumpy exteriors might suggest. So, actually everyone has to peel off the layers in the journey of self discovery I believe. Tai Chi has many layers.
 
