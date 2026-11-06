@@ -14,7 +14,7 @@ const SITE_CONFIG = {
   links: {
     resume: "Guy%20Haik%20CV.pdf",
     // WhatsApp click-to-chat: international phone number, digits only.
-    booking: `https://wa.me/972549761580?text=${encodeURIComponent("Hi Guy, I'd like to book a coaching conversation. What times do you have available?")}`,
+    booking: `https://wa.me/972549761580?text=${encodeURIComponent("   ask you a question.")}`,
     email: "",
     linkedin: "",
     x: "",
