@@ -144,7 +144,7 @@ export function initSite(activePage) {
   if (footer) {
     footer.className = "site-footer";
     footer.innerHTML = `
-      <p>${SITE_CONFIG.profile.name}</p>
+      <p>${SITE_CONFIG.profile.name}</p><p><a class="footer-link" href="accessibility.html">Accessibility statement</a></p>
 <p><a class="footer-link" href="https://www.linkedin.com/in/guy-haik-78b298202/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>      ${SITE_CONFIG.youtube.channelUrl ? `<p><a class="footer-link" href="${SITE_CONFIG.youtube.channelUrl}" target="_blank" rel="noopener noreferrer">YouTube</a></p>` : ""}
     `;
   }
