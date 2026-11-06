@@ -33,7 +33,7 @@ function injectStyles() {
   style.textContent = `
     #a11y-toggle{position:fixed;left:16px;bottom:16px;z-index:9998;width:52px;height:52px;border-radius:50%;border:0;cursor:pointer;font-size:26px;color:#fff;background:linear-gradient(90deg,#1e90ff,#d400ff);box-shadow:0 4px 14px rgba(0,0,0,.3)}
     #a11y-panel{position:fixed;left:16px;bottom:78px;z-index:9999;display:flex;flex-direction:column;gap:6px;padding:12px;width:220px;background:#2b2b2b;border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.35)}
-    #a11y-panel[hidden]{display:none} .site-footer{padding-bottom:90px}
+    #a11y-panel[hidden]{display:none} .site-footer{padding-bottom:90px} .site-footer{padding-bottom:90px}
     #a11y-panel button,#cookie-banner button{font:inherit;font-size:14px;cursor:pointer;border:0;border-radius:999px;padding:9px 14px;color:#fff}
     #a11y-panel button{background:#444;text-align:left}
     #cookie-banner{position:fixed;left:80px;right:16px;bottom:16px;max-width:640px;margin-left:auto;z-index:9997;display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:14px 16px;background:#2b2b2b;color:#fff;border-radius:14px;box-shadow:0 8px 24px rgba(0,0,0,.35)}
