@@ -107,6 +107,7 @@ export function initSite(activePage) {
         <li><a href="#experience" data-scroll="experience">Approach</a></li>
         <li><a href="blog.html">Notes</a></li>
         <li><a href="videos.html">Videos</a></li>
+           <li><a href="booking.html">Contact</a></li>
         <li></li>
         
       `;
@@ -117,6 +118,7 @@ export function initSite(activePage) {
         <li><a href="index.html#experience">Approach</a></li>
         <li><a href="index.html#articles">Notes</a></li>
         <li><a href="videos.html">Videos</a></li>
+           <li><a href="booking.html">Contact</a></li>
         <li></li>
         
       `;
