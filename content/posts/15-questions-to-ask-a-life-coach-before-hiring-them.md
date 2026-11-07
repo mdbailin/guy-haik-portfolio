@@ -122,7 +122,7 @@ Conversations about inner life can involve very personal matters. Ask how inform
 
 My answer: in the film The Hangover, someone says that what happens in Vegas stays in Vegas, a famous slogan about discretion. I believe it applies in general: it isn’t good to push into someone else’s space, and I would respect it if you wish to keep something secret.
 
-In practice: questions sent through this site go through Google Forms. I publish a question only if you tick the box that allows it, anonymously, and I may remove or change identifying details first. If you leave an email, I use it only to reply. You can read more in the privacy policy.
+In practice: questions sent through this site go through Google Forms. I publish a question only if you tick the box that allows it, anonymously, and I may remove or change identifying details first. If you leave an email, I use it only to reply. You can read more in the [privacy policy](https://guyhaik.com/privacy.html).
 
 ## 14. What if my needs fall outside your expertise?
 
@@ -154,7 +154,7 @@ For me, good guidance should leave you better able to guide yourself afterward. 
 
 You are welcome to ask me these questions directly. I would rather you understand my approach and what to expect before you decide anything. You don’t need to commit to anything simply because we have exchanged messages.
 
-If you would like to ask, send a question and tell me what is on your mind. Before trusting any guide, ask questions. Including me.
+If you would like to ask, [send a question](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform) and tell me what is on your mind. Before trusting any guide, ask questions. Including me.
 
 One last thought: when to walk away
 
