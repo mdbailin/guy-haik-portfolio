@@ -109,7 +109,7 @@ function buildBanner() {
   banner.setAttribute("role", "dialog");
   banner.setAttribute("aria-label", "Cookie consent");
   banner.innerHTML =
-    "<p>This site uses cookies for anonymous analytics, to understand how it is used. You can accept or decline.</p>" +
+    "<p>This site uses    analytics cookies to understand how it is used. You can accept or decline. <a href='privacy.html' style='color:#fff;text-decoration:underline'>Privacy policy</a></p>" +
     '<div><button type="button" data-consent="granted">Accept</button> ' +
     '<button type="button" class="secondary" data-consent="denied">Decline</button></div>';
 
