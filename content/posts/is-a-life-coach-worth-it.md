@@ -30,7 +30,7 @@ Bob Marley was once asked in an interview whether he had made a lot of money fro
 
 Maybe you are unhappy with your career. A former UFC champion liked to say that he doesn’t fight for money but for legacy. What does that mean? It means having something to leave behind after you are gone, a bit like a kingdom or a dynasty. Ethnic groups, for example, are held together by something shared: a feeling that they belong somewhere, with the same culture, language and vision. In the end, you wish to be where you belong.
 
-Maybe your old goals no longer feel meaningful. Then challenge yourself and push beyond your limits, and wake up your inner child, because children use their imagination more than we do.    Bruce Lee wrote, in notes later published as Striking Thoughts, that if you think a thing is impossible, you will only make it impossible. as saying that if you believe something is impossible, you make it impossible. I don’t need thousands of people who made it. I just need to know that one person did, to realize it can be done.
+Maybe your old goals no longer feel meaningful. Then challenge yourself and push beyond your limits, and wake up your inner child, because children use their imagination more than we do.    Bruce Lee wrote, in notes later published as Striking Thoughts, that if you think a thing is impossible, you will only make it impossible. I don’t need thousands of people who made it. I just need to know that one person did, to realize it can be done.
 
 Maybe you keep going back and forth about a major change. Change is not necessarily bad, and the way we speak to ourselves shapes how we see our life. Sometimes the problem isn’t a lack of motivation but a lack of clarity. You tend to follow the majority instead of the right way, and “listen to your heart” can sound like just a common phrase. But if you can’t express what you feel, it is hard to know what you want. Children express feelings naturally: when they are sad, they cry, and when they are happy, they smile.
 
@@ -104,7 +104,7 @@ Before committing to anything, have a conversation. Explain what you are dealing
 
 Be especially careful with these red flags: demands for obedience, pressure to cut ties with people close to you, large payments, and claims to hold the only truth. You don’t have to choose someone after one conversation. Take your time.
 
-A saying    The writer Oliver Goldsmith put it this way in the 1760s: our greatest glory is not in never falling, but in rising every time we fall. It is often credited to Confucius, but there is no evidence that he said it. is that our greatest glory is not in never falling, but in rising every time we fall. Even if you can’t tell yet which guide is right for you, you have gained the experience of rising after falling. Move on, let go and leave the past behind, because there is no point in complaining.
+The writer Oliver Goldsmith put it this way in the 1760s: our greatest glory is not in never falling, but in rising every time we fall. It is often credited to Confucius, but there is no evidence that he said it. Even if you can’t tell yet which guide is right for you, you have gained the experience of rising after falling. Move on, let go and leave the past behind, because there is no point in complaining.
 
 ## The Real Return on Investment
 
@@ -116,7 +116,7 @@ The result doesn’t have to be dramatic. Progress is still progress. And someti
 
 You don’t need to believe that guidance is the answer to every problem, and you don’t even need to be certain that you need it. If you are curious, start with the question. What are you trying to change? What have you already tried? Where are you stuck? And what kind of help would actually be useful?
 
-A line T. S. Eliot wrote, in his 1931 preface to Harry Crosby’s Transit of Venus, that only those who risk going too far can find out how far one can go. says that only those who risk going too far can find out how far one can go. If that speaks to you, you are probably headed in the right direction. And Bruce Lee said to empty your mind and be formless and shapeless, like water. People say he became so wise partly because he read philosophy. Before starting any process, you have to find it interesting enough to proceed.
+T. S. Eliot wrote, in his 1931 preface to Harry Crosby’s Transit of Venus, that only those who risk going too far can find out how far one can go. If that speaks to you, you are probably headed in the right direction. And Bruce Lee said to empty your mind and be formless and shapeless, like water. People say he became so wise partly because he read philosophy. Before starting any process, you have to find it interesting enough to proceed.
    ## Sources and notes
 
    - Bob Marley’s remark about richness is reported as coming from a 1979 interview on the Australian TV program 60 Minutes. See [Wikiquote: Bob Marley](https://en.wikiquote.org/wiki/Bob_Marley).
@@ -125,4 +125,5 @@ A line T. S. Eliot wrote, in his 1931 preface to Harry Crosby’s Transit of Ven
    - Oliver Goldsmith, The Citizen of the World (1760s). See [Quote Investigator](https://quoteinvestigator.com/2014/05/27/rising/).
    - T. S. Eliot, preface to Harry Crosby, Transit of Venus (1931). See [the preface](https://gwern.net/doc/fiction/criticism/1931-eliot.pdf).
    - The films, anime and songs mentioned are The Lion King, Naruto, Kill Bill: Vol. 2, Star Wars, Dragon Ball Z, Into the Wild and the Beatles’ Let It Be.
-If you have a question, you are welcome to [send it](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform).
+(https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform).
+If you have a question, you are welcome to [send it]
