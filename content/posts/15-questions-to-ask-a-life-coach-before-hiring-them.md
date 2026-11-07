@@ -150,11 +150,7 @@ There is one final question worth considering, even if you don’t ask it direct
 
 For me, good guidance should leave you better able to guide yourself afterward. That doesn’t mean you will never need support again. Nobody has to figure everything out alone, and there is nothing wrong with asking for help when you need it. But it should help you understand your situation, decide with more clarity, recognize patterns, and act on the things that matter to you.
 
-## Want to ask me something?
 
-You are welcome to ask me these questions directly. I would rather you understand my approach and what to expect before you decide anything. You don’t need to commit to anything simply because we have exchanged messages.
-
-If you would like to ask, [send a question](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform) and tell me what is on your mind. Before trusting any guide, ask questions. Including me.
 
 One last thought: when to walk away
 
@@ -167,3 +163,10 @@ Not every disagreement deserves your energy, and not every criticism requires a 
 You can’t control how other people think, speak or behave. You can control how much power their behavior has over your peace of mind. Sometimes walking away isn’t weakness. It is emotional discipline. Protecting your peace doesn’t mean believing you are always right. It means having enough humility to learn when a conversation is worthwhile, and enough confidence to leave when it isn’t.
 
 What do you think? Is walking away from an unnecessary argument a sign of wisdom, or should we always try to make others understand our perspective?
+
+
+## Want to ask me something?
+
+You are welcome to ask me these questions directly. I would rather you understand my approach and what to expect before you decide anything. You don’t need to commit to anything simply because we have exchanged messages.
+
+If you would like to ask, [send a question](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform) and tell me what is on your mind. Before trusting any guide, ask questions. Including me.
