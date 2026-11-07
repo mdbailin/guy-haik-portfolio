@@ -1218,3 +1218,7 @@ header.header {
    .rich-copy p a:focus-visible {
      text-decoration-thickness: 2px;
    }
+   .post-header .eyebrow {
+     display: none;
+   }
+
