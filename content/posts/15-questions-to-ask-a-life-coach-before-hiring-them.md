@@ -32,7 +32,7 @@ Here are fifteen questions I recommend asking, each with my own answer.
 
 A good guide should have a view on how you relate to other people’s opinions.
 
-My answer: try to take nothing personally. The idea is It is the second of the four agreements in Don Miguel Ruiz’s book The Four Agreements, and there is a lot of freedom in it.’s book The Four Agreements, and there is a lot of freedom in it. We spend so much time worrying about what others think of us, when in reality you are the creator of your own life. What someone says about you often says more about them than about you.
+My answer: try to take nothing personally. It is the second of the four agreements in Don Miguel Ruiz’s book The Four Agreements, and there is a lot of freedom in it. We spend so much time worrying about what others think of us, when in reality you are the creator of your own life. What someone says about you often says more about them than about you.
 
 ## 2. What do you recommend when my mind is agitated?
 
@@ -64,15 +64,15 @@ You shouldn’t have to guess what you are getting. Ask how long a conversation 
 
 My answer: sometimes you will have homework. As a kid I found it difficult to stay concentrated for long, and I started to think I might be stupid. But quitting because you aren’t good enough isn’t an answer. Find a way to overcome obstacles yourself. I believe games make us smarter, so I started solving Rubik’s cubes: first 3x3, and now 6x6, because I understand the concept behind it. It is like using nunchaku. It is easier to control once you understand what the idea is all about. Succeeding at a muscle-up is similar to the game Guitar Hero: it is about timing and how well you are synced with the motion.
 
-I also like fighting, nature and animals, but it isn’t really about me, it is about you. One of Bruce Lee’s best-known sayings is to always be yourself, express yourself and have faith in yourself., express yourself, have faith in yourself, and don’t go looking for a successful personality to duplicate. As for length and format, they change according to the need.
+I also like fighting, nature and animals, but it isn’t really about me, it is about you. One of Bruce Lee’s best-known sayings is to always be yourself, express yourself and have faith in yourself. As for length and format, they change according to the need.
 
 ## 6. How will you help me work out what I am looking for?
 
 Sometimes people arrive knowing exactly what they want. Other times they only know that something isn’t working. Both are reasonable starting points. Ask how the person handles uncertainty, and whether you can use the first conversations to work out what matters most. You shouldn’t have to pretend you know what you want just to begin.
 
-My answer: it is not a bad thing not to know everything, and it is not a bad thing to ask for help. But time is precious. A line Benjamin Franklin wrote in Poor Richard’s Almanack in 1746 that if you love life, you should not squander time, because time is the stuff life is made of., you shouldn’t waste time, because time is what life is made of. If you want to set goals together, that is completely fine. If you prefer to do it yourself, that is fine too.
+My answer: it is not a bad thing not to know everything, and it is not a bad thing to ask for help. But time is precious. Benjamin Franklin wrote in Poor Richard’s Almanack in 1746 that if you love life, you should not squander time, because time is the stuff life is made of. If you want to set goals together, that is completely fine. If you prefer to do it yourself, that is fine too.
 
-Even people who arrive with clear goals sometimes have no idea what they truly want, while those who say “I have no idea” at the start can save everyone time. There are no rules. And a line often credited to others, though I believe it comes from the poet And the poet James Russell Lowell wrote that the crime is not failure, but low aim., says that the crime is not failure, but aiming too low.
+Even people who arrive with clear goals sometimes have no idea what they truly want, while those who say “I have no idea” at the start can save everyone time. There are no rules. And the poet James Russell Lowell wrote that the crime is not failure, but low aim.
 
 ## 7. How will we know whether this is helping?
 
@@ -120,7 +120,7 @@ My answer: feel free to tell me how you feel about each answer. Feedback means a
 
 Conversations about inner life can involve very personal matters. Ask how information is stored, who can see it, whether anything is recorded or published, and what the limits are. Don’t assume that every guide follows the same practices, or that this kind of conversation has the same legal confidentiality as therapy.
 
-My answer: “What happens in Vegas stays in Vegas” is a famous slogan from a 2003 Las Vegas tourism campaign, and a character repeats it in the film The Hangover., someone says that what happens in Vegas stays in Vegas, a famous slogan about discretion. I believe it applies in general: it isn’t good to push into someone else’s space, and I would respect it if you wish to keep something secret.
+My answer: “What happens in Vegas stays in Vegas” is a famous slogan from a 2003 Las Vegas tourism campaign, and a character repeats it in the film The Hangover. I believe the idea applies in general: it isn’t good to push into someone else’s space, and I would respect it if you wish to keep something secret.
 
 In practice: questions sent through this site go through Google Forms. I publish a question only if you tick the box that allows it, anonymously, and I may remove or change identifying details first. If you leave an email, I use it only to reply. You can read more in the [privacy policy](https://guyhaik.com/privacy.html).
 
@@ -152,7 +152,7 @@ For me, good guidance should leave you better able to guide yourself afterward. 
 
 
 
-One last thought: when to walk away
+## One last thought: when to walk away
 
 When it comes to emotional intelligence, one of the greatest signs of strength is knowing when to speak and when to walk away. In a world where everyone wants to be right, winning an argument can feel more important than understanding another person. But how often does an argument truly change someone’s mind, and how much peace do we sacrifice trying to prove something to someone who has already decided not to listen?
 
