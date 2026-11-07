@@ -70,7 +70,7 @@ Be realistic: guidance is a service, and many people charge for it. There is not
 
 A guide who explains their options and answers questions about cost is one thing. A guide who says you must sign up immediately, makes you feel guilty for hesitating, or suggests you are not serious about growth unless you pay is another. You should be allowed to consider your options, and to say no. Take the information away and decide when you are ready.
 
-When I was young I took private guitar lessons with a one-on-one tutor. YouTube can teach almost anything, so why did I do it? One reason is a line often attributed to Bruce Lee: the most dangerous person is the one who listens, thinks and observes. I paid a lot for every lesson and didn’t care about the money. Music, for me, is a special kind of therapy, a way of expressing yourself, similar to what Bruce Lee said about fighting. When I was in Japan, I paid a lot to someone who taught me to master nunchaku, even though it was very expensive for me.
+When I was young I took private guitar lessons with a one-on-one tutor. YouTube can teach almost anything, so why did I do it? One reason is that I wanted to listen, observe and learn from someone face to face.. I paid a lot for every lesson and didn’t care about the money. Music, for me, is a special kind of therapy, a way of expressing yourself. When I was in Japan, I paid a lot to someone who taught me to master nunchaku, even though it was very expensive for me.
 
 What I am trying to say is that I don’t underestimate someone with budget issues. But I truly think that if something is important enough, you invest money and time. And maturity includes accepting “no” as a reasonable answer.
 
@@ -86,11 +86,11 @@ Not every guide is right for every person. You might prefer a more direct approa
 
 That doesn’t mean the conversation was a waste of time. Finding out before spending money that someone isn’t the right fit can be a very useful result. A responsible guide acknowledges when your needs fall outside their expertise, and doesn’t try to convince you that guidance is the answer to every problem. If you decide not to continue, you don’t need an elaborate explanation: thank them and say you have decided not to proceed. The same applies if the guide decides they aren’t the right person to help.
 
-In the film Kill Bill Vol. 2, the main character is trained hard before an upcoming battle. In one scene her hands are shaking and she can’t hold the chopsticks. After a few tries she decides it would be easier to eat like a dog. Her master notices, takes the bowl of rice and throws it away, telling her to respect the food. Someone being tough with you doesn’t automatically mean they are mean. At the beginning of a soldier’s journey, commanders are harsh not because they don’t care, but because they want the ego to be broken. As a kid, when your parents yell at you, it is hard to understand that they do it because they care. Education starts when somebody cares about you.
+In the film Kill Bill Vol. 2, the main character is trained hard before an upcoming battle. In one scene her hands are shaking and she can’t hold the chopsticks. After a few tries she decides it would be easier to eat like a dog. Her master notices, throws the bowl of rice on the floor, and tells her that if she wants to eat like a dog, she can live like one. Then he gives her a fresh bowl, and she manages to eat with the chopsticks. Someone being tough with you doesn’t automatically mean they are mean. At the beginning of a soldier’s journey, commanders are harsh not because they don’t care, but because they want the ego to be broken. As a kid, when your parents yell at you, it is hard to understand that they do it because they care. Education starts when somebody cares about you.
 
 One important difference: toughness aimed at your growth is not the same as pressure, humiliation, or being cut off from the people close to you. If a guide does those things, that is not discipline, and you are free to leave.
 
-In Japan, before a meal, people say “Itadakimasu.” For the average person it is easy to translate it as bon appétit, but it is really said out of respect and gratitude for the food on the table. Learn to appreciate the basics. If you can’t, life can teach you the hard way. A line often attributed to Bruce Lee says that if you think something is impossible, you make it impossible.
+In Japan, before a meal, people say “Itadakimasu.” For the average person it is easy to translate it as bon appétit, but it is really said out of respect and gratitude for the food on the table. Learn to appreciate the basics. If you can’t, life can teach you the hard way. 
 
 8\. What should you feel after the conversation?
 
@@ -136,7 +136,7 @@ I don’t believe every person needs a guide, and I don’t think every person w
 
 When someone asks me whether the way he is dressed looks good, I answer that what I think doesn’t really matter, what you think matters. Don’t rely on other people’s opinions to be approved when it comes to something like fashion. Be able to navigate yourself. I always emphasize the individual side: people are different.
 
-A line often attributed to Bruce Lee says that a wise man can learn more from a foolish question than a fool can learn from a wise answer. Wisdom isn’t only about the quality of the information we receive, but about our willingness to understand it. A curious person can find value in an imperfect question, while an arrogant person can reject even the clearest answer. The journey means as much to me as the final result.
+There is a saying that a wise person can learn more from a foolish question than a fool can learn from a wise answer”. Wisdom isn’t only about the quality of the information we receive, but about our willingness to understand it. A curious person can find value in an imperfect question, while an arrogant person can reject even the clearest answer. The journey means as much to me as the final result.
 
 So, should you start a conversation with a guide?
 
@@ -146,6 +146,14 @@ If you would like to talk with me, you are welcome to send a question and tell m
 
 The purpose isn’t to convince you that you need guidance. It is to help us work out whether it makes sense for you.
 
-A line often attributed to Bruce Lee says that it is easy to criticize others, but knowing yourself takes a lifetime, and that all knowledge ultimately means self-knowledge.
+Knowing yourself takes a lifetime, and that all knowledge ultimately means self-knowledge.
 
 Send a question
+
+## Sources and notes
+
+\- Bob Marley’s remark about richness comes from a 1979 interview on the Australian TV program 60 Minutes. The exchange is quoted on Wikiquote: https\://en.wikiquote.org/wiki/Bob\_Marley
+
+\- The film scenes are summarized from 12 Years a Slave (2013) and Kill Bill: Vol. 2 (2004). Solomon Northup’s own account is his 1853 memoir, Twelve Years a Slave.
+
+\- Genesis 8:21 and Ecclesiastes are from the Hebrew Bible.
