@@ -1,232 +1,151 @@
 ---
-title: What Should Happen During a Free Life Coaching Consultation?
+title: What a Good First Conversation With a Spiritual Guide Looks Like
 slug: What-Should-Happen-During-a-Free-Life-Coaching-Consultation?
-summary: |-
-  Free life coaching consultation should give you the opportunity to explain what you're looking for, understand the coach's approach, and ask questions before making any commitment.
-
-  Good consultation should leave you feeling informed and comfortable making your own decision, without pressure to buy a package or share more than you're ready to discuss.
-
-  Ultimately, the purpose is to determine whether coaching is right for you and whether you and the coach are a good fit(not to convince you that you need coaching).
+summary: 'A good first conversation lets you explain what you are looking for, understand how a guide works, and ask questions without pressure. Here is what to expect and what to watch for.'
 author: Guy David Haik
 publishedAt: 2026-10-12T00:00:00.000Z
 tags:
-  - Coaching Process
-  - Coaching Relationship
-  - Choosing a Life Coach
+  - Spiritual Guidance
+  - Self-Reflection
+  - Inner Life
+  - First Conversation
+  - Choosing a Guide
 ---
 
-What Should Happen During a Free Life Coaching Consultation?
+You have been thinking about asking someone for guidance. Maybe you have been feeling stuck, struggling with a decision, or trying to make a change in your life.
 
-You've been thinking about working with a life coach. Maybe you've been feeling stuck, struggling with a decision, or trying to make a change in your life.
+You find someone whose approach sounds interesting, visit their website, and see an invitation to get in touch. But what actually happens in that first conversation?
 
-You find someone whose approach sounds interesting, visit their website, and see an invitation to book a free consultation.
+Will you be expected to explain your entire life story? Will the person start asking personal questions? Is it really free, or is the whole thing a sales pitch designed to get you to pay for something expensive?
 
-But what actually happens during that conversation?
+These are reasonable questions to have before reaching out to someone you don’t know.
 
-Will you be expected to explain your entire life story? Will the coach start asking personal questions? Is it really free, or is the whole thing just a sales pitch designed to get you to buy an expensive package?
+A first conversation should give you an opportunity to understand how the person works, explain what you are looking for, and decide whether it might be a good fit. It shouldn’t require you to commit before you have had the chance to think things through.
 
-These are reasonable questions to have before booking a call with someone you don't know.
-
-A free consultation should give you an opportunity to understand how a coach works, explain what you're looking for, and decide whether you might be a good fit. It shouldn't require you to make a commitment before you've had the chance to think things through.
-
-Here's what I'd expect from a useful consultation. For example, in the biographical drama film "12 Years a Slave" (2013) Solomon Northup had a conversation with a Canadian carpenter Samuel Bass. When Bass mentions he is originally from Canada, Solomon surprises him by revealing that he has actually visited Canada himself(specifically mentioning places like Montreal, Kingston, and Queenston from his life as a free man). Bass: "Well traveled for a slave. How came you here?"
-
-Solomon Northup: "Master Bass, if justice had been done I never would have been here."
-
-Bass: "How’s this?
-
-Solomon asked Bass to write a letter "I ask, I beg that you write my friends in the North, acquainting them of my situation."
-
-After mailing the letters to contacts in Saratoga Springs, New York, months passed with absolutely no response. Unknown to Solomon, the letter had successfully arrived in New York. It was delivered to Cephas Parker and William Perry, two storekeepers who forwarded it to Solomon’s wife, Anne. Anne immediately sought the help of Henry B. Northup, a white attorney and a lifelong friend of the Northup family. Because Solomon had been illegally kidnapped as a free citizen, Henry compiled formal documentation and legal affidavits. He presented them to the Governor of New York, Washington Hunt, who officially appointed Henry as a state agent authorized to recover Solomon from Louisiana. On Monday morning, January 3, 1853, Henry Northup and the local sheriff arrived. Solomon was working out in the cotton field when he saw two men approaching. Henry recognized Solomon right away and called out his real name. Solomon rushed into Henry's arms, weeping. Solomon's resourcefulness saved him. RESOURCEFUL. Dare to do. I'd expect stuff like this from a useful consultation.
+Here is what I would expect. One example I like comes from the film 12 Years a Slave. Solomon Northup, a free man who was kidnapped, dares to ask a carpenter named Bass to write letters to his friends in the North. It takes months, and it is far from certain that anyone will answer. But the letters do arrive, and in January 1853 a friend of the family arrives with legal papers and brings him home. Solomon’s resourcefulness saved him. Dare to ask. I would expect a useful first conversation to leave room for that kind of courage.
 
 1\. You should have a chance to explain what brings you there
 
-You don't need to arrive with a perfectly defined goal.
+You don’t need to arrive with a perfectly defined goal. Some people know exactly what they want to work on. Others simply know that something isn’t working. They feel dissatisfied without knowing what needs to change, or they have several problems competing for their attention and no idea where to begin.
 
-Some people know exactly what they want to work on. They might be considering a career change, trying to build confidence, or looking for more accountability.
+That is okay. The conversation should give you room to explain your situation in your own words. A good guide may ask questions to understand what you are dealing with, but you shouldn’t need to present a complete plan for your life before it can begin.
 
-Others simply know that something isn't working.
+Sometimes explaining what is going on to another person is a useful starting point in itself. Things can seem obvious, but only to you.
 
-They might feel dissatisfied with their current situation without knowing what needs to change. They might have several problems competing for their attention and no clear idea where to begin.
+2\. The guide should explain how they work
 
-That's okay.
+Guides don’t all work in the same way. Some focus heavily on questions and reflection. Others use exercises, practices, accountability, or practical suggestions. Many combine several approaches depending on the person.
 
-The initial conversation should give you room to explain your situation in your own words. A good coach may ask questions to understand what you're dealing with, but you shouldn't feel that you need to present a complete plan for your life before the conversation can begin.
+Use the first conversation to ask what to expect. Do they help you set specific goals? Do they expect you to arrive with something to discuss? Do they offer suggestions, or prefer to help you reach your own conclusions? If you have worked with someone before, you can also explain what you liked or disliked about that experience.
 
-Sometimes, explaining what's going on to another person is a useful starting point in itself. Sometimes things seem obvious but the truth is it seems obvious to you. There's a funny video that goes: Everyone keeps quitting and I don't know why. Did you make them feel valued and appreciated as employees? No. Oh, well did you give them raises? No. Bonuses? No. Do you encourage work-life balance? No. Did you welcome their input and implement it? No. Did you provide support when needed? Uh... Did you stop taking advantage of them? Uh... Do you make goals attainable? No. Did you take interest in their life? No. Stop criticizing them and give them positive feedback instead? No. Do you offer flexibility? No. Did you let them take their break? No. Are you empathetic, ever? Nope. Okay. So I don't know why you're confused that everyone keeps quitting. Maybe you should take a class in leadership or something CJ, because I'm about to quit too. I'm about to quit right now. I'm just kidding, I need the money. Anyways, okay, I'll see you later CJ. Okay, bye. "Love and respect. Without respect, love cannot go long" — Bruce Lee
+If you feel we have a lot in common in the content shared here, we can exchange some wisdom. I quote Bruce Lee a lot, because I admire his personality as much as I admire him as a fighter. As someone who believes in spirituality, I believe the human soul is pure. If someone behaves badly while being aware of it, it may be a sign that the soul is calling for help. Bob Marley’s Redemption Song speaks about freeing ourselves from mental slavery, and says that only we can free our own minds.
 
-2\. The coach should explain how they work
-
-Life coaches don't all work in the same way.
-
-Some focus heavily on questions and reflection. Others use structured exercises, goal-setting, accountability, or practical suggestions. Some combine several approaches depending on the person and situation.
-
-Neither you nor the coach should have to guess what the working relationship might look like.
-
-Use the consultation to ask how the coach approaches sessions and what you can generally expect.
-
-For example, do they help you establish specific goals? Do they expect you to arrive with something you want to discuss? Do they offer suggestions when appropriate, or do they prefer to help you reach your own conclusions?
-
-If you've worked with a coach before, you can also explain what you liked or disliked about that experience.
-
-The important thing is to understand the approach before deciding whether it suits you. If you feel like we have a lot in common regarding the content provided, we'd be able to share some wisdom to one another. I quote Bruce Lee a lot because I admire his personality as much as I admire him as a fighter. As someone who deeply believes in spirituality, I truly believe the human soul is pure. The thing is if someone behaves like a punk while being aware of that, it's a clear sign the soul screams SOS. Bob Marley said in "redemption song" -  “Emancipate yourselves from mental slavery. None but ourselves can free our minds”. So, now what ? After you read it do you really think there's any secret formula which can do magic ? Do you believe in magic? I do but I'm not really sure if I'm supposed to call it magic. Clinical death, Easter Island, The Butterfly Effect, The Egyptian pyramids. Read about it. That's how it's going to work.
+So now what? After reading this, do you think there is a secret formula that does magic? I do believe in a kind of magic, though I am not sure I am supposed to call it that. Maybe it is simply the wonder of being alive. In the end, you do your part.
 
 3\. You should be able to ask questions
 
-A consultation isn't only an opportunity for the coach to learn about you. It's also your opportunity to learn about them.
+A first conversation isn’t only an opportunity for the guide to learn about you. It is also your opportunity to learn about them. You might ask about their experience, training, style, how long conversations last, whether there is a fee, or what kinds of challenges they usually help with. You can also ask what happens if you don’t find it useful.
 
-You might want to ask about their experience, training, coaching style, session length, fees, or the kinds of challenges they typically help people work through.
+Don’t worry about asking too many questions. You are considering trusting someone with matters that are important to you. And pay attention to how they respond. Are they comfortable answering? Do they acknowledge the limits of their experience? Do they explain things clearly, or leave you more confused than before?
 
-You can also ask what happens if you don't find the sessions useful or decide that coaching isn't what you need.
+There are questions that remain difficult to answer. Who wrote the Bible? Tradition says Moses wrote part of it, but nobody really knows for sure. I won’t be able to answer everything, and anyone who says they can probably lies.
 
-Don't worry about asking too many questions. You're considering paying someone to work with you on aspects of your life that matter to you. It's reasonable to want to understand what you're agreeing to.
+For example, Genesis 8:21 says that the inclination of man’s heart is evil from his youth. That seems to contradict what I wrote earlier, that the human soul is pure when it is born. Maybe both are true: pure at birth, and then something gets messed up along the journey, for every person. Life pulls us toward anger and desire, and everyone goes through it. A good guide can hold a contradiction like this without pretending it is solved.
 
-And pay attention to how the coach responds.
+4\. Know what it costs before you begin
 
-Are they comfortable answering? Do they acknowledge the limits of their experience? Are they willing to explain things clearly, or do their answers leave you more confused than before?
+This is worth clarifying before you reach out. A first conversation shouldn’t come with a surprise charge. Different guides have different arrangements, so check what is included, and whether there are conditions. Also understand the difference between an introductory conversation and a full session: it is shorter, and mainly meant to discuss your needs and decide whether to continue.
 
-You don't need to agree with everything a coach says during the consultation. You're trying to work out whether you could have an honest and productive conversation with this person. There are some questions that remain difficult to answer. The Bible was written by who? They say Mozes wrote a part of it but nobody really knows. I won't be able to provide answers to everything. The one who says that he has that ability probably lies. There's a verse of Genesis 8:21  in the Bible says: "in two of the most widely read English translations: "And the Lord smelled a sweet savour; and the Lord said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done." "And when the Lord smelled the pleasing aroma, the Lord said in his heart, “I will never again curse the ground because of man, for the intention of man's heart is evil from his youth. Neither will I ever again strike down every living creature as I have done." But wait, it contradicts what I mentioned earlier, right? Yes. I wrote that the human soul is pure when it is being given birth. So...  the thing is it's true but something during the journey is messed up for every person. And then what? you're usually dragged to violence and the need for sex. It affects you. Every person went it through. After the Great Flood, the Lord granted several major permissions and structural changes to humanity. While Genesis 8 outlines what God decided in His heart (promising never again to destroy all living creatures or completely disrupt the seasons), Genesis 9 explicitly outlines what God permitted and commanded Noah and his sons as they restarted humanity:
+If a paid arrangement is offered, ask about the total cost, how payment works, the cancellation terms, and whether you need to commit to more than one conversation. You shouldn’t discover those details after you have already agreed.
 
-Permission to Eat Meat
+Money comes and goes. When Bob Marley was asked in an interview whether he was a rich man, he asked what the interviewer meant by rich. Possessions, he said, don’t make you rich, and his richness is life, forever. According to spirituality, you become truly rich when you obtain something that money can’t buy, perhaps true love. I am against a society that worships money, materials, screen time, showing off and fast food.
 
-For the first time in the Biblical narrative, humans were permitted to eat animals. In the Garden of Eden, humanity was originally given a vegetarian diet (Genesis 1:29). After the flood, God expanded their diet.
+When I was a kid I admired educated people. Now I realize that well-mannered people are better than well-educated ones. Things change.
 
-4\. Is the consultation actually free?
+Whatever the arrangement, I will state it clearly before you send a question or pay anything.
 
-This is worth clarifying before you book.
+5\. Will the guide try to sell you something?
 
-A free consultation should not come with a surprise charge simply for having the conversation. However, coaches may have different arrangements, so check what is included and whether there are any conditions.
+Be realistic: guidance is a service, and many people charge for it. There is nothing wrong with explaining their services. The problem is when selling becomes more important than helping you make an informed decision.
 
-You should also understand the difference between an introductory conversation and a full coaching session.
+A guide who explains their options and answers questions about cost is one thing. A guide who says you must sign up immediately, makes you feel guilty for hesitating, or suggests you are not serious about growth unless you pay is another. You should be allowed to consider your options, and to say no. Take the information away and decide when you are ready.
 
-A consultation may be shorter and intended mainly to discuss your needs, explain the coach's approach, and decide whether to work together. It may not involve the kind of detailed work that takes place during a regular session.
+When I was young I took private guitar lessons with a one-on-one tutor. YouTube can teach almost anything, so why did I do it? One reason is a line often attributed to Bruce Lee: the most dangerous person is the one who listens, thinks and observes. I paid a lot for every lesson and didn’t care about the money. Music, for me, is a special kind of therapy, a way of expressing yourself, similar to what Bruce Lee said about fighting. When I was in Japan, I paid a lot to someone who taught me to master nunchaku, even though it was very expensive for me.
 
-Neither arrangement is necessarily better. The point is to know what you're booking.
+What I am trying to say is that I don’t underestimate someone with budget issues. But I truly think that if something is important enough, you invest money and time. And maturity includes accepting “no” as a reasonable answer.
 
-If the coach offers a paid package, ask about the total cost, payment arrangements, cancellation terms, and whether you need to commit to multiple sessions.
+6\. You don’t have to tell everything
 
-You shouldn't have to discover those details after you've already agreed to work together. The thing is, if I do it for free, you won't take it seriously. For me, I'd give everything I possess to absorb what the people I admire so much could teach me in a one on one session. Money comes and goes. When Bob Marley was asked "are you a rich man", his response was: "when you say rich what do you mean? " so he was given it even clearly "do you have a lot of possessions? a lot of  money in the bank?" he responded calmly"possessions make you rich? I don't have this type of richness, my richness is life, forever". I'm against the society which worships money, materials, screen time, show off, fast food, drugs, aggressive people, crazy people... etc. According to spirituality you'll become real rich when you obtain something which can't be bought by money (maybe true love). I'm here to make it clearer. And one more thing: When I was a kid I used to admire educated people. But now I realized well mannered people are better than well educated ones. So things change. Anyway... stay away from me if you disagree.
+Because these conversations can involve personal subjects, you might feel you need to be completely open from the very first message. You don’t. You can explain enough to help the person understand what you are looking for, without sharing anything you are uncomfortable discussing.
 
-5\. Will the coach try to sell you something?
+Trust takes time. A good guide respects your boundaries instead of pressuring you to disclose more than you want to. You should also feel comfortable asking how your information is handled. The goal is to find out whether working together might make sense, not to prove how much you are willing to reveal to a stranger. Respect your privacy: not everyone deserves access to everything about you.
 
-Let's be realistic. Life coaching is a service, and coaches charge money for their work. There is nothing inherently wrong with explaining their services or inviting someone to become a client.
+7\. What if the guide isn’t right for you?
 
-The problem is when selling becomes more important than helping someone make an informed decision.
+Not every guide is right for every person. You might prefer a more direct approach. You might need someone with experience in a particular field. Or you might realize that what you need would be better addressed by a therapist or another qualified professional.
 
-For example, a coach might explain their available packages, describe how sessions work, and answer questions about the cost. That's different from telling you that you must sign up immediately, making you feel guilty for hesitating, or suggesting that you're not serious about personal growth unless you pay.
+That doesn’t mean the conversation was a waste of time. Finding out before spending money that someone isn’t the right fit can be a very useful result. A responsible guide acknowledges when your needs fall outside their expertise, and doesn’t try to convince you that guidance is the answer to every problem. If you decide not to continue, you don’t need an elaborate explanation: thank them and say you have decided not to proceed. The same applies if the guide decides they aren’t the right person to help.
 
-You should be allowed to consider your options.
+In the film Kill Bill Vol. 2, the main character is trained hard before an upcoming battle. In one scene her hands are shaking and she can’t hold the chopsticks. After a few tries she decides it would be easier to eat like a dog. Her master notices, takes the bowl of rice and throws it away, telling her to respect the food. Someone being tough with you doesn’t automatically mean they are mean. At the beginning of a soldier’s journey, commanders are harsh not because they don’t care, but because they want the ego to be broken. As a kid, when your parents yell at you, it is hard to understand that they do it because they care. Education starts when somebody cares about you.
 
-You should also be allowed to say no.
+One important difference: toughness aimed at your growth is not the same as pressure, humiliation, or being cut off from the people close to you. If a guide does those things, that is not discipline, and you are free to leave.
 
-If a coach offers you a package during the consultation, you don't have to accept it on the spot. Take the information away, think about whether it makes sense for you, and make your decision when you're ready.
-
-A consultation should help you decide, not make the decision for you. When I was young I took some private guitar lessons with a one on one tutor. I always say YouTube can teach you almost everything and anything, so why did I do it? many reasons. One of them was because what Bruce Lee once said “The most dangerous person is the one who listens, thinks and observes”. I paid a lot of money for every session and I came to him but I didn't care about the money. Music for me is like a special therapy. It's a way of expressing yourself (similar to what Bruce Lee said about fighting). When I was in Japan I paid a lot of money to someone who taught me how to master nunchaku (often called nunchucks). Again, I didn't care about the money even though it was very expensive to me. What I'm trying to say is I do not underestimate someone who faces budget issues. But, I truly think that if it is important enough, you invest money and time. One more thing, maturity is a part of accepting no as a reasonable answer.
-
-6\. You don't have to tell the coach everything
-
-Because coaching can involve personal subjects, you might feel that you need to be completely open from the very first conversation.
-
-You don't.
-
-You can explain enough about your situation to help the coach understand what you're looking for without sharing anything you're uncomfortable discussing.
-
-Trust takes time. You don't necessarily know someone well enough to discuss your most personal experiences during a first conversation, and that's perfectly reasonable.
-
-A coach should respect your boundaries rather than pressure you to disclose more than you want to.
-
-You should also feel comfortable asking how your information and personal details will be handled.
-
-The goal is to establish whether working together might make sense, not to prove how much you're willing to reveal to a stranger. In addition, respect your privacy. Not everyone deserves access.
-
-7\. What if the coach isn't right for you?
-
-Not every coach is right for every person.
-
-You might discover that you prefer a more direct approach than the coach offers. You might need someone with experience in a particular field. Or you might realize that the issue you want help with would be better addressed by a therapist or another qualified professional.
-
-That doesn't mean the conversation was a waste of time.
-
-In fact, finding out that someone isn't the right fit before spending money can be a very useful outcome.
-
-A responsible coach should be willing to acknowledge when your needs fall outside their expertise. They shouldn't try to convince you that coaching is the answer to every problem.
-
-If you decide not to continue, you don't need an elaborate explanation. You can simply thank them for the conversation and say that you've decided not to proceed.
-
-The same applies if the coach decides that they aren't the right person to help you.
-
-The point is to find suitable support, not to force a working relationship that doesn't make sense. In the movie "Kill Bill 2" the main actress went to a place to be trained hard before she's facing the battle. There's a scene of her shaking while trying to eat. She couldn't hold the chopsticks. After a few tries she realized it might be easier to eat "like a dog". Her master noticed it, took the bowl with the rice and threw it. He was like "respect the food". If someone is tough with you it's not automatically mean that he's mean. At the beginning of your journey as a soldier your commanders treat you like shit not because they don't love you. They want the ego to be shuttered. As a kid when your parents yell at you, it's hard to understand they do it for your own good because they care about you. It is a part of maturity. Education starts when somebody cares about you. In Japanese before they eat the meal (Gohan - rice) they say "Itadakimasu". For the average person it's easy to explain it's like Bon Appetit, but the truth is they say it in honor of respect. It's like saying we are thankful and grateful for having some food upon our table. In other words = learn to appreciate the basics. If you can't, life can teach you the hard way. Another thing related to their culture is bowing while saying Konochiwa(hello) and leaving the shoes behind the door when they enter home. Regarding the "sense” issue, there are some people who can break rocks, how could it be? When China and Japan were fighting each other for the first time, Japan managed to beat China, to annex Taiwan, Korea and parts of China  (1894–1895 war). But it makes no sense, right? How could it be? "If you think a thing is impossible, you'll only make it impossible  - Bruce Lee.
+In Japan, before a meal, people say “Itadakimasu.” For the average person it is easy to translate it as bon appétit, but it is really said out of respect and gratitude for the food on the table. Learn to appreciate the basics. If you can’t, life can teach you the hard way. A line often attributed to Bruce Lee says that if you think something is impossible, you make it impossible.
 
 8\. What should you feel after the conversation?
 
-There is no single feeling that proves a consultation went well.
-
-You might feel relieved because you've finally explained something that's been bothering you. You might feel curious about what coaching could help you explore. You might also leave with a few things to think about before making a decision.
-
-You don't need to feel inspired, excited, or completely certain that you've found the right person.
+There is no single feeling that proves it went well. You might feel relieved because you finally explained something that has been bothering you. You might feel curious. You might leave with a few things to think about. You don’t need to feel inspired or completely certain.
 
 Instead, consider a few practical questions:
 
-Did I have the opportunity to explain what I was looking for?
+• Did I have the opportunity to explain what I was looking for?
 
-Do I understand how this coach works?
+• Do I understand how this guide works?
 
-Were my questions answered clearly?
+• Were my questions answered clearly?
 
-Did I feel comfortable expressing doubts or disagreeing?
+• Did I feel comfortable expressing doubts or disagreeing?
 
-Do I understand the costs and expectations?
+• Do I understand the costs and expectations?
 
-Do I feel free to decide whether I want to continue?
+• Do I feel free to decide whether I want to continue?
 
-If you can answer these questions, you'll have a better basis for making your decision than if you simply judge the consultation by how enthusiastic you felt during the call. Progress takes time. There's a song that goes ": "sometimes I lay under the moon and thank god I'm breathin'. And I pray don't take me soon cause I am here for a reason. Sometimes in my tears I drown, but I never let it get me down. So when negativity surrounds, I know some day it'll all turn around because all my life I've been waiting for, I've been praying for, for the people to say, that we don't wanna fight no more and we don't want wars, and our children will play". After the conversation I wish these words to resonate in every person's mind. When it's about true love, sometimes we make it complicated instead of realizing how easy it really is. You can summon the good by being good as simple as that(some call it Karma). Magic moments are created by the atmosphere. Small physics changes can lead to a Horicon somewhere(the butterfly effect). And in the end of the day you can say here I am. Now I'm ready. I'm ready to make this world a better place because I am only a visitor upon this planet.  "cause I am here for a reason" = vocation. God sent you here for a reason. Have fate in it.
+If you can answer these, you will have a better basis for deciding than if you judge the conversation by how enthusiastic you felt. Progress takes time.
 
-9\. You don't have to decide immediately
+There is a song I love about lying under the moon, thanking God for breathing, and praying for a world where people stop fighting wars and children can play. After a conversation like this, I wish those words to resonate in every person’s mind. When it comes to true love, we sometimes make it complicated instead of noticing how simple it is. You can summon the good by being good, and some call it karma. Magic moments are created by the atmosphere, and small changes can lead to big ones somewhere else, which is the idea of the butterfly effect.
 
-Sometimes you'll finish a consultation and know that you'd like to continue. Other times, you'll need to think about it.
+And at the end of the day you can say: here I am, and I am ready to make this world a better place, because I am only a visitor on this planet. God sent you here for a reason, and that is your vocation. Have faith in it.
 
-You might want to compare a few coaches, check your budget, or consider whether this is the right time to start.
+9\. You don’t have to decide immediately
 
-You might even decide that you don't need coaching right now.
+Sometimes you will finish a conversation and know you would like to continue. Other times you will need to think about it. You might want to compare a few options, check your budget, or consider whether this is the right time. You might even decide that you don’t need guidance right now. All of these are reasonable outcomes. Starting a conversation is simply a way to gather information, and you are allowed to change your mind.
 
-All of these are reasonable outcomes.
+If you do decide to continue, make sure you understand the arrangement before committing: what you are paying for, what the expectations are, and how you can end it if it isn’t working. It is always good to do comprehensive research before jumping to conclusions.
 
-It's easy to assume that once you've booked a consultation, you should be moving toward becoming a paying client. But booking a conversation is simply a way to gather information.
+People make wrong decisions about relationships, marriage and more. Why does it happen? Erosion. They say nothing lasts forever. I wanted to roam the planet, a global wanderer, and I noticed something that means a lot to me: the word simplicity. In places in the far east, in what we call third world countries, the way local people choose to live was inspiring to me, and I was shocked to see it with my own eyes. The thing is, you wish to be inspired again, but you are already used to it, and it is hard to inspire you again. As the years roll by, you realize how hard it is to maintain passion.
 
-You are allowed to change your mind.
+So is everything meaningless? According to Ecclesiastes, yes. But here is the punchline: it is not really a bad thing. You just understand how small you are, and that not everything is about you. It makes you selfless.
 
-And if you do decide to continue, make sure you understand the arrangement before committing. Know what you're paying for, what the expectations are, and how you can end the relationship if it isn't working for you. It's always good to do a comprehensive research before jumping into conclusions. There's a song that goes: "It's not time to make a change; just relax, take it easy. You're still young, that's your fault, there's so much you have to know. Find a girl, settle down, if you want you can marry. Look at me; I am old, but I'm happy. People make wrong decisions about relationships, marriage,  etc.... Why does it happen ? erosion. They say nothing lasts forever. For me, I wanted to go out to roam the planet (global wanderer). I noticed something which means a lot to me, the word "simplicity". There are places located in the far east (third world countries). The way the local people choose to live was inspiring to me. I was shocked to watch this with my own eyes.  The thing is you wish to be inspired again but you are already used and it's hard to inspire you again. When the years keep rolling, you realize how tough it really is to maintain passion. So everything is meaningless? according to Ecclesiastes yes. But here is the punchline: it's not really a bad thing. You just understand how small you really are and that not everything is about you. It makes you selfless.
+10\. What I think a first conversation should accomplish
 
-10\. What I think a consultation should accomplish
+For me, the purpose of an introductory exchange is straightforward. We should have a chance to understand what you are looking for, discuss how I approach things, and see whether it makes sense to continue.
 
-For me, the purpose of an introductory conversation is straightforward.
+I don’t expect you to arrive with all the answers. You might know exactly what you want to work on, or you might still be trying to understand what is bothering you. Either way, we can start by talking about your situation. I will also want you to understand my approach and ask about how I work. And if I don’t think I am the right person to help, that is something we should be able to discuss honestly.
 
-We should have a chance to understand what you're looking for, discuss how I approach coaching, and see whether working together makes sense.
+I don’t believe every person needs a guide, and I don’t think every person who contacts me should automatically become someone I advise. The decision should make sense for both of us.
 
-I don't expect you to arrive with all the answers. You might know exactly what you want to work on, or you might still be trying to understand what's bothering you. Either way, we can start by discussing your situation and what you hope to get out of coaching.
+When someone asks me whether the way he is dressed looks good, I answer that what I think doesn’t really matter, what you think matters. Don’t rely on other people’s opinions to be approved when it comes to something like fashion. Be able to navigate yourself. I always emphasize the individual side: people are different.
 
-I'll also want you to understand my approach and have the opportunity to ask questions about how I work.
+A line often attributed to Bruce Lee says that a wise man can learn more from a foolish question than a fool can learn from a wise answer. Wisdom isn’t only about the quality of the information we receive, but about our willingness to understand it. A curious person can find value in an imperfect question, while an arrogant person can reject even the clearest answer. The journey means as much to me as the final result.
 
-And if I don't think I'm the right person to help with what you're dealing with, that's something we should be able to discuss honestly.
+So, should you start a conversation with a guide?
 
-I don't believe every person needs a life coach, and I don't think every person who contacts me should automatically become a client.
+If you are curious but unsure whether guidance is right for you, a first conversation can be a useful place to start. You can explain what you are looking for, learn about the person’s approach, ask questions, and decide whether to take things further. You don’t need to have everything figured out beforehand, and you shouldn’t feel obligated to buy anything because you have had a conversation.
 
-The decision should make sense for both of us. When someone asks me about my opinion if the way he's dressed looks good, I answer: it doesn't really matter what I think, what you think matters(but probably I'd recommend being dressed modestly also). Don't rely on other opinions to be approved when it's about fission for example. Be able to navigate yourself generally. I always say and emphasize the huge essence of the individual side (people are different - Bruce Lee) “A wise man can learn more from a foolish question than a fool can learn from a wise answer.” Bruce Lee.
+If you would like to talk with me, you are welcome to send a question and tell me what is on your mind. I will explain how I approach things, and you will have the opportunity to ask questions before deciding whether you would like to continue. There is no need to arrive with a perfect plan or a list of goals.
 
-Wisdom is not determined only by the quality of the information we receive, but by our willingness to understand it. A curious person can discover valuable lessons in an imperfect question, while an arrogant person may reject even the clearest answer. The ability to learn depends as much on humility as it does on intelligence. What does willingness really mean? The journey means a lot to me, not less than the final result. That's what it means to me. If you want to say mission accomplished, just think about it and think about what Bruce Lee said.
+The purpose isn’t to convince you that you need guidance. It is to help us work out whether it makes sense for you.
 
-So, should you book a free life coaching consultation?
+A line often attributed to Bruce Lee says that it is easy to criticize others, but knowing yourself takes a lifetime, and that all knowledge ultimately means self-knowledge.
 
-If you're curious about coaching but unsure whether it's right for you, a consultation can be a useful place to start.
-
-You can explain what you're looking for, learn about the coach's approach, ask questions, and decide whether you want to take things further.
-
-You don't need to have everything figured out beforehand, and you shouldn't feel obligated to buy a package simply because you've had a conversation.
-
-If you're considering working with me, you're welcome to book a free introductory conversation. We can discuss what you're looking for, I'll explain how I approach coaching, and you'll have the opportunity to ask questions before deciding whether you'd like to continue.
-
-There is no need to arrive with a perfect plan or a list of goals. Just come prepared to talk about what's on your mind.
-
-The purpose isn't to convince you that you need coaching.
-
-It's to help us work out whether coaching with me makes sense for you. “For it is easy to criticize and break down the spirit of others, but to know yourself takes a lifetime. “All knowledge ultimately means self-knowledge”. Bruce Lee.
+Send a question
