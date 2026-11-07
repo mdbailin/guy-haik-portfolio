@@ -176,6 +176,5 @@ If you would like to ask, [send a question](https://docs.google.com/forms/d/e/1F
    - Benjamin Franklin, Poor Richard’s Almanack (1746). See [The Franklin Institute](https://fi.edu/benjamin-franklin/famous-quotes).
    - James Russell Lowell, “For an Autograph.”
    - Bruce Lee’s “always be yourself” philosophy appears on [brucelee.com](https://brucelee.com/philosophies).
-   - Bob Marley’s remark about richness is reported as coming from a 1979 interview on the Australian TV program 60 Minutes. See [Wikiquote: Bob Marley](https://en.wikiquote.org/wiki/Bob_Marley).
    - The slogan “What happens in Vegas stays in Vegas” comes from a 2003 Las Vegas campaign. See [Wikipedia](https://en.wikipedia.org/wiki/What_Happens_Here,_Stays_Here).
    - Master Oogway’s lesson about an agitated mind is from the film Kung Fu Panda (2008).
