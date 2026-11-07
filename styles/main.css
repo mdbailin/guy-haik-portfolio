@@ -1207,3 +1207,14 @@ header.header {
     padding-left: 5%;
   }
 }
+
+
+   .rich-copy p a {
+     text-decoration: underline;
+     text-underline-offset: 3px;
+     text-decoration-thickness: 1px;
+   }
+   .rich-copy p a:hover,
+   .rich-copy p a:focus-visible {
+     text-decoration-thickness: 2px;
+   }
