@@ -118,4 +118,4 @@ You don’t need to believe that guidance is the answer to every problem, and yo
 
 A line often attributed to T. S. Eliot says that only those who risk going too far can find out how far one can go. If that speaks to you, you are probably headed in the right direction. And Bruce Lee said to empty your mind and be formless and shapeless, like water. People say he became so wise partly because he read philosophy. Before starting any process, you have to find it interesting enough to proceed.
 
-If you have a question, you are welcome to send it.
+If you have a question, you are welcome to send it. 
