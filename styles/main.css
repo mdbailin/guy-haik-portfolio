@@ -1222,3 +1222,8 @@ header.header {
      display: none;
    }
 
+
+
+.post-header {
+  padding-top: 120px;
+}
