@@ -1,6 +1,6 @@
 ---
 title: 'Do You Need a Spiritual Guide? Seven Situations Where Guidance Helps, and Where It Doesn’t'
-slug: life-coaching-worth-it
+slug: 'Do-You-Need-a-Spiritual-Guide?-Seven-Situations-Where-Guidance-Helps,-and-Where-It-Doesn’t'
 summary: 'Not everyone needs a guide. Here are seven situations where spiritual guidance can help, where it can’t, and how to tell the difference.'
 author: Guy David Haik
 publishedAt: 2026-09-05T00:00:00.000Z
@@ -12,10 +12,6 @@ tags:
   - ' Choosing a Guide '
 ---
 
-Do You Need a Spiritual Guide? Seven Situations Where Guidance Helps, and Where It Doesn’t
-
-By Guy Haik
-
 If you are looking for guidance, you may have already asked yourself one simple question: do I actually need someone to guide me?
 
 It is a fair question. There are plenty of people offering guidance today, from teachers and mentors to coaches and online gurus. Some ask for little, while others charge hundreds of dollars a session or sell packages worth thousands. And when you are about to invest your time, trust or money, you don’t just want a nice conversation. You want to know whether it will actually help.
@@ -24,7 +20,7 @@ The honest answer is that guidance isn’t for everyone. It depends on the quest
 
 Here are seven situations where guidance may, or may not, be worth seeking.
 
-1\. You Know You Want a Change, but Not What Comes Next
+## 1. You Know You Want a Change, but Not What Comes Next
 
 This is one situation where guidance can be useful. You may know that something in your life isn’t working, but you can’t clearly see the next step.
 
@@ -44,7 +40,7 @@ A guide can help you step outside your usual way of thinking, ask questions you 
 
 But there is an important distinction. A guide shouldn’t make every decision for you. There is such a thing as a journey of self-discovery. In the film Into the Wild, the main character went off alone toward Alaska, leaving behind his money and identity documents. I don’t offer that as a model, because his story ended in tragedy. But his point stands: you often have to step out of your comfort zone and discover things yourself. You won’t find hidden gems by following only what is written online. The purpose of guidance is to help you understand your own situation, so that you can make better decisions yourself.
 
-2\. You Keep Thinking About Changing, but Never Take Action
+## 2. You Keep Thinking About Changing, but Never Take Action
 
 Have you ever known exactly what you should do, and still didn’t do it? You tell yourself you will start tomorrow, make a plan, feel motivated, and a few days later nothing has changed. Then the cycle begins again.
 
@@ -54,7 +50,7 @@ A guide can’t take the action for you, but having someone who follows up can m
 
 People today are so distracted that they miss these things. How often do you tell someone you love that the world is brighter with them in it? Don’t assume it is obvious. It is human nature to appreciate something only after losing it. If you need help not falling into that trap, that is completely fine. You are not the only one.
 
-3\. You Are Going Through a Major Life Decision
+## 3. You Are Going Through a Major Life Decision
 
 Some decisions are difficult because there is no obvious right answer. Should I stay in my career? Should I move somewhere else? Should I start something of my own? Should I continue with a relationship or make a change?
 
@@ -64,7 +60,7 @@ For people who trust in God, it can be easier to accept that the script was alre
 
 And remember that you are a product of your environment. Surround yourself with good people, educated people, and, most importantly, well-mannered people.
 
-4\. You Want Someone to Challenge Your Thinking
+## 4. You Want Someone to Challenge Your Thinking
 
 Sometimes we don’t need more information. We need someone to challenge how we are thinking. We become very good at explaining why we can’t: “I don’t have enough experience.” “It’s too late.” “I don’t have enough money.” “I’ll start when things settle down.” Some of these may be true, but some are assumptions we have repeated so often that they feel like facts.
 
@@ -74,7 +70,7 @@ Have you ever asked why some people turn to alcohol or drugs? Often it is escape
 
 In The Lion King there is a scene where Rafiki and Simba talk about exactly this. Simba says he knows what he has to do, but going back means facing the past he has run from for so long. Rafiki hits him with a stick, and when Simba complains that it hurts, Rafiki answers that the past can hurt, and you can either run from it or learn from it. Simba takes the stick and goes back.
 
-5\. You Already Know What You Need to Do
+## 5. You Already Know What You Need to Do
 
 This might sound strange, but guidance may not be necessary. If you know what you want, have a realistic plan and are consistently taking action, you may not need anyone to tell you what you already know. Sometimes the best investment is simply doing the work.
 
@@ -82,13 +78,13 @@ A guide shouldn’t create dependency. If every decision requires another conver
 
 In the anime Naruto there is a scene where Kakashi ties Sasuke up so that he won’t do anything foolish while seeking revenge. Kakashi tells him that revenge never ends well and only leaves emptiness. Sasuke shouts back that Kakashi can’t understand, and that maybe he would if Sasuke took everyone important from him. Kakashi quietly answers that he is too late for that, because those people are already gone. Kakashi acts more like a mentor than a teacher or instructor. The point is: don’t let anger control you, and learn to be alone and independent.
 
-6\. You’re Looking for Someone to “Fix” Your Life
+## 6. You’re Looking for Someone to “Fix” Your Life
 
 This is probably a situation where guidance isn’t worth it. No one can fix your life for you. They can’t make your decisions, control other people, or guarantee that you will get the job you want or that your relationship will work. And they can’t promise that you will become a different person in a few weeks.
 
 If someone sells guidance as guaranteed transformation, be cautious. A good guide can offer support, structure, perspective and a place to think honestly. But you still have to do the work. Bob Marley’s Redemption Song says as much: nobody but ourselves can free our minds.
 
-7\. You’re Dealing With a Problem That Needs a Different Professional
+## 7. You’re Dealing With a Problem That Needs a Different Professional
 
 This is an important boundary. Spiritual guidance is not therapy, medical care or financial advice. If someone is experiencing serious mental health difficulties, a qualified mental health professional is the right person. If you are in crisis, please contact local emergency services or a crisis line. A responsible guide can recognize the limits of what guidance can provide.
 
