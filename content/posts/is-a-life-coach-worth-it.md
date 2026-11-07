@@ -125,5 +125,4 @@ T. S. Eliot wrote, in his 1931 preface to Harry Crosby’s Transit of Venus, tha
    - Oliver Goldsmith, The Citizen of the World (1760s). See [Quote Investigator](https://quoteinvestigator.com/2014/05/27/rising/).
    - T. S. Eliot, preface to Harry Crosby, Transit of Venus (1931). See [the preface](https://gwern.net/doc/fiction/criticism/1931-eliot.pdf).
    - The films, anime and songs mentioned are The Lion King, Naruto, Kill Bill: Vol. 2, Star Wars, Dragon Ball Z, Into the Wild and the Beatles’ Let It Be.
-(https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform).
-If you have a question, you are welcome to [send it]
+If you have a question, you are welcome to [send it](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform).
