@@ -1,5 +1,5 @@
 ---
-title: Is a Life Coach Worth It?
+title: 'Do You Need a Spiritual Guide? Seven Situations Where Guidance Helps, and Where It Doesn’t'
 slug: life-coaching-worth-it
 summary: 'Not everyone needs a guide. Here are seven situations where spiritual guidance can help, where it can’t, and how to tell the difference.'
 author: Guy David Haik
@@ -122,4 +122,4 @@ You don’t need to believe that guidance is the answer to every problem, and yo
 
 A line often attributed to T. S. Eliot says that only those who risk going too far can find out how far one can go. If that speaks to you, you are probably headed in the right direction. And Bruce Lee said to empty your mind and be formless and shapeless, like water. People say he became so wise partly because he read philosophy. Before starting any process, you have to find it interesting enough to proceed.
 
-If you have a question, you are welcome to send it. 
+If you have a question, you are welcome to send it.
