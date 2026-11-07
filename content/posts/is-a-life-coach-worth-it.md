@@ -1,6 +1,6 @@
 ---
 title: Do You Need a Spiritual Guide? Seven Situations Where Guidance Helps and Where It Doesn’t
-slug: '   is-a-life-coach-worth-it'
+slug: is-a-life-coach-worth-it
 summary: 'Not everyone needs a guide. Here are seven situations where spiritual guidance can help, where it can’t, and how to tell the difference.'
 author: Guy David Haik
 publishedAt: 2026-09-05T00:00:00.000Z
