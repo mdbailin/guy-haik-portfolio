@@ -30,7 +30,7 @@ Bob Marley was once asked in an interview whether he had made a lot of money fro
 
 Maybe you are unhappy with your career. A former UFC champion liked to say that he doesn’t fight for money but for legacy. What does that mean? It means having something to leave behind after you are gone, a bit like a kingdom or a dynasty. Ethnic groups, for example, are held together by something shared: a feeling that they belong somewhere, with the same culture, language and vision. In the end, you wish to be where you belong.
 
-Maybe your old goals no longer feel meaningful. Then challenge yourself and push beyond your limits, and wake up your inner child, because children use their imagination more than we do. Bruce Lee is often quoted as saying that if you believe something is impossible, you make it impossible. I don’t need thousands of people who made it. I just need to know that one person did, to realize it can be done.
+Maybe your old goals no longer feel meaningful. Then challenge yourself and push beyond your limits, and wake up your inner child, because children use their imagination more than we do.    Bruce Lee wrote, in notes later published as Striking Thoughts, that if you think a thing is impossible, you will only make it impossible. as saying that if you believe something is impossible, you make it impossible. I don’t need thousands of people who made it. I just need to know that one person did, to realize it can be done.
 
 Maybe you keep going back and forth about a major change. Change is not necessarily bad, and the way we speak to ourselves shapes how we see our life. Sometimes the problem isn’t a lack of motivation but a lack of clarity. You tend to follow the majority instead of the right way, and “listen to your heart” can sound like just a common phrase. But if you can’t express what you feel, it is hard to know what you want. Children express feelings naturally: when they are sad, they cry, and when they are happy, they smile.
 
@@ -56,7 +56,7 @@ Some decisions are difficult because there is no obvious right answer. Should I 
 
 Friends and family can give advice, but they also have their own opinions, experiences and expectations. A guide can offer a different kind of conversation: not telling you what they would do, but helping you understand what you want and why. That is valuable when you feel pulled in several directions.
 
-For people who trust in God, it can be easier to accept that the script was already written, what some call destiny. A current UFC champion often credits God after his fights. The story of Joseph, the eleventh son of Jacob, points the same way: he went through betrayal and prison, and understood much later that it had all happened for a reason. Everything that happens, happens for a reason.
+For people who trust in God, it can be easier to accept that the script was already written, what some call destiny. A UFC champion often credits God after his fights. The story of Joseph, the eleventh son of Jacob, points the same way: he went through betrayal and prison, and understood much later that it had all happened for a reason. Everything that happens, happens for a reason.
 
 And remember that you are a product of your environment. Surround yourself with good people, educated people, and, most importantly, well-mannered people.
 
@@ -96,7 +96,7 @@ There isn’t a universal answer. For one person it could be unnecessary. For an
 
 Start there. What exactly are you struggling with? What would you like to be different? Have you tried to solve it yourself? What is stopping you? And what would meaningful progress look like? If you can’t answer these, you may need more time to understand the problem before asking anyone to help.
 
-But if you know what you are struggling with and want another perspective, some structure, or someone to hold you accountable, guidance may be worth exploring. How will you ever know if you never even try? A line often attributed to Einstein says that a person who never made a mistake never tried anything new. He is also often quoted as saying that if he had an hour to solve a problem, he would spend most of it defining the problem.
+But if you know what you are struggling with and want another perspective, some structure, or someone to hold you accountable, guidance may be worth exploring. How will you ever know if you never even try? There is an old saying that a person who never made a mistake never tried anything new, and that when you face a problem, it pays to spend most of your time defining it.
 
 ## How to Tell If a Guide Is Right for You
 
@@ -104,7 +104,7 @@ Before committing to anything, have a conversation. Explain what you are dealing
 
 Be especially careful with these red flags: demands for obedience, pressure to cut ties with people close to you, large payments, and claims to hold the only truth. You don’t have to choose someone after one conversation. Take your time.
 
-A saying often attributed to Confucius is that our greatest glory is not in never falling, but in rising every time we fall. Even if you can’t tell yet which guide is right for you, you have gained the experience of rising after falling. Move on, let go and leave the past behind, because there is no point in complaining.
+A saying    The writer Oliver Goldsmith put it this way in the 1760s: our greatest glory is not in never falling, but in rising every time we fall. It is often credited to Confucius, but there is no evidence that he said it. is that our greatest glory is not in never falling, but in rising every time we fall. Even if you can’t tell yet which guide is right for you, you have gained the experience of rising after falling. Move on, let go and leave the past behind, because there is no point in complaining.
 
 ## The Real Return on Investment
 
@@ -116,6 +116,13 @@ The result doesn’t have to be dramatic. Progress is still progress. And someti
 
 You don’t need to believe that guidance is the answer to every problem, and you don’t even need to be certain that you need it. If you are curious, start with the question. What are you trying to change? What have you already tried? Where are you stuck? And what kind of help would actually be useful?
 
-A line often attributed to T. S. Eliot says that only those who risk going too far can find out how far one can go. If that speaks to you, you are probably headed in the right direction. And Bruce Lee said to empty your mind and be formless and shapeless, like water. People say he became so wise partly because he read philosophy. Before starting any process, you have to find it interesting enough to proceed.
+A line T. S. Eliot wrote, in his 1931 preface to Harry Crosby’s Transit of Venus, that only those who risk going too far can find out how far one can go. says that only those who risk going too far can find out how far one can go. If that speaks to you, you are probably headed in the right direction. And Bruce Lee said to empty your mind and be formless and shapeless, like water. People say he became so wise partly because he read philosophy. Before starting any process, you have to find it interesting enough to proceed.
+   ## Sources and notes
 
+   - Bob Marley’s remark about richness is reported as coming from a 1979 interview on the Australian TV program 60 Minutes. See [Wikiquote: Bob Marley](https://en.wikiquote.org/wiki/Bob_Marley).
+   - Bruce Lee, “Be formless, shapeless, like water”: The Pierre Berton Show, December 9, 1971. See [Open Culture](https://www.openculture.com/2011/02/bruce_lee_the_lost_tv_interview.html).
+   - Bruce Lee, “If you think a thing is impossible, you’ll only make it impossible”: Striking Thoughts (2000), p. 121.
+   - Oliver Goldsmith, The Citizen of the World (1760s). See [Quote Investigator](https://quoteinvestigator.com/2014/05/27/rising/).
+   - T. S. Eliot, preface to Harry Crosby, Transit of Venus (1931). See [the preface](https://gwern.net/doc/fiction/criticism/1931-eliot.pdf).
+   - The films, anime and songs mentioned are The Lion King, Naruto, Kill Bill: Vol. 2, Star Wars, Dragon Ball Z, Into the Wild and the Beatles’ Let It Be.
 If you have a question, you are welcome to [send it](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform).
