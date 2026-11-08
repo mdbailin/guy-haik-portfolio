@@ -116,7 +116,7 @@ export function initSite(activePage) {
       navLinksHtml = `
         <li><a href="index.html">About</a></li>
         <li><a href="index.html#experience">Approach</a></li>
-        <li><a href="index.html#articles">Notes</a></li>
+        <li><a href="index.html#articles">Articles</a></li>
         <li><a href="videos.html">Videos</a></li>
            <li><a href="booking.html">Contact</a></li>
         <li></li>
