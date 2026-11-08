@@ -12,7 +12,7 @@ async function initBlogPage() {
   // Customize header based on tag
   const defaultConfig = {
     eyebrow: '',
-    title: 'Notes for the inner life',
+    title: 'Articles for the inner life',
     description: 'Perspectives and questions for understanding yourself, meeting uncertainty, and living with greater intention.'
   };
 
