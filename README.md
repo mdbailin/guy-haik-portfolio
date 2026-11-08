@@ -4,13 +4,11 @@ A static portfolio for Guy Haik, ready to deploy on GitHub Pages.
 
 ## Set up Guy's links
 
-Open `scripts/config.js` and add the public values for `booking`, `email`, `linkedin`, and (optionally) YouTube. The résumé link is already set to `Guy Haik CV.pdf`.
+Open `scripts/config.js` and add the public values for `email`, `linkedin`, and (optionally) YouTube.
 
-### WhatsApp booking
+### Questions
 
-The booking page opens a WhatsApp chat with Guy at `+972 54-976-1580`, with a prefilled request for a coaching conversation. Visitors send the message and arrange a time directly with Guy.
-
-Update `links.booking` in `scripts/config.js` to change the number or message. The `wa.me` URL uses the full international number with digits only and a URL-encoded `text` parameter.
+The Contact page links to a Google Form where visitors send written questions. To change the form, update the form link in `booking.html` and `index.html`.
 
 ## Local preview
 

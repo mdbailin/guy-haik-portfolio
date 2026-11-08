@@ -12,9 +12,6 @@ const SITE_CONFIG = {
       "Thoughtful one-on-one conversations for greater clarity, self-understanding, and a more intentional life.",
   },
   links: {
-    resume: "Guy%20Haik%20CV.pdf",
-    // WhatsApp click-to-chat: international phone number, digits only.
-    booking: `https://wa.me/972549761580?text=${encodeURIComponent("Hi Guy, I have a question for you..")}`,
     email: "",
     linkedin: "",
     x: "",
