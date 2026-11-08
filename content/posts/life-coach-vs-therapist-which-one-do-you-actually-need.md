@@ -28,15 +28,15 @@ Depending on their qualifications and where they practice, mental-health profess
 
 A guide focuses on meaning, direction, values and inner life, rather than on treating a condition. People look for one when:
 
-• They are facing a big decision and want another perspective.
+- They are facing a big decision and want another perspective.
 
-• They feel stuck, empty, or unsure what matters to them.
+- They feel stuck, empty, or unsure what matters to them.
 
-• They are going through a major transition.
+- They are going through a major transition.
 
-• They want to understand what they actually want from the next stage of life.
+- They want to understand what they actually want from the next stage of life.
 
-• They want a calmer way of dealing with what happens to them.
+- They want a calmer way of dealing with what happens to them.
 
 A guide can ask questions, offer a perspective, and help you reflect. That doesn’t mean a guide has all the answers. I don’t think they should. A good guide helps you become better at finding your own answers. And to be clear: I am not a therapist.
 
@@ -60,11 +60,11 @@ If you are struggling with your mental health or are in crisis, please contact a
 
 Imagine you say:
 
-• “I know what I value, but I keep drifting away from it.”
+- “I know what I value, but I keep drifting away from it.”
 
-• “I have an idea of what I want to do, but I don’t know how to start.”
+- “I have an idea of what I want to do, but I don’t know how to start.”
 
-• “I made a decision, and I would like to think it through with someone.”
+- “I made a decision, and I would like to think it through with someone.”
 
 Those situations may suit a guide. You may not need someone to treat a problem. You may need someone to help you think clearly and take the next step.
 
@@ -74,13 +74,13 @@ This is probably the hardest situation. You know something isn’t working, but 
 
 In that case, start with the problem rather than the service. Ask yourself:
 
-• What am I actually trying to solve?
+- What am I actually trying to solve?
 
-• Am I struggling with my mental health?
+- Am I struggling with my mental health?
 
-• Am I trying to process something that happened to me?
+- Am I trying to process something that happened to me?
 
-• Or do I know what I want, and I need perspective to move?
+- Or do I know what I want, and I need perspective to move?
 
 The answers can point you in the right direction. And if you still aren’t sure, it is fine to ask a qualified professional. You don’t have to figure everything out by yourself.
 
@@ -112,12 +112,12 @@ Don’t choose a guide just because you think you “should” solve it alone, a
 
 ## Want to ask me something?
 
-If you are unsure whether what you are going through calls for a guide, you don’t have to commit to anything. You are welcome to send me a question and tell me what is on your mind.
+If you are unsure whether what you are going through calls for a guide, you don’t have to commit to anything. You are welcome to [send me a question](https://docs.google.com/forms/d/e/1FAIpQLSfRAXVXx8j0mZgRjkmDYOhasH-iW40R7oyusPYSMs02FRHUDA/viewform) and tell me what is on your mind.
 
 If I think another kind of support would be more appropriate for you, I will tell you that too. The goal isn’t to get you to rely on me. The goal is to figure out what would actually help.
 
 ## Sources and notes
 
-• This article is general information. It is not medical or psychological advice and does not replace a licensed professional. See the disclaimer.
+- This article is general information. It is not medical or psychological advice and does not replace a licensed professional. See the [disclaimer](disclaimer.html).
 
-• Personal experiences described here are my own and are not a recommendation for anyone else.
+- Personal experiences described here are my own and are not a recommendation for anyone else.
