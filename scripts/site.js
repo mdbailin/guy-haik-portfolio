@@ -129,7 +129,7 @@ export function initSite(activePage) {
       <ul class="nav-links">
         ${navLinksHtml}
       </ul>
-<a class="visit-btn" href="https://www.linkedin.com/in/guy-haik-78b298202/" target="_blank" rel="noopener noreferrer">LinkedIn</a>      <i class="fa-solid fa-bars" id="menu-icon"></i>
+<a class="visit-btn" href="${SITE_CONFIG.membership.pageUrl}">${SITE_CONFIG.membership.label}</a>      <i class="fa-solid fa-bars" id="menu-icon"></i>
     `;
     
     // Initialize mobile menu
