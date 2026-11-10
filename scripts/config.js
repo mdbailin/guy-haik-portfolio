@@ -22,8 +22,9 @@ const SITE_CONFIG = {
     branch: "main",
     contentDir: "content/posts",
   },
-  youtube: {
-    channelId: "UCHQpJEqoN-psG7H6IIno9eQ",
+  membership: { label: "Members", pageUrl: "members.html", joinUrl: "", waitlistUrl: "", sampleUrl: "barcelona.html" },
+  youtube: {    
+      channelId: "UCHQpJEqoN-psG7H6IIno9eQ",
     channelUrl: "https://www.youtube.com/@guyhaikthehighlight7523",
   },
 };
