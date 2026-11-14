@@ -34,6 +34,12 @@
       .mb-leaf { display: flex; align-items: baseline; gap: 0.6rem; padding: 0.6rem 0.6rem; border-radius: 10px; color: inherit; text-decoration: none; }
       .mb-leaf span.mb-ico { color: var(--muted); }
       .mb-tag { margin-left: auto; font-size: 0.75rem; font-weight: 500; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0.1rem 0.6rem; white-space: nowrap; }
+      .mb-item { position: relative; }
+      .mb-brief { display: block; margin: -0.25rem 0.6rem 0.5rem 2.5rem; font-size: 0.85rem; line-height: 1.45; color: var(--muted); }
+      @media (hover: hover) and (pointer: fine) and (min-width: 760px) {
+        .mb-brief { position: absolute; left: 2.2rem; bottom: calc(100% - 4px); z-index: 20; width: max-content; max-width: min(21rem, calc(100% - 3rem)); margin: 0; padding: 0.6rem 0.8rem; background: var(--surface-strong, #fff); color: var(--text); border: 1px solid var(--line-strong, var(--line)); border-radius: 12px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12); opacity: 0; visibility: hidden; transform: translateY(4px); transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s; pointer-events: none; }
+        .mb-item:hover .mb-brief, .mb-item:focus-within .mb-brief { opacity: 1; visibility: visible; transform: none; }
+      }
       .mb-note { margin: 0.2rem 0.6rem 0.6rem 1.6rem; font-size: 0.9rem; color: var(--muted); }
       .mb-soon { color: var(--muted); }
       .mb-cta { text-align: center; margin: 2rem 0 3rem; }
@@ -68,7 +74,10 @@
                 <details open>
                   <summary><i class="fa-solid fa-chevron-right mb-arrow"></i><i class="fa-regular fa-folder-open mb-ico"></i>Barcelona</summary>
                   <div class="mb-kids">
-                    <a class="mb-leaf" href="barcelona.html" data-sample-link><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Travel diary, Friday to Monday<span class="mb-tag">Free sample</span></a>
+                    <div class="mb-item">
+                      <a class="mb-leaf" aria-describedby="brief-barcelona" href="barcelona.html" data-sample-link><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Travel diary, Friday to Monday<span class="mb-tag">Free sample</span></a>
+                      <span class="mb-brief" id="brief-barcelona">A long weekend in Barcelona in December 2016: the Sagrada Família, Montjuïc, El Clásico at Camp Nou and a day trip to Vall de Núria.</span>
+                    </div>
                   </div>
                 </details>
                 <details open>
@@ -77,23 +86,50 @@
                     <details open>
                       <summary><i class="fa-solid fa-chevron-right mb-arrow"></i><i class="fa-regular fa-folder-open mb-ico"></i>Peru</summary>
                       <div class="mb-kids">
-                        <a class="mb-leaf" href="peru-lima.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Lima<span class="mb-tag">Free sample</span></a>
+                        <div class="mb-item">
+                          <a class="mb-leaf" aria-describedby="brief-peru-lima" href="peru-lima.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Lima<span class="mb-tag">Free sample</span></a>
+                          <span class="mb-brief" id="brief-peru-lima">How I packed for six months, landing on September 19, a stadium concert, and the places people recommended that I did not visit.</span>
+                        </div>
                         <details open>
                           <summary><i class="fa-solid fa-chevron-right mb-arrow"></i><i class="fa-regular fa-folder-open mb-ico"></i>Huaraz</summary>
                           <div class="mb-kids">
-                            <a class="mb-leaf" href="peru-huaraz.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Huaraz<span class="mb-tag">New</span></a>
-                            <a class="mb-leaf" href="peru-pastoruri.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Pastoruri Glacier<span class="mb-tag">New</span></a>
-                            <a class="mb-leaf" href="peru-laguna-paron.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Laguna Parón<span class="mb-tag">New</span></a>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-huaraz" href="peru-huaraz.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Huaraz<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-huaraz">The night bus from Lima, where to stay, why people come here (the Huayhuash trek), agencies, and what I would do differently.</span>
+                            </div>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-pastoruri" href="peru-pastoruri.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Pastoruri Glacier<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-pastoruri">A day trip to the glacier, with prices and access in a dated box, a note on how much ice is left, and what I would do differently.</span>
+                            </div>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-laguna-paron" href="peru-laguna-paron.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Laguna Parón<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-laguna-paron">A hike to the lake near Huaraz with my photos and video, the access situation in a dated box, and what I would do differently.</span>
+                            </div>
                           </div>
                         </details>
-                        <a class="mb-leaf" href="peru-ica.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Ica and Huacachina<span class="mb-tag">Free sample</span></a>
+                        <div class="mb-item">
+                          <a class="mb-leaf" aria-describedby="brief-peru-ica" href="peru-ica.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Ica and Huacachina<span class="mb-tag">Free sample</span></a>
+                          <span class="mb-brief" id="brief-peru-ica">Dune buggy and sandboarding in the dunes, dated safety news from 2025 and 2026, and what I would do differently.</span>
+                        </div>
                         <details open>
                           <summary><i class="fa-solid fa-chevron-right mb-arrow"></i><i class="fa-regular fa-folder-open mb-ico"></i>Cusco region</summary>
                           <div class="mb-kids">
-                            <a class="mb-leaf" href="peru-cusco.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Cusco<span class="mb-tag">New</span></a>
-                            <a class="mb-leaf" href="peru-inca-jungle.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Inca Jungle and Aguas Calientes<span class="mb-tag">New</span></a>
-                            <a class="mb-leaf" href="peru-machu-picchu.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Machu Picchu<span class="mb-tag">New</span></a>
-                            <a class="mb-leaf" href="peru-ausangate.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Ausangate Seven Lakes<span class="mb-tag">New</span></a>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-cusco" href="peru-cusco.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Cusco<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-cusco">The altitude, hostels, a market, the White Christ viewpoint, a World Cup qualifier in the plaza and a Tarzan swing.</span>
+                            </div>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-inca-jungle" href="peru-inca-jungle.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Inca Jungle and Aguas Calientes<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-inca-jungle">The alternative route to Machu Picchu: cycling, rafting, a zipline course and walking, ending with an evening in Aguas Calientes.</span>
+                            </div>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-machu-picchu" href="peru-machu-picchu.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Machu Picchu<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-machu-picchu">Walking up at dawn, fog and llamas, a climb up one of the mountains beside the ruins, with research boxes on tickets, rules and the walk.</span>
+                            </div>
+                            <div class="mb-item">
+                              <a class="mb-leaf" aria-describedby="brief-peru-ausangate" href="peru-ausangate.html"><span class="mb-ico"><i class="fa-regular fa-file-lines"></i></span>Ausangate Seven Lakes<span class="mb-tag">New</span></a>
+                              <span class="mb-brief" id="brief-peru-ausangate">A day among glacier lakes near Ausangate, from a high valley to a hot spring, with notes on route, season and cost.</span>
+                            </div>
                           </div>
                         </details>
                       </div>
