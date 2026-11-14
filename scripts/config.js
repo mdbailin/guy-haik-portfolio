@@ -22,7 +22,7 @@ const SITE_CONFIG = {
     branch: "main",
     contentDir: "content/posts",
   },
-  membership: { label: "Members", pageUrl: "members.html", joinUrl: "", waitlistUrl: "", sampleUrl: "barcelona.html" },
+  membership: { label: "Members", pageUrl: "members.html", joinUrl: "", waitlistUrl: "https://guy-haik.kit.com/4e8175f845", sampleUrl: "barcelona.html" },
   youtube: {    
       channelId: "UCHQpJEqoN-psG7H6IIno9eQ",
     channelUrl: "https://www.youtube.com/@guyhaikthehighlight7523",
